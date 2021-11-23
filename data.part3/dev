@@ -1,0 +1,677 @@
+hotel ( hotel-name = finches bed and breakfast ; hotel-type = guesthouse )	i have one guesthouse that fits that criteria , finches bed and breakfast . would you like me to book for you ?
+restaurant ( restaurant-name = eraina ; restaurant-food = european )	okay , i can book your table at eraina . they serve european food . how many in your party , what day and time please ?
+restaurant ( restaurant-name = bedouin ; restaurant-area = centre ; restaurant-food = african ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	the bedouin in the city centre is an expensive african restaurant . would you like me to book it for you ?
+attraction ( attraction-name = castle galleries )	you may want to try castle galleries .
+hotel ( hotel-name = express by holiday inn cambridge )	i have the express by holiday inn cambridge . would you like me to book it for you ?
+restaurant ( restaurant-name = midsummer house restaurant ; restaurant-food = british )	midsummer house restaurant serves british food . would you like me to book you a table ?
+hotel ( hotel-name = doubletree by hilton cambridge )	doubletree by hilton cambridge granta place mill lane is the address
+hotel ( hotel-name = university arms hotel )	yes , i recommend the university arms hotel . would you like ma to make a reservation for you ?
+restaurant ( restaurant-name = darrys cookhouse and wine shop )	how about darrys cookhouse and wine shop ?
+hotel ( hotel-name = rosa's )	sorry about that , actually rosa's bed and breakfast fits that criteria .
+taxi ( taxi-departure = rosa's )	will be be getting picked up from rosa's bed and breakfast ?
+restaurant ( restaurant-name = grafton hotel restaurant ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	i have a expensive restaurant named grafton hotel restaurant . would you like reservations for that place ?
+restaurant ( restaurant-name = saigon city ; restaurant-area = north ; restaurant-pricerange = expensive )	i have one that is called saigon city . it's more expensive and located in the north . can i make a reservation for you ?
+hotel ( hotel-name = acorn guest house )	the acorn guest house seems to fit those requirements ? what day would you like to check in ?
+restaurant ( restaurant-name = golden wok ; restaurant-address = 191 histon road chesterton ; restaurant-food = chinese ; restaurant-type = restaurant )	okay , i'd recommend golden wok . it's a lovely chinese restaurant at 191 histon road chesterton . would that work for you ?
+restaurant ( restaurant-name = la tasca ; restaurant-area = centre ; restaurant-type = restaurant )	yes , there is a restaurant named la tasca located in the centre on 14-16 bridge street . would you like me to book a reservation for you ?
+restaurant ( restaurant-name = curry king ; restaurant-food = indian )	i have 6 different indian restaurants . might i suggest the curry king . it is very highly recommended .
+train ( train-leaveat = 13:32 )	tr8199 leaves broxbourne at 13:32 . would you like to make a reservation ?
+restaurant ( restaurant-name = the oak bistro ; restaurant-address = 6 lensfield road ; restaurant-area = centre )	i like the oak bistro , it is located at 6 lensfield road and is in town centre . would you like me to make a reservation for you ?
+taxi ( taxi-departure = royal spice )	royal spice is located at victoria avenue chesterton , postcode cb41eh . its phone number is 01733553355 . is there any other information you need ?
+restaurant ( restaurant-name = the cambridge chop house ; restaurant-food = british ; restaurant-address = 1 kings parade )	if you are seeking british fare , then i suggest the cambridge chop house , at 1 kings parade . would you like to make a reservation ?
+attraction ( attraction-name = corpus christi )	corpus christi is located on the same road as the restaurant . did you need any more information ?
+restaurant ( restaurant-name = jinling noodle bar )	your reservation at jinling noodle bar on wednesday at 13:45 for 4 people is successful . your reference number is : uvpkoa8z .
+restaurant ( restaurant-name = restaurant one seven )	i would bet you'd like restaurant one seven . want more information ?
+attraction ( attraction-name = lynne strover gallery ; attraction-address = 23 high street , fen ditton )	do you have any particular type of attraction in mind ? if not , try visiting the lynne strover gallery at 23 high street , fen ditton . do you need more information ?
+attraction ( attraction-name = club salsa ; attraction-area = centre ; attraction-entrance = 5 pounds )	if you like nightclubs , there is a great one called club salsa in the centre . their entrance fee is 5 pounds .
+restaurant ( restaurant-name = la raza )	la raza is fine for you . can i give you the contact ?
+restaurant ( restaurant-name = ali baba ; restaurant-type = restaurant )	ali baba is the only restaurant that meets your criteria . would you like to reserve a table there ?
+attraction ( attraction-name = cherry hinton village centre )	it looks like there is the cherry hinton village centre . can i get you more information about it ?
+restaurant ( restaurant-food = modern european ; restaurant-type = restaurant )	it is a restaurant that serves modern european food near the centre of town . it is moderately priced . the phone number is 01223259988 .
+hotel ( hotel-name = gonville hotel ; hotel-area = centre )	i have a few hotels that meet your needs . how about the gonville hotel ? it is in the centre of town .
+hotel ( hotel-name = city centre north b&b )	indeed , they do . city centre north b&b is your best bet . would you like to book a room there ?
+restaurant ( restaurant-food = thai ; restaurant-name = sala thong ; restaurant-phone = 01223323178 ; restaurant-postcode = cb39ey ; restaurant-type = restaurant )	do you like thai food ? the sala thong is a good restaurant that meets your needs . phone is : 01223323178 postcode : cb39ey
+attraction ( attraction-name = holy trinity church ; attraction-address = market street )	you should try visiting the holy trinity church , they're on market street .
+hotel ( hotel-name = allenbell )	i would recommend the allenbell . would you like me to make a booking for you ?
+restaurant ( restaurant-name = pizza hut fen ditton ; restaurant-area = east ; restaurant-food = italian ; restaurant-type = restaurant )	there's one italian restaurant in the east called pizza hut fen ditton . would like to reserve a table ?
+restaurant ( restaurant-name = gourmet burger kitchen ; restaurant-type = restaurant )	there is one restaurant that fits what you are looking for . would you like to book a table at the gourmet burger kitchen ?
+restaurant ( restaurant-food = italian ; restaurant-type = restaurant )	oh , super scary movie . yes , it is an expensive italian restaurant . can i get some other information for you ?
+attraction ( attraction-name = all saints church ; attraction-area = centre ; attraction-entrance = free )	well , we've got the all saints church in the centre and it's free to visit .
+restaurant ( restaurant-name = curry )	i have 6 indian restaurants for you to choose from . may i recommend the golden curry ?
+restaurant ( restaurant-name = yippee noodle bar ; restaurant-area = centre )	just to confirm before making a booking : how about yippee noodle bar ? it is in the centre of town and moderately priced . would you like this booked ?
+restaurant ( restaurant-name = yippee noodle bar ; restaurant-food = asian oriental ; restaurant-type = restaurant )	the yippee noodle bar serves asian oriental food . do you want me to book this restaurant for you ?
+restaurant ( restaurant-name = frankie and bennys )	we have quite a few . may i suggest frankie and bennys ? they are in the area of centre at market hill city centre .
+hotel ( hotel-name = university arms hotel ; hotel-area = centre ; hotel-pricerange = expensive ; hotel-stars = 4 ; hotel-type = hotel )	how does university arms hotel sound ? it is a hotel in town centre , expensive price range & 4 stars . would you like to book a room ?
+attraction ( attraction-name = old schools ; attraction-entrance = free ; attraction-type = architecture )	i'd like to recommend " old schools" . it is in the category of architecture and the entrance is free .
+restaurant ( restaurant-name = graffiti )	i can book a table for you , if you'd like . what date and time would you like to visit graffiti , and how many people will be dining with you ?
+restaurant ( restaurant-name = galleria )	the galleria meets these requirements , would you like a reservation ?
+attraction ( attraction-name = all saints church )	i would suggest all saints church .
+restaurant ( restaurant-name = sala thong ; restaurant-pricerange = expensive )	there is sala thong that's expensive would you like me to book a table for you ?
+attraction ( attraction-name = cambridge and county folk museum ; attraction-area = west )	there are 7 museums on the west side of town . how does the cambridge and county folk museum sound ?
+restaurant ( restaurant-food = chinese ; restaurant-type = restaurant )	it is a chinese restaurant in the north part of town in the moderate price range
+hotel ( hotel-name = acorn guest house ; hotel-stars = 4 )	i would recommend the acorn guest house then . it has 4 stars , free wifi , free parking and is moderately priced . would you like to book a room ?
+restaurant ( restaurant-name = caffe uno ; restaurant-address = 32 bridge street city centre )	definitely ! i recommend caffe uno , at 32 bridge street city centre .
+taxi ( taxi-destination = caffe uno )	definitely ! i recommend caffe uno , at 32 bridge street city centre .
+attraction ( attraction-name = christ's college )	there is christ's college in the centre area . this may be of interest to you .
+restaurant ( restaurant-name = the missing sock )	the missing sock would suit your needs . can i book it for you ?
+attraction ( attraction-name = all saints church ; attraction-address = jesus lane ; attraction-postcode = cb58bs )	how about the all saints church . it is an architectural attraction . its postcode is cb58bs and the address is jesus lane .
+attraction ( attraction-name = cherry hinton water park )	yes , cherry hinton water park is in the area . it's located at cherry hinton hall on cherry hinton road and admission is free .
+attraction ( attraction-name = cherry hinton hall and grounds ; attraction-area = east ; attraction-type = entertainment )	cherry hinton hall and grounds is an entertainment attraction in the east part of town .
+restaurant ( restaurant-name = tandoori palace )	i have a listing for 5,can i recommend tandoori palace ?
+restaurant ( restaurant-name = fitzbillies )	most of the expensive restaurants in cambridge happen to be in the center of town ! would you like to try some british food at fitzbillies ?
+hotel ( hotel-name = allenbell )	i was able to book you a room at the allenbell . reference # 9bxoze34 .
+restaurant ( restaurant-name = don pasquale pizzeria ; restaurant-area = centre ; restaurant-pricerange = expensive )	don pasquale pizzeria is an excellent but expensive place in the city centre . would you like more information on it ?
+attraction ( attraction-name = downing college ; attraction-entrance = free )	i would recommend downing college and it is free to enter . would you like their address ?
+hotel ( hotel-name = allenbell )	i booked 7 tickets for you on the tr1955 . your reference is js5u3c0k . i will now help you find information on the allenbell
+restaurant ( restaurant-name = bangkok city ; restaurant-area = centre ; restaurant-food = thai ; restaurant-pricerange = expensive )	bangkok city serves thai food in the centre in the expensive price range . do you want me to book it for you ?
+hotel ( hotel-name = allenbell ; hotel-area = east )	i'd recommend the allenbell in the east . would you like a room ?
+attraction ( attraction-name = funky fun house ; attraction-type = entertainment )	the funky fun house is an entertainment venue . i don't see any entrance fee .
+hotel ( hotel-name = worth house ; hotel-pricerange = cheap ; hotel-stars = 4 ; hotel-type = guesthouse )	i have found a guesthouse , worth house , that meets all your criteria ( north, cheap , 4 stars , free parking) . would you like help booking this guest house ?
+hotel ( hotel-name = acorn guest house )	i'd recommend acorn guest house . would you like to book a room ?
+attraction ( attraction-name = regency gallery ; attraction-area = centre )	the regency gallery is a nice one . it is in the centre of town .
+restaurant ( restaurant-name = ali baba )	i have one listing for ali baba . would you like any other information ?
+taxi ( taxi-departure = hughes hall )	the address of hughes hall is wollaston road .
+hotel ( hotel-name = express by holiday inn cambridge ; hotel-address = 15-17 norman way , coldhams business park )	we have a match for you ! express by holiday inn cambridge is located at 15-17 norman way , coldhams business park in eastern cambridge . would you like to book ?
+hotel ( hotel-name = acorn guest house )	i'd recommend acorn guest house . would you like a reservation ?
+hotel ( hotel-name = aylesbray lodge guest house ; hotel-type = guesthouse )	aylesbray lodge guest house meets all of your requirements . are you okay with the hotel type being a guesthouse ?
+hotel ( hotel-name = express by holiday inn cambridge )	express by holiday inn cambridge is a nice one . do you want to book ?
+hotel ( hotel-name = gonville hotel ; hotel-address = gonville place ; hotel-phone = 01223366611 ; hotel-postcode = cb11ly )	gonville hotel has free wifi and parking , and is located at gonville place , cb11ly . their number is 01223366611 . want to book ?
+restaurant ( restaurant-name = curry garden ; restaurant-area = centre ; restaurant-food = indian ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	curry garden is an expensive indian restaurant located in town centre .
+hotel ( hotel-name = gonville hotel ; hotel-address = gonville place )	ok , you are booked into the gonville hotel , located in the center of town on gonville place . the reference number is g6fao56j .
+attraction ( attraction-name = kettle's yard )	cafe jello postcode is cb30af . kettle's yard is cb30aq .
+restaurant ( restaurant-name = anatolia )	i would recommend anatolia . what day would you like to reserve that ?
+hotel ( hotel-name = allenbell )	allenbell is available and fits all of your requirements . i have made a reservation for you . your reference number is dqol6qe5 .
+hotel ( hotel-name = hobsons house ; hotel-stars = 3 ; hotel-type = guesthouse )	it looks like there is a 3 star guesthouse in the area named hobsons house . how does that sound ?
+hotel ( hotel-name = huntingdon marriott hotel ; hotel-area = west )	i have booked your stay at the luxurious huntingdon marriott hotel on the west side . your reference # is zhuglexu . is there anything else i can assist you with ?
+restaurant ( restaurant-name = yippee noodle bar )	booking was successful at yippee noodle bar . the table will be reserved for 15 minutes . reference number is : k1103xe1 .
+restaurant ( restaurant-name = charlie chan )	i booked you a table that is available for 15 minutes at charlie chan at 17:45 , reference number is 2kux2g5t . can i help you with anything else ?
+attraction ( attraction-name = christ's college )	christ's college is free and located on saint andrew's street . the postcode is cb23bu . anything else ?
+hotel ( hotel-name = el shaddai ; hotel-area = centre ; hotel-pricerange = cheap ; hotel-type = guesthouse )	i have the el shaddai . it's a cheap guesthouse in the centre of town . they offer free internet and parking . would you like me to book you a room ?
+restaurant ( restaurant-name = hk fusion )	i have four options . hk fusion is an excellent choice .
+hotel ( hotel-name = huntingdon marriott hotel )	the huntingdon marriott hotel meets your needs . do you want me to book it ?
+restaurant ( restaurant-name = the gandhi ; restaurant-area = centre )	i can book you at the gandhi in the centre . how does that sound ?
+attraction ( attraction-name = castle galleries ; attraction-entrance = free )	there are several . may i suggest castle galleries ? it has free admission .
+hotel ( hotel-name = acorn guest house )	7 places still have that , can i suggest the acorn guest house for you ?
+restaurant ( restaurant-name = little seoul ; restaurant-area = centre ; restaurant-food = korean ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	little seoul is an expensive korean restaurant in the centre . would you like to book it ?
+restaurant ( restaurant-name = ugly duckling )	there are 4 that match your criteria . i just love the ugly duckling , would you like to reserve a table there , or keep looking ?
+hotel ( hotel-name = express by holiday inn cambridge )	the express by holiday inn cambridge will fit your needs . how many nights ?
+hotel ( hotel-name = the worth house )	the worth house does have free parking , yes .
+restaurant ( restaurant-food = turkish ; restaurant-area = centre ; restaurant-type = restaurant )	i was able to find efes restaurant for you . this is a turkish restaurant in the centre of town with a moderate price range . would you like a booking ?
+taxi ( taxi-departure = all saints church )	there are a lot of architecture type of attractions available . would like information about one of those ? perhaps , a church like all saints church ?
+taxi ( taxi-destination = yippee noodle bar )	i'd recommend the yippee noodle bar unless you'd like to narrow your search down further by food type or price range ?
+restaurant ( restaurant-name = midsummer house )	i'd recommend midsummer house in the centre of town . it's expensive . what day and time would you like for me to reserve you a table ?
+hotel ( hotel-name = bridge guest house ; hotel-area = south ; hotel-pricerange = moderate ; hotel-stars = 3 )	bridge guest house has a 3 star rating and is in the moderate price range and is located in the south . would you like me to book a room ?
+hotel ( hotel-name = acorn guest house ; hotel-stars = 4 ; hotel-type = guesthouse )	yes , i see a 4 star guesthouse named acorn guest house that would suit you needs . would you like for me to proceed with booking ?
+hotel ( hotel-name = avalon ; hotel-address = 62 gilbert road ; hotel-phone = 01223353071 ; hotel-postcode = cb43pd )	i'd recommend that avalon , as it fulfills your needs . it's located at 62 gilbert road cb43pd and the phone number is 01223353071 . would you like more information ?
+train ( train-leaveat = 11:00 )	what time would you prefer to leave by , the latest i have in 11:00 .
+hotel ( hotel-name = acorn guest house ; hotel-area = north ; hotel-pricerange = moderate )	okay , i recommend the acorn guest house . it's in the moderate price range and located in the north . would you like me to book a reservation for you ?
+attraction ( attraction-name = museum of archaelogy and anthropology ; attraction-address = university of cambridge , downing street ; attraction-area = centre )	i would recommend museum of archaelogy and anthropology in the centre located at university of cambridge , downing street .
+hotel ( hotel-name = autumn house ; hotel-address = 710 newmarket road )	you have a reservation at autumn house , located at 710 newmarket road . reference number bft509gx . can i help you with anything else today ?
+attraction ( attraction-name = churchill college ; attraction-address = storey's way ; attraction-phone = 01223336233 ; attraction-type = college )	churchill college is fun to visit . it's a college . the address is storey's way . the phone number is 01223336233
+attraction ( attraction-name = christ's college )	christ's college is particularly nice . it's located on saint andrew's street and the entrance is free . does that sound good ?
+train ( train-leaveat = 13:40 ; train-departure = cambridge )	no worries ! i have tr8714 departing cambridge at 13:40 and arriving at stansted airport at 14:08 . will that work for you ?
+hotel ( hotel-name = city centre north b and b )	absolutely ! the city centre north b and b is located at 328a histon road , postcode cb43ht . their number is 01223312843 . can i help you with anything else today ?
+restaurant ( restaurant-name = tandoori palace ; restaurant-food = indian )	the tandoori palace has indian cuisine . would you like me to book a table ?
+hotel ( hotel-name = university arms hotel )	i was able to book university arms hotel . reference number is : bm4dc6go .
+taxi ( taxi-departure = downing college )	i show 13 colleges . downing college is nice and admission is free . would you like more information on it ?
+restaurant ( restaurant-name = backstreet bistro )	backstreet bistro is an excellent place to dine . shall i book it for you ?
+taxi ( taxi-departure = corpus christi )	how about corpus christi ? it is located in the centre .
+hotel ( hotel-name = worth house )	i hear the worth house is really nice . would you like me to book you a room there ?
+restaurant ( restaurant-name = river bar steakhouse and grill )	i've booked you a table for two at the river bar steakhouse and grill on wednesday at 12:45 . the reference number is tx50snzs .
+hotel ( hotel-name = alexander bed and breakfast )	okay , let's try the alexander bed and breakfast . how many days would you like to stay ?
+attraction ( attraction-name = corpus christi ; attraction-entrance = 2 pounds ; attraction-type = college )	sure , i would recommend corpus christi college , their admission fee is 2 pounds . would you like a reservation ?
+hotel ( hotel-name = allenbell ; hotel-stars = 4 )	i was able to book the allenbell for 2 people for 4 nights . would that work for you ?
+hotel ( hotel-name = aylesbray lodge guest house )	the aylesbray lodge guest house is available . do you need a reservation ?
+hotel ( hotel-name = archway house ; hotel-area = north ; hotel-pricerange = moderate ; hotel-stars = 4 ; hotel-type = guesthouse )	the archway house is a popular 4 star guesthouse in the north part of town in the moderate price range with free internet and parking . should i book it ?
+restaurant ( restaurant-name = pipasha restaurant ; restaurant-address = newmarket road fen ditton ; restaurant-area = east ; restaurant-food = indian ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	in that case , i'd recommend pipasha restaurant , at newmarket road fen ditton . it's a great expensive indian restaurant in the east . would that work for you ?
+hotel ( hotel-name = bridge guest house )	okay . we have you booked at the bridge guest house . your reference number is 2v8lwi7j . can i help with anything else ?
+hotel ( hotel-name = huntington marriott hotel )	that will narrow it down to two hotels . huntington marriott hotel and university arms hotel . which do you prefer ?
+restaurant ( restaurant-name = alimentum )	i suggest restaurant alimentum , would you like me to make a reservation for you ?
+hotel ( hotel-name = allenbell )	the allenbell would suite your needs . would you like me to make you a reservation ?
+attraction ( attraction-name = the cambridge artworks )	i have four options . the cambridge artworks is free entrance and i personally recommend it .
+restaurant ( restaurant-name = zizzi cambridge ; restaurant-area = centre )	there are 3 . pizza hut city centre , ask , or zizzi cambridge . which one sounds good to you ?
+taxi ( taxi-destination = pizza hut city centre )	there are 3 . pizza hut city centre , ask , or zizzi cambridge . which one sounds good to you ?
+taxi ( taxi-arriveby = 11:30 )	not a problem , i have five of you booked for zizzi cambridge at 11:30 on tuesday . your reference number is yxgplz55 . is there anything else today ?
+restaurant ( restaurant-name = grafton hotel restaurant )	sure , there is the grafton hotel restaurant in that area .
+restaurant ( restaurant-name = la raza )	there is the la raza located at 4-6 rose crescent . the phone number is 0122364550 .
+attraction ( attraction-name = corpus christi )	yes , there are 13 . i'd recommend corpus christi . would you like more information ?
+hotel ( hotel-name = avalon )	i can book a room for you at avalon .
+attraction ( attraction-name = christ's college )	there are 13 colleges in that area . christ's college is free and located on saint andrew's street .
+attraction ( attraction-name = ballare,it )	i have ballare,it is a nightclub and is very nice .
+restaurant ( restaurant-name = pizza hut cherry )	pizza hut cherry hinton is a italian great place to eat . shall i book it for you ?
+restaurant ( restaurant-name = the varsity restaurant ; restaurant-type = restaurant )	okay , there's two . the varsity restaurant and bloomsbury restaurant .
+train ( train-leaveat = 5:50 ; train-arriveby = 6:07 )	would you like me to book a train for you leaving at 5:50 and arriving by 6:07 ?
+hotel ( hotel-name = aylesbray lodge guest house )	aylesbray lodge guest house will suit your needs . can i book something for you ?
+restaurant ( restaurant-name = saffron brasserie ; restaurant-address = hills road city centre )	in the center of town , i recommend saffron brasserie , at hills road city centre . would you like to book a table ?
+restaurant ( restaurant-name = curry prince )	okay , i've booked a table at the curry prince for you . the reference number is nz5wkz9v . the table will be reserved for 15 minutes .
+attraction ( attraction-name = cafe jello gallery ; attraction-entrance = free ; attraction-phone = 01223312112 )	hi the phone number to the cafe jello gallery is 01223312112 and it is free .
+restaurant ( restaurant-name = yu garden ; restaurant-area = east )	i have found yu garden in the east . would you like me to go ahead and book that ?
+restaurant ( restaurant-name = nandos ; restaurant-area = south ; restaurant-food = portuguese )	nandos serves portuguese food in the south area . would you like a reservation ?
+hotel ( hotel-name = alexander bed and breakfast ; hotel-area = centre ; hotel-stars = 4 )	alexander bed and breakfast is in town centre , cheaply priced with a 4 star rating . it also offers free parking and wifi . would you like to book a room ?
+attraction ( attraction-name = scudamores punting co ; attraction-address = granta place , mill lane ; attraction-area = centre ; attraction-entrance = ? )	i can book you with scudamores punting co located in the centre area . the entrance fee is ? and the address is granta place , mill lane . is that fine ?
+hotel ( hotel-name = a and b guest house )	a and b guest house
+attraction ( attraction-name = byard art ; attraction-area = south ; attraction-entrance = free ; attraction-type = museum )	there are a few attractions in the south , you might like byard art it's a free museum . would you like the address ?
+restaurant ( restaurant-name = the lucky star )	i have the lucky star . would you like me to make a booking for you ?
+hotel ( hotel-name = cityroomz ; hotel-stars = 0 ; hotel-type = hotel )	yes , the cityroomz hotel is moderately priced and centrally located with 0 stars . it also has free wifi . would you like to book your stay ?
+attraction ( attraction-name = castle galleries ; attraction-entrance = free ; attraction-type = museum )	castle galleries is a museum in the center of town , entry is free , would you like more details ?
+attraction ( attraction-name = all saints church ; attraction-area = centre ; attraction-type = architecture )	all saints church is located in the centre and has fabulous architecture !
+hotel ( hotel-name = arbury lodge guesthouse )	how about the arbury lodge guesthouse ?
+taxi ( taxi-departure = arbury lodge guesthouse )	you are booked as requested for arbury lodge guesthouse , the reference number is e54bag41 , can i assist with anything else ?
+train ( train-leaveat = 11:00 ; train-arriveby = 11:51 )	tr1502 leaves at 11:00 and arrives by 11:51 . does that work for you ?
+hotel ( hotel-name = acorn guest house ; hotel-area = north ; hotel-postcode = cb41da ; hotel-pricerange = moderate )	sure . i recommend acorn guest house - it is postcode cb41da . it is in the north and moderate price as requested . want me to book it ?
+hotel ( hotel-name = acorn guest house ; hotel-area = north ; hotel-stars = 4 )	i'm sorry for the confusion . may i suggest the acorn guest house , which is moderately priced , in the north , with 4 stars , and free parking ?
+attraction ( attraction-name = museum of classical archaeology ; attraction-address = sidgwick avenue ; attraction-entrance = free )	we have several in the area . i would recommend the museum of classical archaeology . it's a free attraction located on sidgwick avenue .
+hotel ( hotel-name = allenbell ; hotel-pricerange = cheap ; hotel-stars = 4 )	i could recommend the allenbell . it is priced cheap and has 4 stars .
+hotel ( hotel-name = alexander bed and breakfast ; hotel-area = centre ; hotel-pricerange = cheap ; hotel-type = guesthouse )	ok , if you are happy with a guesthouse , there's alexander bed and breakfast , which is a cheap four star place in the city centre . does that sound good ?
+train ( train-leaveat = 21:00 )	there is a train that leaves at 21:00 .
+restaurant ( restaurant-name = charlie chan ; restaurant-food = chinese ; restaurant-type = restaurant )	really , there are too many to list . i would recommend a nice chinese restaurant like charlie chan .
+attraction ( attraction-name = all saints church ; attraction-area = centre )	there are 44 attractions in the centre . was there a specific type of attraction you want ? we have all saints church at the centre , would that suffice ?
+attraction ( attraction-name = holy trinity church ; attraction-address = market street ; attraction-postcode = cb23nz )	how about the holy trinity church ? it is located on market street and the postcode is cb23nz .
+hotel ( hotel-name = lensfield hotel )	certainly i have the lensfield hotel and it is considered expensive . shall i book that for you ?
+attraction ( attraction-name = byard art ; attraction-area = south ; attraction-type = museum )	there is the byard art museum located in the south . are you interested ?
+hotel ( hotel-name = lensfield hotel )	we have one 3 star hotel , the lensfield hotel , in the southern part of town . it is expensive .
+train ( train-leaveat = 11:48 )	the latest train leaves at 11:48 and arrives at 12:38 . the cost per ticket is 13.20 gbp . would you like to book this train ?
+attraction ( attraction-name = the place ; attraction-entrance = ? )	i have one called , " the place" , would you like more info on it ?
+restaurant ( restaurant-name = bedouin ; restaurant-food = african ; restaurant-address = 100 mill road city centre ; restaurant-type = restaurant )	how about bedouin restaurant that serves african food located on 100 mill road city centre ? would you like me to book it for you ?
+attraction ( attraction-name = all saints church ; attraction-address = jesus lane ; attraction-area = centre ; attraction-entrance = free )	there are 5 options in the town centre . all saints church is located on jesus lane and has free admission .
+hotel ( hotel-name = cambridge belfry )	i have the cambridge belfry , located in the west , cheap and has wifi . would you like me to make a reservation for you ?
+hotel ( hotel-name = el shaddai ; hotel-area = centre )	i have two available . i have el shaddai which is located in the centre of town . and i also have city centre north b & b located in the north .
+attraction ( attraction-name = magdalene college ; attraction-entrance = free )	how does magdalene college sound to you ? it is free to enter .
+hotel ( hotel-name = cambridge belfry )	cambridge artworks is a museum . i found the cambridge belfry hotel . would you like a reservation ?
+hotel ( hotel-name = cambridge belfry )	the cambridge belfry is much cheaper . want to book there ?
+hotel ( hotel-name = acorn guest house )	might i suggest acorn guest house ? it also offers free parking !
+attraction ( attraction-name = cafe jello gallery )	how about cafe jello gallery ?
+hotel ( hotel-name = ashley hotel ; hotel-area = north ; hotel-pricerange = moderate ; hotel-stars = 2 )	the ashley hotel and the lovell lodge are both in the north and are in the moderate price range with 2 stars .
+restaurant ( restaurant-name = cotto ; restaurant-food = british )	what about the cotto ? it's british food .
+restaurant ( restaurant-name = curry king ; restaurant-pricerange = expensive )	all 5 of those restaurants are expensive . i would recommend the curry king . could i book you a table ?
+restaurant ( restaurant-name = fitzbillies restaurant ; restaurant-area = centre ; restaurant-food = british ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	fitzbillies restaurant is an expensive british restaurant in the centre . can i book that for you ?
+restaurant ( restaurant-name = fitzbillies restaurant )	sure thing i would suggest this fitzbillies restaurant .
+hotel ( hotel-name = hobsons house )	hobsons house fits all your criteria , shall i book a room for you ?
+restaurant ( restaurant-name = yippee noodle bar ; restaurant-area = centre )	the yippee noodle bar is located in the centre . would you like for me to book a table for you ?
+hotel ( hotel-name = ashley hotel )	i made you a reservation at the ashley hotel your reference number is nc5xpxnd .
+attraction ( attraction-name = broughton house gallery ; attraction-type = museum )	broughton house gallery is a nice museum
+restaurant ( restaurant-name = cote )	sure , there is one named cote . does that sound good ?
+attraction ( attraction-name = parkside pools ; attraction-address = gonville place )	i have parkside pools which ic located in gonville place .
+restaurant ( restaurant-name = pizza express )	okay . pizza express would suite your needs , would you like me to make you a reservation ?
+restaurant ( restaurant-name = restaurant two two )	restaurant two two is an expensive french restaurant .
+hotel ( hotel-name = aylesbray lodge guest house ; hotel-area = south ; hotel-type = guesthouse )	aylesbray lodge guest house is a cheap guesthouse located in the south .
+attraction ( attraction-name = cambridge and country folk museum )	there are 7 museums in the west . cambridge and country folk museum charges 3.50 pounds for entry and the rest are free . would you like the address ?
+restaurant ( restaurant-name = prezzo )	your booking at the prezzo was successful . the reference number is ouhskng7 . your table will be reserved for 15 minutes .
+hotel ( hotel-name = university arms hotel ; hotel-area = centre ; hotel-stars = 4 )	i am sorry , there are no 5 star hotels available but may i recommend university arms hotel which is 4 stars and located in the centre of town ?
+restaurant ( restaurant-name = curry garden )	there are several , i recommend curry garden . would you like me to reserve a table for you there ?
+restaurant ( restaurant-name = curry garden ; restaurant-food = indian ; restaurant-pricerange = expensive )	i have 5 . how about the curry garden ? they serve indian food and is in the expensive price range .
+taxi ( taxi-destination = sala thong )	in the west , i have sala thong . it's an expensive place but so worth it . can i reserve you a table there ?
+taxi ( taxi-departure = finches bed and breakfast )	finches bed and breakfast is available , would you like that ?
+hotel ( hotel-name = express by holiday inn cambridge ; hotel-type = hotel )	there is one hotel that meets your requirements . it is the express by holiday inn cambridge in the eat part of town . it does have free internet and parking .
+hotel ( hotel-name = lensfield hotel )	the lensfield hotel has both free parking and internet it's in the south , would you like me to book it for you ?
+restaurant ( restaurant-booktime = 19:15 )	yes , i would be happy to book you a table for one at 19:15 on tuesday . is there anything else i can help you with ?
+hotel ( hotel-name = worth house ; hotel-area = north ; hotel-pricerange = cheap ; hotel-stars = 4 ; hotel-type = guesthouse )	i don't have any hotels but i do have worth house which is a cheap 4 star guesthouse in the north part of town with free internet and parking
+restaurant ( restaurant-name = saigon city )	okay . i have booked you at saigon city that is quite elegant and serves asian cuisine . your reference number is j8igns09 .
+hotel ( hotel-name = acorn guest house )	okay , i made you a reservation at the acorn guest house . your reference number is 5msb4h92 . can i do anything else for you today ?
+restaurant ( restaurant-name = kohinoor ; restaurant-food = indian )	there are 4 indian restaurants that meet your criteria . i would recommend kohinoor . i really enjoy their food .
+restaurant ( restaurant-name = de luca cucina and bar )	we have two options - de luca cucina and bar or riverside brasserie . would you like me to book a reservation at either one ?
+hotel ( hotel-name = allenbell )	certainly , acorn guest house , alexander bed and breakfast , allenbell , and archway house are all four star rated .
+attraction ( attraction-name = castle galleries )	castle galleries is in that area . would you like more information about it ?
+taxi ( taxi-departure = queens ' college )	queens ' college is a great college in the west . it is located on silver street . their entrance fee is 2.50 pounds . is there anything else i can help you with ?
+restaurant ( restaurant-name = midsummer house restaurant ; restaurant-food = british ; restaurant-type = restaurant )	midsummer house restaurant is a nice british restaurant , would you like me to book a table for you ?
+taxi ( taxi-departure = cambridge contemporary art )	the cambridge contemporary art museum is on trinity street . there are a number of others in the area also . can i give you any other information ?
+restaurant ( restaurant-name = clowns cafe ; restaurant-area = centre ; restaurant-food = italian ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	clowns cafe is an expensive italian restaurant in centre area . would you like me to book it for you ?
+attraction ( attraction-name = ballare ; attraction-address = heidelberg gardens , lion yard ; attraction-phone = 01223364222 )	ballare is available , phone number is 01223364222 , it has a 5 pound entrance fee , and is located at heidelberg gardens , lion yard .
+hotel ( hotel-name = gonville hotel )	what about gonville hotel ? it's lovely
+hotel ( hotel-name = alexander bed and breakfast )	i found alexander bed and breakfast matching your request . would you like to book a room there ?
+hotel ( hotel-name = avalon )	avalon is my favorite . when do you want to stay ?
+attraction ( attraction-name = gallery at twelve a high street )	sure . gallery at twelve a high street is located at fulbourn and its phone number is 01223295264 . would you like information for the other three ?
+restaurant ( restaurant-name = grafton hotel restaurant ; restaurant-area = east ; restaurant-food = british )	the grafton hotel restaurant is in the east and served high end british food , would you like more information on them ?
+hotel ( hotel-name = avalon ; hotel-area = north ; hotel-type = guesthouse )	the avalon is a nice guesthouse in the north .
+attraction ( attraction-name = saint catharine's college )	saint catharine's college is a nice college in the centre of town with free admission .
+hotel ( hotel-name = carolina bed and breakfast )	the carolina bed and breakfast meets your needs . would you like to book a room ?
+taxi ( taxi-departure = pizza hut fen ditton )	the postcode for pizza hut fen ditton is cb58wr , phone 01223323737 . can i help you with anything else ?
+restaurant ( restaurant-name = pizza hut fen ditton ; restaurant-phone = 01223323737 ; restaurant-postcode = cb58wr )	the postcode for pizza hut fen ditton is cb58wr , phone 01223323737 . can i help you with anything else ?
+attraction ( attraction-name = whale of a time ; attraction-type = entertainment )	whale of a time is a great place if you are into entertainment .
+restaurant ( restaurant-food = italian ; restaurant-area = centre )	pizza express is italian and loated in the centre with moderate pricing telephone # is 01223324033
+hotel ( hotel-name = bridge guest house ; hotel-pricerange = moderate )	the bridge guest house is in the moderate price range . would you like me to book it ?
+restaurant ( restaurant-name = curry prince )	great your reservation at curry prince is set , your reference number is g3gje7zp
+hotel ( hotel-name = a and b )	i booked it for a and b guest house . your reference number is 8k0i474m . is there anything else i could help you with today ?
+attraction ( attraction-name = whale of a time ; attraction-address = unit 8 , viking way , bar hill ; attraction-entrance = ? )	may i suggest whale of a time located at unit 8 , viking way , bar hill ?
+hotel ( hotel-name = warkworth house )	i have booked warkworth house and the reference number is : 93sg6ioj
+restaurant ( restaurant-name = curry prince )	how about curry prince ?
+hotel ( hotel-name = the cambridge belfry ; hotel-pricerange = cheap ; hotel-type = hotel )	finches bed and breakfast is a guesthouse in the cheap range . huntingdon marriott hotel is in the expensive range and the cambridge belfry is a hotel in the cheap range .
+restaurant ( restaurant-name = the hotpot )	i can recommend the hotpot , it is very good . when would you like the reservation to be for ?
+restaurant ( restaurant-name = hk fusion )	booking was successful at hk fusion . the table will be reserved for 15 minutes . reference number is : djr9ys0y . is there anything else i can help you with ?
+restaurant ( restaurant-name = grafton hotel restaurant ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	i see one option - grafton hotel restaurant , an expensive restaurant . would you like the address or to make a reservation ?
+restaurant ( restaurant-food = italian ; restaurant-area = centre )	okay , i see two restaurants in the system , pizza express and pizza express fen ditton . they're both moderately priced italian restaurants located in the centre of town .
+hotel ( hotel-name = carolina b&b ; hotel-area = east )	yes , both the carolina b&b and the warkworth house are moderately priced guesthouses on the east side . would you like a room at one of these ?
+restaurant ( restaurant-name = the lucky star ; restaurant-address = cambridge leisure park clifton way cherry hinton ; restaurant-area = south ; restaurant-food = chinese ; restaurant-type = restaurant )	the one in the south is the lucky star chinese restaurant . they are located at cambridge leisure park clifton way cherry hinton . can i reserve you a table ?
+taxi ( taxi-departure = cambridge artworks )	i would suggest cambridge artworks . they are located in the east . there is no entrance fee .
+attraction ( attraction-name = cambridge artworks ; attraction-area = east )	i would suggest cambridge artworks . they are located in the east . there is no entrance fee .
+hotel ( hotel-name = archway house ; hotel-type = guesthouse )	how about the archway house ? it's a 4-star moderately priced guesthouse with both free wifi and parking . would you like to book a room ?
+restaurant ( restaurant-name = taj tandoori ; restaurant-area = south ; restaurant-food = indian ; restaurant-phone = 01223412299 )	taj tandoori is a indian place that is in the south . the number is 01223412299 .
+hotel ( hotel-name = cambridge belfry )	there are two hotels that meet your needs . i highly suggest the cambridge belfry . yes there is public transportation .
+attraction ( attraction-name = all saints church ; attraction-address = jesus lane ; attraction-area = centre ; attraction-entrance = free ; attraction-phone = 01223452587 ; attraction-type = architecture )	all saints church is architecture in the centre . phone is 01223452587 . adress , post code first : b58bs jesus lane . entrance is free
+attraction ( attraction-name = scott polar museum ; attraction-area = centre )	i have 11 different museums in the city centre . might i suggest the scott polar museum . they have several new exhibits to see . would you like more info ?
+hotel ( hotel-name = university arms hotel )	how about the university arms hotel ? they have free wifi as well as free parking .
+restaurant ( restaurant-name = curry garden ; restaurant-food = indian ; restaurant-pricerange = expensive )	i apologize . we in fact have six expensive indian restaurants in the center . the curry garden is a fave , would you like me to see if they have a table available ?
+attraction ( attraction-name = castle galleries )	castle galleries is in the center . it is very nice. .
+restaurant ( restaurant-name = clowns cafe ; restaurant-food = italian ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	clowns cafe is an expensive italian restaurant in the same area . would you like me to make a reservation for you ?
+hotel ( hotel-name = autumn house )	yes , all three have free parking . i personally recommend the autumn house .
+restaurant ( restaurant-name = stazione restaurant and coffee bar )	the stazione restaurant and coffee bar is very classy is that okay ?
+restaurant ( restaurant-name = eraina )	yes , there are three , though eraina is my favorite . do you need a reservation at this time ?
+attraction ( attraction-name = cambridge university botanic gardens ; attraction-address = bateman street ; attraction-area = centre )	i would recommend the cambridge university botanic gardens , which are in the centre of town , they are located on bateman street .
+hotel ( hotel-name = autumn house ; hotel-area = east ; hotel-pricerange = cheap ; hotel-type = guesthouse )	how about the autumn house , it is a guesthouse that is cheap in the east ?
+taxi ( taxi-departure = cambridge punter )	i would recommend the cambridge punter . unfortunately , i don't have the entrance fee information . their address is 251a chesterton road . i can provide you the phone number if you like .
+hotel ( hotel-name = a and b guest house )	a and b guest house is available would you like to try that ?
+taxi ( taxi-destination = bridge guest house )	i have booked you a room at the bridge guest house , located at 151 hills road . your reference number number is zkr6w58z .
+hotel ( hotel-name = bridge guest house ; hotel-address = 151 hills road )	i have booked you a room at the bridge guest house , located at 151 hills road . your reference number number is zkr6w58z .
+taxi ( taxi-departure = gonville and caius college )	i really like gonville and caius college ! how does that sound ?
+attraction ( attraction-name = funky fun house )	yes , the funky fun house is a great place .
+hotel ( hotel-name = alexander bed and breakfast )	i have alexander bed and breakfast . when were you planning your stay ?
+attraction ( attraction-name = wandlebury country park ; attraction-address = wandlebury ring , gog magog hills , babraham ; attraction-area = south ; attraction-entrance = free )	on the south side we have wandlebury country park at wandlebury ring , gog magog hills , babraham . the admission is free , are you interested ?
+attraction ( attraction-name = cambridge and county folk museum ; attraction-area = west )	there are 7 museums in the west area . cambridge and county folk museum is one of them . would you like information on it ? or i can tell you about some others .
+hotel ( hotel-name = bridge guest house ; hotel-type = guesthouse )	i do apologize , the lensfield hotel is not a guesthouse . if star rating isn't important , may i suggest bridge guest house ? they are fantastic .
+restaurant ( restaurant-name = da vinci pizzeria ; restaurant-address = 20 milton road chesterton ; restaurant-phone = 01223351707 )	i found da vinci pizzeria , they are located on 20 milton road chesterton and their number is 01223351707 .
+hotel ( hotel-name = acorn guest house )	acorn guest house seems to fit your needs . would you like more information ?
+hotel ( hotel-name = alexander bed and breakfast ; hotel-area = centre ; hotel-stars = 4 ; hotel-type = guesthouse )	alexander bed and breakfast is a 4 star guesthouse in the centre with free parking and internet . would that work ?
+restaurant ( restaurant-name = restaurant one seven )	restaurant one seven suits your needs . can i make a booking for you ?
+hotel ( hotel-name = kirkwood house ; hotel-address = 172 chesterton road ; hotel-area = north ; hotel-phone = 01223306283 )	kirkwood house is in the north part of town at 172 chesterton road , their phone number is 01223306283 . do you need anything else ?
+taxi ( taxi-destination = pipasha )	i have booked a table at pipasha . your reference number is pnsoqsvp . can i be of further assistance ?
+hotel ( hotel-name = lovell lodge ; hotel-area = north ; hotel-pricerange = moderate )	the lovell lodge is a moderate price in the north with free wifi . would you like for me to book a room .
+restaurant ( restaurant-name = ugly duckling ; restaurant-area = centre )	the ugly duckling located in the centre has great food and is very popular . would you like me to make you a reservation ?
+hotel ( hotel-name = ashley )	yes , the ashley offers both free wifi and free parking . would you like to make a reservation ?
+restaurant ( restaurant-name = yippee noodle bar )	your reservation at yippee noodle bar is all set , reference number is k3mqvq4n
+taxi ( taxi-destination = jesus green outdoor pool )	there are two swimming pools but i will recommend the jesus green outdoor pool to you . the zip code is cb43px . is there another thing i can help you with ?
+hotel ( hotel-name = acorn )	the acorn guest house you be just perfect for you . shall i book it ?
+taxi ( taxi-departure = acorn guest house )	the acorn guest house you be just perfect for you . shall i book it ?
+hotel ( hotel-name = huntingdon marriott hotel )	i hear the huntingdon marriott hotel is nice . would you like to try booking there ?
+attraction ( attraction-name = williams art and antiques ; attraction-entrance = free ; attraction-type = museum )	i'm sorry , i don't have information on whether or not children are admitted . all museums are free , would you like the williams art and antiques museum ?
+hotel ( hotel-name = university arms hotel )	here you go university arms hotel
+taxi ( taxi-destination = broughton house gallery )	i recommend broughton house gallery . it's the only museum in the center and it's free to enter . does that sound good to you ?
+restaurant ( restaurant-name = curry garden ; restaurant-pricerange = expensive )	i have curry garden located in cetre and is considered expensive . would you like to make reservation for this ?
+hotel ( hotel-name = bridge guest house )	i'd recommend bridge guest house in the north . would you like to book a room ?
+hotel ( hotel-name = lovell lodge ; hotel-stars = 2 )	i would recommend the lovell lodge . it's moderately priced with 2 stars and has free parking and wifi . would you like to reserve a room ?
+restaurant ( restaurant-name = sala thong ; restaurant-food = thai ; restaurant-pricerange = expensive )	the sala thong serves thai food . it is expensive but good . can i reserve a table for you ?
+restaurant ( restaurant-name = curry garden ; restaurant-area = centre ; restaurant-food = indian ; restaurant-pricerange = expensive )	curry garden serves indian food in the centre and is in the expensive price range . would you like to make a booking ?
+hotel ( hotel-name = express by holiday inn cambridge )	how does the express by holiday inn cambridge sound ? it has free wifi and parking available . i'd be happy to book a room for you if you'd like .
+taxi ( taxi-departure = christ's college )	okay christ's college is free and is in the centre . the address is saint andrew's street and post code is cb23bu .
+hotel ( hotel-name = cityroomz )	cityroomz would suit your needs . would you like me to book it for you ?
+restaurant ( restaurant-name = bedouin ; restaurant-address = 100 mill road city centre ; restaurant-food = african ; restaurant-type = restaurant )	then how about bedouin an african restaurant on 100 mill road city centre ?
+hotel ( hotel-name = acorn guest house )	i think acorn guest house is a good match for you !
+hotel ( hotel-name = hamilton lodge ; hotel-phone = 01223365664 )	i'll recommend hamilton lodge . their phone number is 01223365664
+restaurant ( restaurant-name = dojo noodle bar ; restaurant-address = 40210 millers yard city centre )	i would recommend the dojo noodle bar , located at 40210 millers yard city centre .
+restaurant ( restaurant-food = indian )	i'm sorry , but there are no exclusively vegetarian restaurants anywhere in cambridge . you may want to try one of our many fine indian restaurants , as they'll have vegetarian dishes .
+hotel ( hotel-name = acorn guest house ; hotel-stars = 4 )	how about the acorn guest house ? it is 4 stars , has free internet and parking ; and is moderately priced .
+hotel ( hotel-name = rosa's )	rosa's bed and breakfast is a 4 star guesthouse in the south and offers free parking and internet . would you like a reservation ?
+restaurant ( restaurant-name = ugly duckling )	i booked for you ugly duckling at 18:00 , your ref number is ikxbxweo
+restaurant ( restaurant-name = curry prince ; restaurant-area = east ; restaurant-food = indian )	there are two indian restaurants in the east : the curry prince and the rajmahal . i suggest the curry prince . would you like me to make a booking ?
+restaurant ( restaurant-name = yippee noodle bar )	ok , you have a table for 1 at the yippee noodle bar , reference # zplbjmps . can i help you with anything else today ?
+restaurant ( restaurant-name = bangkok city ; restaurant-area = centre ; restaurant-food = thai ; restaurant-type = restaurant )	the only thai restaurant located in centre cambridge is bangkok city . would you like the address ?
+attraction ( attraction-name = cambridge artworks ; attraction-area = east ; attraction-openhours = ? ; attraction-type = museum )	the cambridge artworks museum is located in east cambridge . does that sound like something you are interested in ?
+taxi ( taxi-departure = bridge guest house )	the postcode for the bridge guest house is cb28rj .
+taxi ( taxi-destination = nandos city centre )	i have booked you taxi fro your hotel to nandos city centre , leaving at 07:15 . the contact number is 07137465500 . can i help with anything else ?
+restaurant ( restaurant-name = jinling noodle bar ; restaurant-food = chinese ; restaurant-type = restaurant )	there are three chinese restaurants in the center of town : jinling noodle bar , lan hong house and shanghai family restaurant . do you have a preference ?
+restaurant ( restaurant-food = british )	there are many british restaurants in the area , is that okay ?
+restaurant ( restaurant-name = midsummer house restaurant ; restaurant-address = midsummer common ; restaurant-phone = 01223369299 ; restaurant-postcode = cb41ha )	i recommend midsummer house restaurant phone number is 01223369299 and address is midsummer common , cb41ha
+hotel ( hotel-name = lensfield hotel )	the lensfield hotel is a nice place . would you like a reservation ?
+hotel ( hotel-name = a and b guest house ; hotel-area = east )	how about a and b guest house ? it's located in the east .
+attraction ( attraction-name = cambridge museum of technology ; attraction-entrance = 5 pounds )	there's the cambridge museum of technology . it's 5 pounds for entrance . would that work ?
+attraction ( attraction-name = old schools ; attraction-address = trinity lane ; attraction-postcode = cb21tt )	i recommend old schools . it is located in trinity lane , cb21tt . can i give you their phone numbers ?
+hotel ( hotel-name = university arms hotel ; hotel-area = centre ; hotel-pricerange = expensive ; hotel-stars = 4 ; hotel-type = hotel )	i think the university arms hotel would be perfect for you . it is a 4 star expensive hotel right in the centre of town with both free parking and internet
+hotel ( hotel-name = huntingdon marriott hotel )	huntingdon marriott hotel would meet all your needs .
+restaurant ( restaurant-name = the river bar steakhouse and grill ; restaurant-address = quayside off bridge street ; restaurant-area = centre )	the river bar steakhouse and grill meets your preferences . they are located in centre at quayside off bridge street .
+hotel ( hotel-name = acorn guest house )	sure , the acorn guest house is a nice place and it includes both free internet and parking . how many nights would you need ?
+taxi ( taxi-destination = clare college )	clare college is in the west area . the phone number is 01223333200 and the entrance fee is 2.50 pounds . can i help with anything else ?
+hotel ( hotel-name = allenbell ; hotel-address = 517a coldham lane )	when and how many days would you need to be booked for ? the allenbell is located at 517a coldham lane .
+restaurant ( restaurant-name = the missing sock ; restaurant-food = international ; restaurant-pricerange = cheap )	there is one place at the cheap price range , it is a place that serves international food by the name of the missing sock . shall i book you ?
+attraction ( attraction-name = wandlebury country park ; attraction-area = south )	the wandlebury country park is in the south area . would you like the address ?
+restaurant ( restaurant-name = chiquito restaurant bar ; restaurant-address = 2g cambridge leisure park cherry hinton road cherry hinton ; restaurant-phone = 01223400170 ; restaurant-type = restaurant )	i found one restaurant that matches that criteria , the chiquito restaurant bar at 2g cambridge leisure park cherry hinton road cherry hinton , the phone number is 01223400170 .
+hotel ( hotel-name = huntingdon marriott hotel ; hotel-area = west ; hotel-pricerange = expensive ; hotel-stars = 4 )	huntingdon marriott hotel is 4 stars , located in the west and is expensive . would you like me to book a room for you ?
+restaurant ( restaurant-name = midsummer house )	midsummer house is my favorite . how many people will be dining on thursday , and at what time ?
+hotel ( hotel-name = the lensfield hotel ; hotel-stars = 3 ; hotel-type = hotel )	i have one hotel that meets that criteria . it has 3 stars and offers free wifi and parking . this would be the lensfield hotel . can i book you a room ?
+restaurant ( restaurant-name = rice house ; restaurant-area = centre ; restaurant-food = chinese ; restaurant-pricerange = cheap )	there are 2 other cheap chinese places in the city centre : rice house and golden house . would you like to try a reservation at one of these ?
+attraction ( attraction-name = old schools ; attraction-address = trinity lane ; attraction-entrance = free ; attraction-postcode = cb21tt ; attraction-type = architecture )	old schools is a great place for architecture . it's free to get in . it's located on trinity lane and their postcode is cb21tt .
+hotel ( hotel-name = bridge guest house )	i can suggest the bridge guest house .
+attraction ( attraction-name = clare college ; attraction-area = west )	what about clare college ? it's in the west .
+restaurant ( restaurant-name = eraina )	i think you'd enjoy eraina , so i've booked you a table there . the reference number is 0it4qd59 .
+hotel ( hotel-name = alexander bed and breakfast ; hotel-area = centre ; hotel-stars = 4 )	i've found the alexander bed and breakfast that is in the centre and rated 4 stars . it has internet and parking , can i book that for you ?
+attraction ( attraction-name = old schools ; attraction-address = trinity lane ; attraction-area = centre ; attraction-entrance = free ; attraction-type = architecture )	we have some great architecture in the centre . i recommend old schools on trinity lane . the admission is free .
+taxi ( taxi-destination = copper kettle )	the copper kettle is located in the center of town .
+hotel ( hotel-name = a and b guest house )	a and b guest house meets your criteria so i have booked it for you . the reference number is n5ntpzkl .
+attraction ( attraction-name = castle galleries ; attraction-area = centre ; attraction-type = museum )	there are 11 options for museum in centre . i'd recommend the castle galleries . would you like more information ?
+hotel ( hotel-name = acorn guest house )	okay , how about acorn guest house ?
+restaurant ( restaurant-food = chinese )	there food type if chinese , and their phone number is 01223350420 .
+hotel ( hotel-name = allenbell )	i found the allenbell that has what you want , would you like me to make a reservation ?
+attraction ( attraction-name = broughton house gallery ; attraction-area = centre ; attraction-entrance = free )	there's broughton house gallery in the centre . it's free to enter . i can get their contact info if you like . or we can find something else .
+hotel ( hotel-name = avalon )	i recommend avalon . can i book for you ?
+hotel ( hotel-name = city centre north b and b )	city centre north b and b is a great pick ! it's located in the north part of town and has 0 stars but includes both internet and parking .
+hotel ( hotel-name = bridge guest house )	the bridge guest house is the cheaper option . would you like me to book that for you ?
+train ( train-leaveat = 11:00 )	the earliest departure is at 11:00 , is that satisfactory for you ?
+train ( train-leaveat = 10:36 )	the first train actually leaves at 10:36 . is this updated information still okay with you to book ?
+hotel ( hotel-name = huntingdon marriott hotel ; hotel-stars = 4 ; hotel-type = hotel )	i would recommend the huntingdon marriott hotel , a 4 star hotel in western cambridge . do you need anything else ?
+restaurant ( restaurant-name = gourmet burger kitchen ; restaurant-pricerange = expensive )	are you trying to stay in a certain price range ? if not , i found the gourmet burger kitchen for you . it's rather expensive though . will that work ?
+restaurant ( restaurant-name = frankie and bennys )	i found you five . would you like frankie and bennys ?
+attraction ( attraction-name = castle galleries ; attraction-entrance = free )	sure . there's the castle galleries on saint andrews street . it's free .
+hotel ( hotel-name = alexander bed and breakfast )	alexander bed and breakfast would be a good fit
+taxi ( taxi-departure = alexander bed and breakfast )	your stay at alexander bed and breakfast is booked . your reference number is 9ns2mb3k . is there anything else i can help with ?
+restaurant ( restaurant-name = charlie chan )	i recommend charlie chan .
+attraction ( attraction-name = old schools ; attraction-address = trinity lane ; attraction-area = centre ; attraction-entrance = free ; attraction-phone = 01223332320 ; attraction-postcode = cb21tt )	how about old schools in centre ? its free and on trinity lane . phone number is 01223332320 and post code os cb21tt
+hotel ( hotel-name = acorn guest house ; hotel-stars = 4 )	the acorn guest house is 4 stars . would you like me to book ?
+restaurant ( restaurant-name = hakka ; restaurant-address = milton road chesterton ; restaurant-postcode = cb41jy )	i recommend hakka , located at milton road chesterton , postcode cb41jy .
+hotel ( hotel-name = huntingdon marriott hotel ; hotel-area = west ; hotel-pricerange = expensive )	the huntingdon marriott hotel is in the west area , it has free wifi , and it is in the expensive price range . shall i book reservations ?
+hotel ( hotel-name = university arms hotel ; hotel-area = centre ; hotel-postcode = cb21ad )	the university arms hotel is in the town centre . will that do ? it's postcode is cb21ad .
+taxi ( taxi-departure = primavera's )	primavera's address is 10 king s parade . what else can i help with ?
+restaurant ( restaurant-name = nandos city centre ; restaurant-area = centre ; restaurant-food = portuguese ; restaurant-type = restaurant )	you're in luck there is one portuguese restaurant in the centre . the nandos city centre is a great place to eat . would you like more information or book a table ?
+attraction ( attraction-name = museum of archaelogy and anthropology )	i would recommend the museum of archaelogy and anthropology . would you like me to book it ?
+restaurant ( restaurant-name = anatolia ; restaurant-area = centre ; restaurant-pricerange = moderate ; restaurant-type = restaurant )	the anatolia is a moderate priced restaurant located in the centre . would that meet your needs ?
+taxi ( taxi-destination = the anatolia )	the anatolia is a moderate priced restaurant located in the centre . would that meet your needs ?
+taxi ( taxi-arriveby = 16:30 )	okay ! you will arrive by 16:30 . booked car type : red volvo , contact number : 07940632984 .
+hotel ( hotel-name = cityroomz )	ok , cityroomz has free wifi . unfortunately , they cannot book for 3 nights . would you like to try el shaddai or another night ?
+attraction ( attraction-name = churchill college )	does churchill college sound good ?
+restaurant ( restaurant-name = eraina ; restaurant-pricerange = expensive )	sure , i recommend eraina . it's expensive , but excellent . does this interest you ?
+attraction ( attraction-name = williams art and antiques ; attraction-address = gwydir street , no . 5 dale's brewery ; attraction-entrance = free ; attraction-postcode = cb12lj )	i definitely recommend the williams art and antiques . it's free to get in . they are located on gwydir street , no . 5 dale's brewery . the postcode is cb12lj .
+hotel ( hotel-name = a and b guest house )	i booked a room at a and b guest house and the reference number is ada90o74 .
+attraction ( attraction-name = cherry hinton village centre )	the cherry hinton village centre is a multi-sport attraction on the eastside . do you need their address or phone number ?
+hotel ( hotel-name = warkworth house )	i highly recommend the warkworth house . it has everything you are looking for !
+restaurant ( restaurant-food = british )	the local flavor would be british . there are three options meeting your criteria . would you like me to book one for you ?
+hotel ( hotel-name = cityroomz ; hotel-area = centre ; hotel-type = hotel )	only one is located in the centre . the cityroomz which also has free wifi . would you be interested in booking this hotel ?
+hotel ( hotel-name = rosa's )	yes , that would be rosa's bed and breakfast . it has a 4-star rating and offers free wifi and parking . would you like me to book you a room ?
+hotel ( hotel-name = acorn guesthouse )	the acorn guesthouse located in the north offers free parking and is in moderate pricing range . would you like me to book a room for you ?
+restaurant ( restaurant-name = bedouin ; restaurant-area = centre ; restaurant-food = african )	okay , how about the bedouin ? it's in the centre of town and has african food .
+restaurant ( restaurant-food = chinese )	sure , are you interested in chinese food ?
+restaurant ( restaurant-name = thanh binh ; restaurant-area = west ; restaurant-food = vietnamese ; restaurant-type = restaurant )	thanh binh is a vietnamese restaurant in the west area.17 magdalene street city centre
+attraction ( attraction-name = vue cinema ; attraction-address = the grafton centre , east road )	i have the vue cinema located at the grafton centre , east road .
+restaurant ( restaurant-name = cotto )	i would recommend cotto , they are moderately priced , would you like more info on them ?
+hotel ( hotel-name = alexander bed and breakfast )	alexander bed and breakfast is the only matching all your requirements . can i book it for you ?
+attraction ( attraction-name = cafe jello gallery ; attraction-area = west )	i'd recommend the cafe jello gallery . it's located in the west . would you like more information ?
+restaurant ( restaurant-name = don pasquale pizzeria ; restaurant-area = centre ; restaurant-pricerange = expensive )	don pasquale pizzeria in the centre is pretty ritzy i hear , definitely in the expensive range .
+attraction ( attraction-name = cambridge punter )	i recommend the cambridge punter . it's a nice boating attraction in the center , located at 251a chesterton road .
+hotel ( hotel-name = archway house )	i will go ahead and book you at the archway house . booking was successful . reference number is : gja79lyp . is there anything else i can help you with today .
+restaurant ( restaurant-name = cocum )	there are 5 of them . i hear the cocum is very good . would you be interested in booking it ?
+hotel ( hotel-name = hobsons house ; hotel-area = west ; hotel-type = guesthouse )	hobsons house is a moderately-priced , 3-star guesthouse in the west . it offers free internet and parking . would you like me to book this for you ?
+taxi ( taxi-departure = hobsons house )	certainly . hobsons house is located at 96 barton road . it's phone number is 01223304906 . is there anything else i can help you with today ?
+attraction ( attraction-name = old schools ; attraction-address = trinity lane )	i really like old schools on trinity lane .
+hotel ( hotel-name = allenbell )	booking was successful at the allenbell . the reference number is : by6e1mtc .
+hotel ( hotel-name = hamilton lodge )	i recommend hamilton lodge . can i give you their contact ?
+attraction ( attraction-name = wandlebury country park )	wandlebury country park is a nice place and has no entrance fee . would you like more information ?
+taxi ( taxi-destination = worth house )	yes , worth house has free parking . it doesn't appear there are any cinemas in the west . would you like me to try another area ?
+taxi ( taxi-departure = museum of classical archaeology )	i believe that would be the museum of classical archaeology on sidgwick avenue . their phone number is 01223335153 . is there anything else i can help you with ?
+hotel ( hotel-name = a and b guest house )	how do you feel about the a and b guest house ? it covers all your needs and is in the eastern area . would you like a phone number or address ?
+restaurant ( restaurant-name = cambridge chop house )	how about the cambridge chop house ? or midsummer house restaurant ?
+restaurant ( restaurant-name = charlie chan ; restaurant-food = chinese ; restaurant-pricerange = cheap ; restaurant-type = restaurant )	may i suggest charlie chan ? it is a good chinese restaurant in the cheap price range .
+hotel ( hotel-name = huntingdon marriott )	i have the huntingdon marriott . may i book that for you ?
+restaurant ( restaurant-name = caffe uno )	i recommend caffe uno . would you like more information about it ?
+hotel ( hotel-name = gonville hotel )	okay , i recommend gonville hotel . is there anything else i can help you with ?
+taxi ( taxi-destination = holiday inn cambridge ; taxi-departure = hong house )	ok , to confirm , you'd like a taxi from lang hong house to holiday inn cambridge ? and what time would you like this for ?
+restaurant ( restaurant-name = dojo noodle bar )	how about dojo noodle bar ? it meets your requirements .
+restaurant ( restaurant-name = the varsity restaurant )	the varsity restaurant does , reference number is spymn3fb
+restaurant ( restaurant-name = michaelhouse cafe ; restaurant-area = centre )	how about michaelhouse cafe in the centre area of town ?
+restaurant ( restaurant-name = de luca cucina and bar )	de luca cucina and bar is available would you like to try that ?
+hotel ( hotel-name = ashley hotel ; hotel-area = north ; hotel-pricerange = moderate )	the ashley hotel is in the north area of town in the moderate price range with internet and parking . would you like to book a room ?
+taxi ( taxi-departure = golden curry )	of course ! the golden curry can be reached at 01223329432 . may i help you with anything else ?
+taxi ( taxi-destination = nusha )	nusha is in the south . they are located at unit g6 , cambridge leisure park , clifton road . their postcode is cb17dy . their phone number is 01223902158 .
+hotel ( hotel-name = arbury lodge guesthouses )	the arbury lodge guesthouses is a beautiful 4 star guesthouse in the north that is moderately priced with free wifi and parking . can i make a reservation for you ?
+taxi ( taxi-departure = arbury lodge guesthouse )	yes , the postcode for the arbury lodge guesthouse is cb42je . anything else i can help you with ?
+hotel ( hotel-name = acorn guest house )	i have booked you a room at the acorn guest house , i think you'll like it . reference number is : 5epgq1mr .
+attraction ( attraction-name = all saints church ; attraction-address = jesus lane ; attraction-area = centre ; attraction-entrance = free ; attraction-type = architecture )	fantastic ! there are many attractions in the centre of town . i'd suggest checking out the architecture at all saints church on jesus lane . it has free entrance . would that work ?
+train ( train-arriveby = 19:51 )	tr9039 leaves at 19:00 and arrives at 19:51 . would you like me to book you seats ?
+hotel ( hotel-name = cityroomz ; hotel-type = hotel )	i have the cityroomz hotel would you like to make reservations ?
+attraction ( attraction-name = old schools )	there are 5 options , i recommend old schools , would you like more information ?
+restaurant ( restaurant-name = graffiti ; restaurant-type = restaurant )	i recommend the graffiti restaurant . how many people are in your party , and what time would you like me to book for you ?
+attraction ( attraction-name = sheep's green and lammas land park fen causeway )	there are 2 parks , wandlebury country park and sheep's green and lammas land park fen causeway . do you need any additional information ?
+restaurant ( restaurant-name = clowns cafe ; restaurant-address = 54 king street city centre )	how about clowns cafe ? they are located at 54 king street city centre .
+train ( train-arriveby = 21:06 )	train 4708 leaves at 19:21 and arrives at 21:06 . would that work for you ?
+restaurant ( restaurant-name = graffiti )	how about graffiti ? i've heard great things .
+restaurant ( restaurant-name = chiquito restaurant bar ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	there is only one . it is an expensive restaurant called the chiquito restaurant bar . can i reserve a table for you ?
+hotel ( hotel-name = archway house ; hotel-area = north ; hotel-type = guesthouse )	the archway house is a guesthouse in the north that is moderately pried and includes free internet and parking . would that work for you ?
+taxi ( taxi-departure = milton country park )	the phone number for milton country park is 01223420060 . can i assist you with anything else ?
+restaurant ( restaurant-name = yippee noodle bar )	alright , how about the yippee noodle bar ?
+taxi ( taxi-departure = sidney sussex college )	if i may , might i suggest the sidney sussex college . it's free to get in and they are located on sidney street . would you like more info ?
+hotel ( hotel-name = hobsons house )	yes , there is the hobsons house . shall i go ahead and book that for you ?
+hotel ( hotel-name = express by holiday inn cambridge ; hotel-area = east ; hotel-pricerange = expensive ; hotel-stars = 2 ; hotel-type = hotel )	there is one expensive 2 star hotel . it is express by holiday inn cambridge and is located in the east . would you like me to book it for you ?
+attraction ( attraction-name = scott polar )	there is scott polar museum , would you be interested in that ?
+taxi ( taxi-destination = scott polar )	the scott polar is a museum in the cb21er post code . it has free entry .
+restaurant ( restaurant-name = sala thong )	sala thong seems like a good match !
+restaurant ( restaurant-name = cambridge chop house )	how about the cambridge chop house . phone is 01223359506 .
+attraction ( attraction-name = christ's college )	how about touring christ's college ? it is in the center of town and very renown and free to the public .
+hotel ( hotel-name = hamilton lodge )	that narrows it down to about 9 different options . most offer both free parking wifi . if you would like my personal recommendation , i would say go with the hamilton lodge .
+hotel ( hotel-name = the lensfield hotel ; hotel-type = hotel )	i have one hotel that would suit your needs . it's called the lensfield hotel . they offer free parking and free wifi . can i book you a room ?
+taxi ( taxi-departure = lensfield hotel )	i have one hotel that would suit your needs . it's called the lensfield hotel . they offer free parking and free wifi . can i book you a room ?
+restaurant ( restaurant-name = chiquito restaurant bar ; restaurant-pricerange = expensive )	there's the chiquito restaurant bar but its rather expensive . if that's okay , i can help you make a reservation .
+hotel ( hotel-name = allenbell )	i've booked you into allenbell hotel . you reference number is 1iypilk0 .
+restaurant ( restaurant-name = royal spice ; restaurant-food = indian ; restaurant-type = restaurant )	certainly , we have royal spice indian restaurant . can i make a reservation for you , if so how many diners are there ?
+restaurant ( restaurant-name = kymmoy ; restaurant-type = restaurant )	great , there's a restaurant called kymmoy that fits your criteria . would you like their information ?
+restaurant ( restaurant-name = shiraz restaurant ; restaurant-area = centre ; restaurant-phone = 01223307581 )	ok , is have booked you for the shiraz restaurant in the centre area , if you need to contact them they can be reached at 01223307581 , any other questions ?
+taxi ( taxi-destination = shiraz )	ok , is have booked you for the shiraz restaurant in the centre area , if you need to contact them they can be reached at 01223307581 , any other questions ?
+hotel ( hotel-name = acorn guest house )	there are 9 that fit your request . may i suggest the acorn guest house ? it's a nice place to stay .
+restaurant ( restaurant-name = the gardenia )	the gardenia isn't available at 16:00 . would you like to change the time or day ?
+restaurant ( restaurant-name = charlie chan ; restaurant-pricerange = cheap )	charlie chan is amazing and cheap ! would you like me to book it for you ?
+restaurant ( restaurant-name = pizza hut fen ditton )	what day and time would you like to eat at the pizza hut fen ditton ?
+attraction ( attraction-name = cafe jello gallery ; attraction-area = west )	how about cafe jello gallery in the west ?
+hotel ( hotel-name = cityroomz ; hotel-area = centre ; hotel-stars = 0 ; hotel-type = hotel )	cityroomz is a hotel in the centre of town with a 0 rating . would you like more information ?
+hotel ( hotel-name = ashley hotel )	you certainly may . i have you booked at the ashley hotel for two nights , beginning thursday , with a reference number of t65bhm4y .
+attraction ( attraction-name = all saints church ; attraction-area = centre )	i recommend all saints church . it is an attraction in the centre of town .
+hotel ( hotel-name = alexander bed and breakfast )	may i ask how many will be staying at the alexander bed and breakfast ?
+restaurant ( restaurant-name = kohinoor )	i was able to book at kohinoor for 16:00 on saturday for 3 people . your reference number is ntj52asi . the table will be held for 15 minutes .
+hotel ( hotel-name = alexander bed and breakfast ; hotel-area = centre )	the alexander bed and breakfast matches those qualifications , as well as being located in the centre . would you like a reservation or more information ?
+hotel ( hotel-name = ashley hotel )	i suggest the ashley hotel as it meets your needs . would you like me to book it for you ?
+attraction ( attraction-name = riverboat georgina ; attraction-area = north ; attraction-entrance = ? ; attraction-type = boat )	riverboat georgina is in the north , it's a lovely boat ride . would you like their contact information ?
+attraction ( attraction-name = the place ; attraction-area = south ; attraction-entrance = ? )	the place is the only night club in the south of cambridge . would you like more information ?
+restaurant ( restaurant-name = the cambridge chop house )	sounds good . i have booked a table for 6 at the cambridge chop house on thursday at 12:00 . can i help with anything else ?
+restaurant ( restaurant-name = charlie chan ; restaurant-pricerange = cheap )	yes charlie chan is in the cheap price range . would you like a reservation ?
+attraction ( attraction-name = catharine's college )	there are several , but my favorite one is saint catharine's college . their phone number is 01223338300 and admission is free . do you need a cab ?
+restaurant ( restaurant-name = cambridge chop house )	i recommend the cambridge chop house . excellent food in a great location . i can book a table there , if you like .
+attraction ( attraction-name = clare hall ; attraction-area = west )	i like clare hall in the west part of town . do you have any preference to area ?
+restaurant ( restaurant-name = the bedouin )	the bedouin has bookings at that time . shall i book it for 8 people at 16:00 ?
+restaurant ( restaurant-name = de luca cucina and bar and riverside brasserie )	i found de luca cucina and bar and riverside brasserie . does either of them sound good for you ?
+attraction ( attraction-name = christ's college )	sure . how about christ's college ? it is located at saint andrew's street and is free .
+restaurant ( restaurant-name = graffiti ; restaurant-food = british )	i have 9 entries . you want me to make you a reservation at graffiti ? they serve british food .
+restaurant ( restaurant-booktime = 8:30 pm )	great , i can book you for wednesday at 8:30 pm .
+attraction ( attraction-name = museum of classical archaeology ; attraction-address = sidgwick avenue ; attraction-area = west ; attraction-entrance = free )	yes , there are 7 museums in the west part of town . may i recommend the museum of classical archaeology , located on sidgwick avenue ? entrance is free . would you like more information ?
+restaurant ( restaurant-name = midsummer house restaurant )	how about the midsummer house restaurant ?
+attraction ( attraction-name = soul tree nightclub )	yes i can ! there are 5 , but i like soul tree nightclub . what else can i help you with ?
+hotel ( hotel-name = ashley hotel )	booking was successful at the ashley hotel . your reference number is : u595dz8a . can i be of any further assistance today ?
+taxi ( taxi-departure = jesus college )	yes , i have found jesus college . it is located in the centre on jesus lane . the phone number is 01223339485 . postcode is cb58bl . entrance is free . anything else you need ?
+attraction ( attraction-name = broughton house gallery ; attraction-entrance = free ; attraction-type = museum )	the broughton house gallery is a museum in south cambridge and the cost of admission is free .
+hotel ( hotel-name = cambridge belfry )	the cambridge belfry is a match to your request . would you like to book a room there ?
+restaurant ( restaurant-name = golden curry )	i found 5 restaurants that serve indian food . how about the golden curry ? it's an expensive restaurant .
+restaurant ( restaurant-name = kohinoor ; restaurant-type = restaurant )	the name of the restaurant is kohinoor . is there anything else i can help you with ?
+attraction ( attraction-name = christ's college )	yes , 13 of them actually ! if you have no further specifications , then may i recommend christ's college ?
+attraction ( attraction-name = kambar )	ive got five choices here kambar is the club that is recently popular , would you like more information ?
+hotel ( hotel-name = alexander bed and breakfast ; hotel-pricerange = cheap ; hotel-stars = 4 )	i found two guesthouses matching your criteria . i would recommend the alexander bed and breakfast which is 4 stars and priced cheap . do you need a booking ?
+restaurant ( restaurant-name = riverside brasserie )	i have confirmed your reservation at riverside brasserie for wednesday at 11:45 . the table will be reserved for 15 minutes . your reference number is paljks0a . do you need further assistance ?
+attraction ( attraction-name = the cambridge punter ; attraction-area = centre ; attraction-entrance = ? )	there are two boats near the centre of town . scudamores punting co . and the cambridge punter . would you like the there addresses ?
+restaurant ( restaurant-name = ali baba ; restaurant-area = centre ; restaurant-food = lebanese ; restaurant-type = restaurant )	yes ! the ali baba is a moderately-priced lebanese restaurant in the centre of town . would you like to reserve a table ?
+hotel ( hotel-name = alexander bed and breakfast ; hotel-area = centre ; hotel-pricerange = cheap ; hotel-type = guesthouse )	alexander bed and breakfast is a cheap , four star guesthouse in centre . would you like me to book it for you ?
+hotel ( hotel-name = carolina bed and breakfast ; hotel-area = east ; hotel-stars = 4 )	i recommend carolina bed and breakfast in east . it gets 4 stars . would you like more info or for me to help book it ?
+attraction ( attraction-name = downing college ; attraction-entrance = free )	you're in luck . there are 13 . i'd recommend visiting downing college on saint andrew's street . entrance is free . would that work for you ?
+restaurant ( restaurant-name = the bedouin )	the bedouin fits that description . would you like any more information about the restaurant or assistance booking a visit ?
+taxi ( taxi-departure = university arms hotel )	the address for the university arms hotel is regent street and the phone number is 01223351241 . would you like me to make a reservation for you ?
+attraction ( attraction-name = christ's college )	christ's college is free to enter
+attraction ( attraction-name = cafe jello )	i have several . how does the cafe jello sound ? it has free admission .
+hotel ( hotel-name = cityroomz ; hotel-area = centre )	cityroomz is moderately priced and in the centre . would you like me to book a room for you ?
+hotel ( hotel-name = allenbell )	alright , how about the allenbell ? it also offers free parking !
+attraction ( attraction-name = cambridge artworks ; attraction-area = east ; attraction-entrance = free ; attraction-openhours = ? )	would you like to visit the cambridge artworks ? it is also in the east and has free admission .
+attraction ( attraction-name = castle galleries ; attraction-entrance = free )	how about castle galleries ? admission is free !
+restaurant ( restaurant-name = gourmet burger kitchen ; restaurant-address = regent street city centre )	the gourmet burger kitchen has exactly what you are looking for . it is located at regent street city centre .
+restaurant ( restaurant-name = panahar ; restaurant-address = 8 norfolk street city centre ; restaurant-food = indian )	oh yes , we have several indian restaurants ! i recommend panahar , located at 8 norfolk street city centre . would you like a table there ?
+restaurant ( restaurant-booktime = 18:45 )	the booking was successful at 18:45 . your reference number is : xlwrecbf . is there anything else that i can do for you ?
+attraction ( attraction-name = the junction ; attraction-address = clifton way ; attraction-area = south ; attraction-type = theatre )	unfortunately , we don't have a swimming pool there . as far as a theatre , we have the junction in the south on clifton way .
+restaurant ( restaurant-name = ask ; restaurant-address = 12 bridge street city centre )	i have the ask located at 12 bridge street city centre .
+attraction ( attraction-name = christ's college )	we have 13 colleges in the centre of town . personally , i would recommend christ's college located on saint andrew's street .
+attraction ( attraction-name = cambridge university botanic gardens ; attraction-address = bateman street ; attraction-area = centre ; attraction-type = park )	the cambridge university botanic gardens is a park on bateman street . it's located in the centre area . can i help you with anything else ?
+restaurant ( restaurant-name = maharajah tandoori restaurant ; restaurant-address = 41518 castle street city centre )	how about maharajah tandoori restaurant ? they are located at 41518 castle street city centre .
+hotel ( hotel-name = university arms hotel )	i have two hotels that meet your requirements . the alexander bed and breakfast , and the university arms hotel . would you like me to book a reservation for either one ?
+hotel ( hotel-name = warkworth house ; hotel-area = east ; hotel-stars = 4 ; hotel-type = guesthouse )	i recommend warkworth house , it's a moderately priced 4 star guesthouse . if you're not satisfied with this there are two other guesthouses in the east . would you like a reservation ?
+taxi ( taxi-departure = warkworth )	its address is warkworth terrace . anything else i can help ?
+attraction ( attraction-name = christ's college )	sure , how about christ's college located in the centre on saint andrew's street . the postcode is cb23bu . it is free to enter . is there anything else you need ?
+attraction ( attraction-name = saint catharine's )	saint catharine's college is at king's parade
+hotel ( hotel-name = acorn guest house )	acorn guest house matches that .
+hotel ( hotel-name = avalon )	the avalon is a moderately priced guesthouse-type that matches your criteria .
+restaurant ( restaurant-name = da vinci pizzeria )	there is one , da vinci pizzeria , would you like to book that ?
+train ( train-leaveat = 11:09 )	okay the tr9225 leaves at 11:09 and arrives by 12:54 .
+hotel ( hotel-name = acorn guest house ; hotel-area = north ; hotel-stars = 4 )	there are six moderately priced 4 star places in the north which offer free parking . the acorn guest house is a popular choice .
+hotel ( hotel-name = acorn guest house )	ok , you're booked at the acorn guest house , 82 arbury road , for 5 nights starting tuesday . your reference number is f2ck0qdq . is there anything else ?
+attraction ( attraction-name = funky fun house ; attraction-entrance = ? )	sure thing . does funky fun house sound good to you ?
+attraction ( attraction-name = christ's college )	there are 13 in the centre of the town , many of them offer free entrance . would you be interested in christ's college ?
+attraction ( attraction-name = cambridge contemporary art ; attraction-entrance = free )	i'd suggest cambridge contemporary art , it has free entrance . do you need help with anything else ?
+hotel ( hotel-name = acorn guest house )	the acorn guest house does match all of your requirements , would you like to book there ?
+attraction ( attraction-name = holy trinity church ; attraction-address = market street ; attraction-area = centre ; attraction-phone = 01223355397 )	how about holy trinity church , they are located on market street in the centre . phone number is 01223355397 .
+attraction ( attraction-name = ballare ; attraction-area = centre )	we have a few ! the ballare is good and is in the centre of the city .
+restaurant ( restaurant-name = the lucky star ; restaurant-address = cambridge leisure park clifton way cherry hinton )	there is 1 . it is called the lucky star and its address is cambridge leisure park clifton way cherry hinton . would you like me to make a reservation for you ?
+taxi ( taxi-destination = the lucky star ; taxi-arriveby = 18:45 )	i have booked the lucky star for 2 at 18:45 , the reference number is rveswv8i . is there anything else i can help with ?
+restaurant ( restaurant-name = cambridge chop house )	the cambridge chop house is available , would you like to book there ?
+restaurant ( restaurant-food = british )	they serve british food and their phone is 01223359506 . would you like to book a table ?
+hotel ( hotel-name = hobson's house )	ok , there is the hobson's house in the west of town . it's got 3 stars and is moderately priced with free wifi . would you like to start a booking ?
+restaurant ( restaurant-name = royal standard ; restaurant-area = east ; restaurant-food = gastropub ; restaurant-pricerange = expensive )	royal standard is an expensive gastropub in the east . would you like to book a table ?
+attraction ( attraction-name = mumford theatre ; attraction-address = anglia ruskin enterprise , east road )	i suggest the mumford theatre at anglia ruskin enterprise , east road .
+restaurant ( restaurant-name = zizzi cambridge ; restaurant-area = centre ; restaurant-food = italian ; restaurant-pricerange = cheap )	sure , how about zizzi cambridge , they offer cheap italian food in the town centre .
+hotel ( hotel-name = kirkwood house )	i have booked you at kirkwood house . reference number : a40vc3l5 . anything else you need ?
+restaurant ( restaurant-name = little seoul ; restaurant-type = restaurant )	i found the little seoul restaurant . would you like me to make a reservation ?
+attraction ( attraction-name = regency gallery ; attraction-address = 39 fitzroy street ; attraction-area = centre )	i have 11 museums in the centre . might i suggest the regency gallery . they are located at 39 fitzroy street .
+hotel ( hotel-name = ashley hotel )	yes , the ashley hotel has both free internet and parking .
+attraction ( attraction-name = castle galleries )	the castle galleries is very popular and it has no entrance fee . would you like the address ?
+hotel ( hotel-name = acorn guest house )	acorn guest house is available if that works for you .
+hotel ( hotel-name = aylesbray lodge guest house ; hotel-area = south ; hotel-pricerange = moderate ; hotel-stars = 4 ; hotel-type = guesthouse )	aylesbray lodge guest house is a 4 star guesthouse in the south part of town in the moderate price range and includes both internet and parking .
+restaurant ( restaurant-name = frankie and bennys )	how about frankie and bennys ?
+attraction ( attraction-name = castle galleries )	i would suggest castle galleries .
+hotel ( hotel-name = express by holiday inn cambridge ; hotel-area = east ; hotel-stars = 2 )	the gonville has 3 stars . there is another - the express by holiday inn cambridge - that has 2 stars . it is in the east and has free wifi .
+taxi ( taxi-destination = gonville )	the gonville has 3 stars . there is another - the express by holiday inn cambridge - that has 2 stars . it is in the east and has free wifi .
+taxi ( taxi-destination = holy trinity church )	holy trinity church is an architectural attraction in the centre . the phone number is 01223355397 . would you also like the address ?
+hotel ( hotel-name = alexander bed and breakfeast )	how about the alexander bed and breakfeast guesthouse ? it is in the cheap price range and has 4 stars .
+attraction ( attraction-name = all saints church )	what about all saints church ?
+taxi ( taxi-departure = all saints church )	all saints church is an architecture type attraction .
+hotel ( hotel-name = rosa's )	rosa's bed and breakfast is cheap . can i make a reservation for you ?
+hotel ( hotel-name = alexander bed and breakfast ; hotel-pricerange = cheap ; hotel-stars = 4 ; hotel-type = guesthouse )	the alexander bed and breakfast is a cheap guesthouse in that area , it has 4 stars and offers free wifi . can i book this for you ?
+restaurant ( restaurant-name = yippee noodle bar ; restaurant-food = asian oriental )	yippee noodle bar serves asian oriental food .
+hotel ( hotel-name = express by holiday inn cambridge ; hotel-area = east )	there is one located in the east , express by holiday inn cambridge . it has free internet and parking , would you like to book ?
+restaurant ( restaurant-name = bedouin )	i've booked table at bedouin for you at 14:15 . the table will be reserved for 15 minutes . your reference number is k6qafbcr .
+restaurant ( restaurant-name = little seoul )	you can go to little seoul . would you like for me to book you a table ?
+restaurant ( restaurant-name = prezzo ; restaurant-address = 21 - 24 northampton road )	how about prezzo ? it's located at 21 - 24 northampton road .
+hotel ( hotel-name = allenbell )	everyone seems to enjoy the allenbell .
+attraction ( attraction-name = holy trinity church ; attraction-area = centre ; attraction-type = architecture )	there are a total of 5 different architecture locations in the centre that you may be interested . i recommend visiting the holy trinity church .
+attraction ( attraction-name = christ's )	christ's college is in town centre , located at saint andrew's street . it has free entrance . do you want their contact number ?
+restaurant ( restaurant-name = la tasca )	there are two - la tasca is moderately priced and la raza is on the cheap side . do either of those meet your needs ?
+attraction ( attraction-name = all saint's church )	if you can't tell me what type of attractions you're looking for , i will pick the first option on the list : all saint's church in the centre , admission is free .
+taxi ( taxi-departure = cambridge artworks )	cambridge artworks is my favorite . their phone number is 01223902168 .
+taxi ( taxi-destination = nandos in the city centre )	ok ! i have booked a table for 8 people on saturday at 17:00 at nandos in the city centre .
+restaurant ( restaurant-name = bangkok city ; restaurant-food = thai ; restaurant-type = restaurant )	bangkok city is a thai restaurant that would meet your needs .
+attraction ( attraction-name = club salsa )	club salsa is a night club if you like dancing .
+restaurant ( restaurant-name = the oak bistro )	the oak bistro is one of several restaurants that match your description . would you like me to book a table there for that time ?
+hotel ( hotel-name = acorn guest house )	would you like to try the acorn guest house ?
+attraction ( attraction-name = all saints church )	how about all saints church ?
+restaurant ( restaurant-name = yippee noodle bar )	i think yippee noodle bar would fit your needs .
+restaurant ( restaurant-name = riverside )	riverside is modern european . i also have de luca .
+hotel ( hotel-name = ashley hotel ; hotel-address = 74 chesterton road ; hotel-phone = 01223350059 ; hotel-pricerange = moderate ; hotel-stars = 2 )	ashley hotel is rated 2 stars and is in the moderate price range . their phone number is 01223350059 and address is 74 chesterton road .
+restaurant ( restaurant-name = golden wok ; restaurant-food = chinese )	there are two resturants in the area moderately priced , the golden wok and the nirala . one is chinese and one is indian .
+hotel ( hotel-name = bridge guest house ; hotel-area = south ; hotel-stars = 3 )	i have 3 guesthouses available . the bridge guest house is in the south . the hamilton lodge is in the north . and the hobsons house is in the west .
+restaurant ( restaurant-name = hk fusion ; restaurant-food = chinese ; restaurant-pricerange = expensive )	i found 4 different expensive chinese restaurants that you could try . how does hk fusion sound to you ?
+restaurant ( restaurant-name = little seoul )	i'm sorry , there are no other options for the criteria you have provided . would you like more information about little seoul ?
+hotel ( hotel-name = acorn guest house )	acorn guest house would suit your needs . would you like me to book it for you ?
+taxi ( taxi-destination = hakka )	ok , i recommend the hakka on milton road , chesterton . would you like me to book a table for you ?
+restaurant ( restaurant-name = travellers rest )	i would suggest this place travellers rest .
+attraction ( attraction-name = cambridge university botanic gardens )	cambridge university botanic gardens is always a fun way to spend time on a beautiful day . it is gorgeous this time of year . can i give you more information ?
+hotel ( hotel-name = alexander bed and breakfast ; hotel-stars = 4 )	there are two hotels that fit your criteria . i would recommend the alexander bed and breakfast as it gets 4 stars .
+taxi ( taxi-departure = club salsa )	club salsa is a great nightclub in the area . their phone number is 07782218745 . their postcode is cb12jb . their entrance fee is currently 5 pounds . can i help with something else ?
+restaurant ( restaurant-name = de luca cucina and bar )	okay , reservation made at de luca cucina and bar . reference number is : 0xfpi4ib .
+restaurant ( restaurant-name = kohinoor ; restaurant-address = 74 mill road city centre ; restaurant-phone = 01223323639 )	the kohinoor matches your search . the phone number is 01223323639 , and the address is 74 mill road city centre . would you like me to book that for you ?
+restaurant ( restaurant-name = the missing sock ; restaurant-area = east ; restaurant-food = international ; restaurant-pricerange = cheap ; restaurant-type = restaurant )	the missing sock is a cheap restaurant in the east part of town . they serve international food . would you like me to book that for you ?
+hotel ( hotel-name = acorn guest house )	none of those do have parking . i recommend acorn guest house instead
+restaurant ( restaurant-name = anatolia ; restaurant-area = centre ; restaurant-type = restaurant )	yes ! there is efes restaurant or anatolia . both are moderately priced in the city centre . would you like me to make a booking at one ?
+attraction ( attraction-name = castle galleries ; attraction-type = museum )	okay , there are 11 different options . i recommend castle galleries . would you like information on this museum ?
+hotel ( hotel-name = city centre north b and b.it )	that could be city centre north b and b.it is cheap with both internet and parking . can i reserve for you ?
+attraction ( attraction-name = holy trinity church ; attraction-area = centre ; attraction-entrance = free ; attraction-type = architecture )	there are 5 architecture attractions in the city centre . 4 of these are free to get in , and one has an entry fee . my personal favorite is the holy trinity church .
+attraction ( attraction-name = cambridge artworks ; attraction-area = east ; attraction-entrance = free ; attraction-openhours = ? )	i recommend cambridge artworks in the east . it's free to go to . does that work ?
+hotel ( hotel-name = acorn guest house )	okay , i recommend the acorn guest house . would you like me to book a reservation ?
+taxi ( taxi-destination = tenpin ; taxi-departure = hobsons house )	to clarify , you'd like a taxi from hobsons house to tenpin , correct ? and for what time of day would you like the taxi ?
+attraction ( attraction-name = castle galleries )	the castle galleries 01223357708 and the address is unit su43 grande arcade saint andrews st .
+hotel ( hotel-name = city centre north b and b )	first , there is no fee for castle galleries . second , city centre north b and b is a guesthouse in the north with zero stars . shall i book it ?
+taxi ( taxi-departure = cambridge lodge restaurant )	the postcode for the cambridge lodge restaurant is cb30dq . can i help with anything else today ?
+hotel ( hotel-name = allenbell ; hotel-area = east ; hotel-type = guesthouse )	the allenbell is on the east side of town , is a guesthouse type , and has parking and wifi . would you like me to book it ?
+restaurant ( restaurant-name = curry garden ; restaurant-address = 106 regent street city centre )	there is the curry garden located at 106 regent street city centre . will that work for you ?
+restaurant ( restaurant-name = royal spice ; restaurant-address = victoria avenue chesterton ; restaurant-area = north ; restaurant-phone = 01733553355 ; restaurant-postcode = cb41eh )	ok , lets go with royal spice , it's in the north area , the phone number is 01733553355 , the postcode is cb41eh , and the address is victoria avenue chesterton .
+restaurant ( restaurant-name = cotto ; restaurant-food = british )	i would like to suggest cotto it serves british food . would you like to make reservations ?
+attraction ( attraction-name = christ's college )	christ's college is in the centre of town .
+hotel ( hotel-name = acorn guest house ; hotel-area = north ; hotel-stars = 4 )	how about the acorn guest house ? it is rated 4 stars and is on the north side of town . they offer free parking and internet .
+hotel ( hotel-name = allenbell )	i was unable to book allenbell for you . would you like me to try 3 nights instead ? or would you like me to check the other locations ?
+restaurant ( restaurant-name = midsummer house restaurant ; restaurant-food = british )	ok , how about some british cuisine , want to give midsummer house restaurant a try ?
+attraction ( attraction-name = old schools ; attraction-address = trinity lane ; attraction-area = centre ; attraction-entrance = free )	old schools is in town centre located at trinity lane and has free entrance . do you need any further information ?
+hotel ( hotel-name = allenbell )	i would suggest allenbell then .
+attraction ( attraction-name = cambridge artworks ; attraction-entrance = free ; attraction-openhours = ? ; attraction-type = museum )	how about the cambridge artworks museum ? it has free admission .
+restaurant ( restaurant-name = fitzbillies restaurant )	ok , how about fitzbillies restaurant ?
+hotel ( hotel-name = alexander bed and breakfast ; hotel-area = centre ; hotel-pricerange = cheap ; hotel-type = guesthouse )	may i suggest alexander bed and breakfast ? it is a cheap guesthouse in the centre of town . would you like me to reserve any rooms ?
+hotel ( hotel-name = cityroomz )	i would like to suggest cityroomz . is there any information you need about it ?
+taxi ( taxi-destination = all saints church )	might i suggest all saints church . the postcode is cb58bs and it is located on jesus lane . there is also no entrance fee .
+hotel ( hotel-name = allenbell )	no , it isn't but allenbell is . would you like a room there ?
+hotel ( hotel-name = acorn guest house ; hotel-stars = 4 )	how about acorn guest house ? it's 4 stars .
+restaurant ( restaurant-name = hakka )	in that case i recommend hakka . would you like a table ?
+attraction ( attraction-name = the junction ; attraction-area = south )	okay , the junction is located in the south .
+restaurant ( restaurant-name = city stop restaurant ; restaurant-area = north ; restaurant-food = european ; restaurant-pricerange = expensive ; restaurant-type = restaurant )	i suggest that you try city stop restaurant . it is an expensive european restaurant in the north part of town . would you like to book a table ?
+taxi ( taxi-departure = cambridge contemporary art )	well there is the cambridge contemporary art museum that is free to enter and is located at 6 trinity street . does that interest you ?
+taxi ( taxi-destination = warkworth )	the address is warkworth terrace and they do have free internet and parking . would you like for me to book it ?
+hotel ( hotel-name = acorn guest house )	how about the acorn guest house ?
+restaurant ( restaurant-name = eraina ; restaurant-food = european ; restaurant-type = restaurant )	i recommend the eraina which is a european restaurant . would you like for me to book a table ?
+hotel ( hotel-name = lensfield hotel )	how about the lensfield hotel ? would you also like to make a booking ?
+attraction ( attraction-name = christ's college )	i hear christ's college is nice , want more info ?
+taxi ( taxi-departure = acorn guest house )	acorn guest house is a nice place do you want more info ?
+hotel ( hotel-name = hamilton lodge )	the hamilton lodge matches your criteria . would you like more information ?
+taxi ( taxi-destination = charlie chan )	certainly . the phone number for charlie chan is 01223361763 . is there something else i can help you with today ?
+restaurant ( restaurant-name = the oak bistro ; restaurant-food = british )	okay i took the liberty of booking you into the oak bistro that serves traditional british food . your reference number is ba2mq3eb .
+hotel ( hotel-name = acorn guest house )	what about acorn guest house ?
+hotel ( hotel-name = allenbell )	i have confirmed your reservation at allenbell starting on sunday for 5 nights . your reference number is sltivabu . can i help with anything else ?
+hotel ( hotel-name = autumn house )	they are all avaliable for monday . shall i book you a reservation with the autumn house ?
+restaurant ( restaurant-name = the slug and lettuce ; restaurant-food = gastropub )	the slug and lettuce is a gastropub in that area . their number is not provided , but the address is 34-35 green street . would you like to make a reservation ?
+attraction ( attraction-name = emmanuel college )	that's ok ! i recommend emmanuel college . is there any information you would like to have ?
+restaurant ( restaurant-name = la tasca ; restaurant-area = centre ; restaurant-food = spanish )	i have found la tasca which serves spanish food in town centre . would you like me to reserve a table for you here ?
+restaurant ( restaurant-booktime = 16:30 )	booking was successful for 16:30 . the table will be reserved for 15 minutes . reference number is : ci38i8z2 .
+restaurant ( restaurant-name = the lucky star ; restaurant-address = cambridge leisure park clifton way cherry hinton ; restaurant-area = south ; restaurant-food = chinese ; restaurant-type = restaurant )	i can book the lucky star chinese restaurant in the south . it's address is cambridge leisure park clifton way cherry hinton . is there anything else i can help with ?
+restaurant ( restaurant-name = charlie chan's )	sure charlie chan's address is regent street city centre and their telephone number is 01223361763 .
+hotel ( hotel-name = ashley hotel )	ashley hotel is moderately priced and has free wifi . what night would you like to begin your stay ?
+restaurant ( restaurant-name = hotel du vin and bistro ; restaurant-signature =  ; restaurant-type = restaurant )	hotel du vin and bistro is a moderately priced restaurant in the center of town . would you like to book a table there ?
+restaurant ( restaurant-name = zizzi cambridge )	i am showing 3 of them . zizzi cambridge is really good . i can give you more information if you would like .
+attraction ( attraction-name = vue cinema ; attraction-address = the grafton centre , east road )	i have the vue cinema located at the grafton centre , east road .
+attraction ( attraction-name = jello )	i found several museums . i might suggest cafe jello gallery but i am not sure if they allow ferrets .
+restaurant ( restaurant-name = hotel du vin and bistro ; restaurant-signature =  )	hotel du vin and bistro is what i recommend , great food and ferret friendly , would you like more information ?
+restaurant ( restaurant-name = cotto )	sure thing how about cotto ?
+taxi ( taxi-arriveby = 14:30 )	table for 4 at cotto has been reserved for 14:30 . they will hold your table for 15 minutes . your reference number is : iks3hxlj .
+restaurant ( restaurant-name = the gardenia ; restaurant-area = centre ; restaurant-pricerange = cheap )	there is the gardenia in the centre . it is cheap . would you like me to book for you ?
+restaurant ( restaurant-name = curry garden )	yes , curry garden . would you like me to book it for you ?
+attraction ( attraction-name = museum of archaelogy and anthropology )	there are eleven museums matching your criteria . may i suggest museum of archaelogy and anthropology ?
+hotel ( hotel-name = cityroomz ; hotel-area = centre ; hotel-pricerange = moderate ; hotel-stars = 0 )	there is the cityroomz in the centre . it has a moderate price and 0 stars . it offers free internet . can i book this for you ?
+taxi ( taxi-departure = saint barnabas press gallery's )	saint barnabas press gallery's postcode is cb13ew . would you like more information ?
+restaurant ( restaurant-name = the gardenia )	the gardenia would suit you just right . i would be happy to book a reservation for you if you would like ?
+attraction ( attraction-name = ballare ; attraction-postcode = cb23na )	then how about ballare ? it's code is cb23na .
+attraction ( attraction-name = all saints church )	all saints church seems like a great attraction .
+hotel ( hotel-name = allenbell ; hotel-address = 517a coldham lane ; hotel-type = guesthouse )	okay , i have booked the allenbell guesthouse . the address is 517a coldham lane .
+attraction ( attraction-name = cherry hinton water play ; attraction-address = cherry hinton hall , cherry hinton road ; attraction-postcode = cb18dw )	how about cherry hinton water play . it is located at cherry hinton hall , cherry hinton road , postcode cb18dw .
+hotel ( hotel-name = express by holiday inn cambridge ; hotel-pricerange = expensive ; hotel-type = hotel )	how about the express by holiday inn cambridge ? they are an expensive hotel .
+restaurant ( restaurant-name = grafton hotel restaurant )	sure , i have made a reservation for 6 people at 12:00 thursday at grafton hotel restaurant reference number is : swdeohlf . may i help with anything else ?
+hotel ( hotel-name = hobsons house )	there is hobsons house , would you like to stay there ?
+restaurant ( restaurant-name = restaurant two two )	yes , there is a restaurant called restaurant two two located at 22 chesterton road chesterton . their phone number is 01223351880 .
+attraction ( attraction-name = cambridge artworks ; attraction-address = 5 greens road ; attraction-area = east )	i would highly recommend cambridge artworks located at 5 greens road . it is located on the east side of town .
+restaurant ( restaurant-name = two two )	restauranr two two is a nice place,would you like me to book it for you ?
+taxi ( taxi-departure = christ's college )	the first on my list is christ's college on saint andrew's street , there is no entrance fee . is this good .
+taxi ( taxi-destination = curry prince )	how about curry prince ? it is also located in the east .
+hotel ( hotel-name = el shaddai ; hotel-area = centre ; hotel-stars = 0 )	at 0 stars your choices are el shaddai , or city centre north b&b .
+attraction ( attraction-name = camboats ; attraction-entrance = ? ; attraction-type = boat )	camboats is very fun , a boat attraction . would you like more info on it ?
+attraction ( attraction-name = museum of classical archaeology ; attraction-address = sidgwick avenue ; attraction-area = west ; attraction-entrance = free )	yes , the museum of classical archaeology is in the west on sidgwick avenue . it offers free entry .
+restaurant ( restaurant-name = the missing sock )	alright , i have one location for that : the missing sock . would you like me to make you reservations here ?
+hotel ( hotel-name = avalon ; hotel-area = north ; hotel-type = guesthouse )	the avalon is a moderate-price guesthouse in the north with a 4-star rating and internet . do you want me to book it ?
+restaurant ( restaurant-name = pizza )	yes i have two pizza places to choose from . would you like me to suggest one and make a booking for you ?
+taxi ( taxi-departure = king's college )	how about king's college in centre . address is king's parade , phone 01223331100 .
+taxi ( taxi-leaveat = 2:45 p.m . )	okay i have that booked for you , the contact number is 0 754-399-4513 , be looking for a yellow ford to pick you up from king's college around 2:45 p.m . and take you to pizza express .
+restaurant ( restaurant-name = stazione restaurant and coffee bar )	how about stazione restaurant and coffee bar ?
+restaurant ( restaurant-name = tandoori palace ; restaurant-food = indian )	there are five indian restaurants that meet your criteria . may i suggest tandoori palace at 68 histon road in chesterton ?
+hotel ( hotel-name = carolina bed and breakfast )	there are 6 choices . may i recommend the moderately priced carolina bed and breakfast ?
+hotel ( hotel-name = allenbell )	i was able to book allenbell for you for 1 night on wednesday . the reference number is cs4g5qzo .
+attraction ( attraction-name = cambridge artworks )	cambridge artworks is available to book .
+hotel ( hotel-name = acorn guest house )	do you have a specific price range or would you like the acorn guest house ?
+hotel ( hotel-name = a and b guest house ; hotel-address = 124 tenison road )	a and b guest house is located in 124 tenison road
+hotel ( hotel-name = acorn guest house ; hotel-stars = 4 )	what about the acorn guest house ? it gets 4 stores and is moderately priced .
+hotel ( hotel-name = el shaddai )	i've got the el shaddai . it has free internet and parking . would you like to book ?
+hotel ( hotel-name = cityroomz )	cityroomz is located in the center , would you like me to make a reservation ?
+restaurant ( restaurant-name = de luca cucina and bar )	there are two results . de luca cucina and bar and riverside brasserie , can i book one of these for you ?
+attraction ( attraction-name = museum of archaelogy and anthropology ; attraction-area = centre )	would you like to visit museum of archaelogy and anthropology , they are in the centre of town .
+hotel ( hotel-name = carolina bed and breakfast )	how about carolina bed and breakfast ?
+hotel ( hotel-name = finches bed and breakfast ; hotel-area = west ; hotel-pricerange = cheap ; hotel-type = guesthouse )	finches bed and breakfast is a cheap guesthouse on the west side of town . should i reserve you any rooms ?
+restaurant ( restaurant-name = gourmet burger kitchen ; restaurant-address = regent street city centre )	the gourmet burger kitchen would be perfect for you ! it's at regent street city centre . would you like more information ?
+taxi ( taxi-destination = cambridge artworks )	cambridge artworks is located at 5 greens road
+hotel ( hotel-name = autumn house )	would you like me to book a room at the autumn house for you ?
+restaurant ( restaurant-name = riverside brasserie )	how does the riverside brasserie sound ? it's at the doubletree .

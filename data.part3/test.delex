@@ -1,0 +1,746 @@
+attraction ( attraction-name ; attraction-address ; attraction-entrance )	<attraction-name> is lovely , they are on <attraction-address> and <attraction-entrance> admission
+taxi ( taxi-departure )	the postcode is cb21tt . are you looking for a taxi from <taxi-departure> to the golden wok ?
+taxi ( taxi-arriveby )	i have booked you a taxi for friday to arrive at old schools at <taxi-arriveby> . is there anything else i may help you with ?
+hotel ( hotel-name ; hotel-type )	i would recommend the <hotel-name> . it is indeed a <hotel-type> despite it's name and is very cute .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange )	we have three <restaurant-pricerange> <restaurant-food> restaurants in the <restaurant-area> . may i suggest the <restaurant-name> ?
+hotel ( hotel-name ; hotel-type )	how about the <hotel-name> <hotel-type> ?
+train ( train-leaveat ; train-departure ; train-destination )	i have only one train that would be close to those traveling times . it leaves <train-destination> at <train-leaveat> and arrives in <train-departure> at 12:08 .
+train ( train-leaveat ; train-arriveby ; train-departure )	tr7143 will arrive in <train-departure> saturday by <train-arriveby> , it will depart peterborough at <train-leaveat> . does this suit your needs ?
+restaurant ( restaurant-name ; restaurant-food )	there is <restaurant-name> that serves <restaurant-food> food . would you like to book a table there ?
+hotel ( hotel-name )	i have 2 options for you - the <hotel-name> on the west side , and the university arms in the center . are you interested in one of these ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-stars ; hotel-type )	actually , the <hotel-name> is a <hotel-stars> start <hotel-type> in the <hotel-area> area . it's in the <hotel-pricerange> price range . how does that sound ?
+restaurant ( restaurant-name ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is an <restaurant-pricerange> <restaurant-type> in the same area as the hotel , would you like me to make reservations for you ?
+hotel ( hotel-name )	i found <hotel-name> matching your request . would you like to book a room now ?
+attraction ( attraction-name )	<attraction-name> is 2 pounds and the other 4 are free . would you like the address for <attraction-name> ?
+attraction ( attraction-name ; attraction-address ; attraction-entrance ; attraction-postcode ; attraction-openhours )	yes , there are 11 museums . i'd recommend <attraction-name> . it's at <attraction-address> <attraction-postcode> and has <attraction-entrance> entrance . would that work for you <attraction-openhours>
+taxi ( taxi-destination )	there are several nightclubs in town . i recommend <taxi-destination> . it is found in the center of town .
+attraction ( attraction-name )	yes , there are 5 . i can highly recommend <attraction-name> , it's beautiful .
+train ( train-leaveat )	the first train to leave stevenage after 09:45 leaves at <train-leaveat> and costs 12.80 pounds . would you like me to book that for you ?
+hotel ( hotel-name )	i was able to book <hotel-name> , reference number is 7cakixh2 .
+hotel ( hotel-name )	the <hotel-name> is supposed to be great and it offers free wifi . would you like me to book you a room ?
+hotel ( hotel-name ; hotel-area ; hotel-stars ; hotel-type )	the <hotel-name> is a <hotel-stars> star <hotel-type> . it is in the <hotel-area> area . would you like to book a room ?
+attraction ( attraction-name )	there are 5 museums in the west . i recommend <attraction-name> . would you like the address and phone ?
+restaurant ( restaurant-name )	i have one restaurant in the north end called <restaurant-name> in the expensive range .
+hotel ( hotel-name ; hotel-address )	<hotel-name> is a 4-star hotel located in <hotel-address> , should i book it for you ?
+restaurant ( restaurant-name )	your table for 7 is reserved at <restaurant-name> . your reference number is : 2ozt0p7i . is there anything else i can help you with today ?
+train ( train-leaveat ; train-arriveby ; train-departure )	my apologies . how about this : tr3420 leaves <train-departure> at <train-leaveat> and arrives in ely at <train-arriveby> . would this be better ?
+attraction ( attraction-name ; attraction-address ; attraction-phone ; attraction-openhours )	<attraction-name> can be reached by phone at <attraction-phone> . their address is <attraction-address> . will that be all today <attraction-openhours>
+restaurant ( restaurant-name )	<restaurant-name> would suit your needs , can i book a table for you ?
+hotel ( hotel-name )	<hotel-name> would fit that criteria , would you like to make a booking ?
+hotel ( hotel-name )	<hotel-name> fits your criteria . can i book this ?
+hotel ( hotel-name )	i recommend the <hotel-name> . would you like a room there ?
+restaurant ( restaurant-name )	i recommend <restaurant-name> chan . would you like to reserve a table ?
+hotel ( hotel-name )	<hotel-name> has free parking . that looks to be the only option available .
+restaurant ( restaurant-name ; restaurant-food ; restaurant-pricerange )	<restaurant-name> and sitar tandoori are the 2 <restaurant-pricerange> <restaurant-food> restaurants in the area . do you want the information on those ?
+attraction ( attraction-name ; attraction-area ; attraction-entrance )	<attraction-name> is located in the <attraction-area> . it has a <attraction-entrance> entrance fee .
+train ( train-arriveby )	how about the tr2771 ? it arrives at <train-arriveby> . shall i book you a ticket ?
+hotel ( hotel-name ; hotel-address )	how about the <hotel-name> at <hotel-address> ?
+attraction ( attraction-name ; attraction-entrance ; attraction-type )	there is a <attraction-type> there called <attraction-name> . anything else today <attraction-entrance>
+attraction ( attraction-name )	<attraction-name> is in the centre of town .
+taxi ( taxi-destination )	<taxi-destination> is also located in the centre of town . their phone number is 01223314960 . is there anything else i can assist you with today ?
+taxi ( taxi-leaveat )	i have booked you a taxi leaving at <taxi-leaveat> . it will be a blue volvo and the contact number is 07695646111 .
+attraction ( attraction-name ; attraction-address )	<attraction-name> on <attraction-address> is my favorite . next would be the cambridge corn exchange .
+hotel ( hotel-name )	express by <hotel-name> is an expensive hotel located in the east , and it includes parking . would you like me to book a stay there for you ?
+hotel ( hotel-name )	<hotel-name> is available if that works for you .
+restaurant ( restaurant-name )	<restaurant-name> meets all of your requirements . would you like more info on them ?
+hotel ( hotel-name )	the name is <hotel-name> . would you like to book a room there ?
+restaurant ( restaurant-name ; restaurant-type )	i can recommend a <restaurant-type> called <restaurant-name> , would you like me to make reservations for you ?
+attraction ( attraction-name )	well i would suggest <attraction-name> which is free to enter and is located on saint andrew's street .
+attraction ( attraction-name ; attraction-entrance ; attraction-phone )	how about <attraction-name> ? it is <attraction-entrance> , and the phone number is <attraction-phone> .
+attraction ( attraction-name )	<attraction-name> is beautiful .
+train ( train-arriveby )	how about the 13:34 that would arrive at <train-arriveby> ?
+restaurant ( restaurant-name )	okay , i have the <restaurant-name> . what time would you like me to book your reservation ?
+attraction ( attraction-name ; attraction-area ; attraction-entrance )	<attraction-name> is located in the <attraction-area> and is <attraction-entrance> to visit . would you like more information on it ?
+restaurant ( restaurant-name ; restaurant-food )	we do have an <restaurant-food> place . <restaurant-name> . would you like to book a table ?
+taxi ( taxi-destination )	sure , the <taxi-destination> is good , the price range is cheap and postcode is cb21db .
+taxi ( taxi-departure )	<taxi-departure> is famous for its architecture . it's located on jesus lane , cb58bs . they can be reached at 01223452587 . is there anything else i can find for you ?
+hotel ( hotel-name ; hotel-address ; hotel-phone ; hotel-postcode )	ok , i've made you a booking at <hotel-name> , on <hotel-address> , <hotel-postcode> . phone is <hotel-phone> . the reference number is jxgopprz .
+hotel ( hotel-name )	the <hotel-name> meets your needs . would you like to book a room ?
+taxi ( taxi-departure )	out of the 21 restaurant choices , one is the <taxi-departure> which is moderately priced in the centre of town . would you like to make a reservation ?
+hotel ( hotel-name ; hotel-type )	the <hotel-name> <hotel-type> is moderatly priced , and has free internet and parking . would you like to make a reservation now ?
+taxi ( taxi-destination )	alright , i was able to book your hotel room at the <taxi-destination> , for 3 people , for one night . your reference number is e62ixzgb . is there anything else i can do ?
+attraction ( attraction-name ; attraction-address ; attraction-entrance )	<attraction-name> is located at <attraction-address> . it is <attraction-entrance> of charge . can i provide further assistance ?
+train ( train-leaveat ; train-arriveby )	tr0623 leaves at <train-leaveat> and will arrive at leicester at <train-arriveby> . the trip will take 105 minutes and will cost 37.80 pounds . would you like to book ?
+hotel ( hotel-name )	i would suggest <hotel-name> . what price rage are you looking for ?
+train ( train-leaveat ; train-arriveby ; train-departure ; train-destination ; train-duration )	there is a train , # tr4824 from <train-destination> to <train-departure> on saturday at <train-leaveat> . arrives at <train-arriveby> . it costs 18.88 pounds and takes <train-duration> to arrive . is that ok ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-pricerange ; restaurant-type )	there is a <restaurant-pricerange> chinese <restaurant-type> called the <restaurant-name> located in the <restaurant-area> of town . would you like to book a table ?
+attraction ( attraction-name )	<attraction-name> looks good , would you like to head there ?
+attraction ( attraction-name )	how about <attraction-name> ?
+attraction ( attraction-name ; attraction-address ; attraction-entrance )	i have the <attraction-name> on <attraction-address> . would that work for you <attraction-entrance>
+attraction ( attraction-name ; attraction-openhours )	the <attraction-name> is nice and has no entrance fee . would you like the address or phone number <attraction-openhours>
+train ( train-leaveat )	there is a train that will arrive at <train-leaveat> . would you like me to book it ?
+attraction ( attraction-name )	how about <attraction-name> ?
+hotel ( hotel-name ; hotel-area ; hotel-stars )	cambridge has 8 moderately priced guesthouses in the <hotel-area> . i would suggest <hotel-name> , with a star rating of <hotel-stars> . would you like me to book it ?
+restaurant ( restaurant-name ; restaurant-address ; restaurant-food )	<restaurant-name> serves <restaurant-food> food , it's located at <restaurant-address> . would you like to hear about any others ? there are 33 results if <restaurant-food> food isn't your style .
+taxi ( taxi-departure )	absolutely , the address for the <taxi-departure> is gonville place . would you like me to book a reservation for you ?
+hotel ( hotel-name ; hotel-address ; hotel-type )	<hotel-name> is a 2-star <hotel-type> in <hotel-address>
+hotel ( hotel-name ; hotel-address )	you are booked at the <hotel-name> at <hotel-address> . reference number is : xxrwc1jw . can i help with anything else today ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is a <restaurant-food> <restaurant-type> located in the <restaurant-area> at a <restaurant-pricerange> price . would you like to book a table ?
+taxi ( taxi-departure )	the <taxi-departure> is in this area .
+restaurant ( restaurant-name ; restaurant-area )	okay , i recommend <restaurant-name> in the <restaurant-area> . would you like their information ?
+restaurant ( restaurant-name ; restaurant-area )	i have found <restaurant-name> which is here in the <restaurant-area> . would you like to start a reservation ?
+taxi ( taxi-departure )	there's a church called <taxi-departure> you could visit , it's listed under architecture .
+hotel ( hotel-name )	i have you booked at <hotel-name> at 710 newmarket road . the reference number is : s0jdzbtq .
+taxi ( taxi-departure )	sure , how about <taxi-departure> ? it's at regent street city centre cb21ab and can be reached at 01223323737 . may i help with anything else ?
+taxi ( taxi-departure )	<taxi-departure> is in the east . would you like the address and postal code ?
+restaurant ( restaurant-name )	i was able to book <restaurant-name> and your reference is 7j4exp7m .
+taxi ( taxi-destination )	<taxi-destination> has a free entrance fee . the address is <taxi-destination> , 13 magdalene street and the post code is cb30af . can i help you with anything else ?
+restaurant ( restaurant-name )	i recommend <restaurant-name> . shall i make a booking for you ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-stars ; hotel-type )	<hotel-name> is a <hotel-pricerange> price , <hotel-stars> star <hotel-type> in the <hotel-area> area with wifi and parking . will that work ?
+hotel ( hotel-name ; hotel-area ; hotel-stars ; hotel-type )	<hotel-name> is <hotel-stars> star <hotel-type> in the <hotel-area> area with free internet and parking .
+hotel ( hotel-name )	<hotel-name> is nice . free internet too ! may i book a room for you today ?
+hotel ( hotel-name ; hotel-area )	how does the <hotel-name> sound ? it is in the <hotel-area> .
+hotel ( hotel-name ; hotel-type )	ok , i will book you in the <hotel-name> . how many people are staying in the <hotel-type> and for how many nights ?
+hotel ( hotel-name )	yes i have one called <hotel-name> . would you like me to book it for you ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-pricerange )	i have the <restaurant-name> in the <restaurant-area> . it is in the <restaurant-pricerange> range . would you like to make a booking ?
+restaurant ( restaurant-booktime )	ok , you are all set for cote on friday , table for 8 at <restaurant-booktime> . can i help with anything else ?
+hotel ( hotel-name )	the <hotel-name> is available . would you like me to book it ?
+restaurant ( restaurant-name ; restaurant-pricerange )	i am sorry . i mistook that price range . the <restaurant-name> is in the <restaurant-pricerange> range . would that work for you ?
+hotel ( hotel-name ; hotel-stars )	the <hotel-name> is a popular choice . it's inexpensive , but rated <hotel-stars> stars , and offers both free parking and free wifi .
+restaurant ( restaurant-name )	there are 3 available . which do you prefer : <restaurant-name> , ask , or zizzi cambridge ?
+hotel ( hotel-name )	how about the <hotel-name> ? it is in the same part of town and price range as the restaurant .
+restaurant ( restaurant-name )	there is one in that area called <restaurant-name>
+hotel ( hotel-name )	how about <hotel-name> ?
+hotel ( hotel-name )	i can try for the <hotel-name> , if you'd like . they're on chesterton road .
+hotel ( hotel-name )	<hotel-name> has free wifi and parking if you want to book there .
+train ( train-leaveat )	the first train leaves at <train-leaveat> .
+attraction ( attraction-name ; attraction-address ; attraction-entrance ; attraction-phone ; attraction-postcode ; attraction-type )	i have the <attraction-name> <attraction-type> . they have <attraction-entrance> entrance . the address is <attraction-address> . the postcode is <attraction-postcode> . phone number is <attraction-phone> .
+hotel ( hotel-name ; hotel-pricerange ; hotel-stars )	oh , no problem . you would love the <hotel-name> . <hotel-stars> stars , <hotel-pricerange> , free everything .
+restaurant ( restaurant-name )	<restaurant-name> may have availability .
+hotel ( hotel-name )	all right , i've booked you a room at <hotel-name> . the reference number is ytmc5ll4 . what else can i do for you ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-pricerange )	<restaurant-name> is located in the <restaurant-area> and is <restaurant-pricerange> .
+restaurant ( restaurant-name ; restaurant-food ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is a <restaurant-pricerange> <restaurant-type> . they serve <restaurant-food> cuisine . does that sound good ?
+restaurant ( restaurant-name ; restaurant-area )	<restaurant-name> is in the <restaurant-area> part of town , located at 68 histon road , chesterton . can i make a reservation for you ?
+restaurant ( restaurant-name )	how about the <restaurant-name> restaurant ? it is located in the city centre .
+taxi ( taxi-departure )	<taxi-departure> is your choice . its located in 151 hills road . can i give you the address
+restaurant ( restaurant-name ; restaurant-area )	yes , i was able to book you at <restaurant-name> in the <restaurant-area> , reference number ij75kacv . is there anything else i can help you with today ?
+hotel ( hotel-name )	how about <hotel-name> ?
+hotel ( hotel-name )	the <hotel-name> offers both .
+restaurant ( restaurant-name )	sure , how about <restaurant-name> . can i make a reservation for you ?
+attraction ( attraction-name )	i would recommend <attraction-name> . would you like the information ?
+restaurant ( restaurant-name ; restaurant-type )	i have found 1 <restaurant-type> matching your criteria , <restaurant-name> . would you like to try it ?
+taxi ( taxi-departure )	yes , there is the <taxi-departure> . would you like more information about it ?
+hotel ( hotel-name ; hotel-type )	the <hotel-name> is a <hotel-type> that meets your specifications . would you like any additional information ? i could also book a room for you .
+restaurant ( restaurant-name )	that one is called <restaurant-name> . how many people will be dining ?
+taxi ( taxi-leaveat )	i have booked a blue volvo . it will pick you up at the funky fun house at <taxi-leaveat> and get you to the restaurant in time for your 19:30 reservation . the contact number is 07566667235
+hotel ( hotel-name ; hotel-area )	the <hotel-name> is in the <hotel-area> with free wifi . would you like their address ?
+taxi ( taxi-destination )	the <taxi-destination> museum is located at 5 greens road cb13ef . it has free admission .
+attraction ( attraction-name ; attraction-address ; attraction-entrance ; attraction-postcode ; attraction-type )	the <attraction-name> <attraction-type> is located at <attraction-address> <attraction-postcode> . it has <attraction-entrance> admission .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-pricerange ; restaurant-type )	i have your reservation at the <restaurant-name> . it is an <restaurant-pricerange> <restaurant-type> on the <restaurant-area> . your reference number is 24r72hy2 . do you need their address ?
+restaurant ( restaurant-name )	there is one recommendation and that is the <restaurant-name> . would you like me to provide the address and phone number ?
+restaurant ( restaurant-name )	i'd recommend <restaurant-name> . would you like a reservation or more information ?
+attraction ( attraction-name ; attraction-entrance )	yes there are two pools . i highly suggest the <attraction-name> . would you like more information <attraction-entrance>
+taxi ( taxi-destination )	the <taxi-destination> is located between victoria road and the river . the phone number is 01223302579 . do you need any additional information ?
+restaurant ( restaurant-name )	i was able to book you a table at <restaurant-name> . your reference number is 4m731v01 . is there anything else i can assist you with ?
+restaurant ( restaurant-name )	okay , how about <restaurant-name> ?
+hotel ( hotel-name )	how about <hotel-name> , it seems lovely .
+hotel ( hotel-name )	the <hotel-name> is one of 32 options for you .
+restaurant ( restaurant-name ; restaurant-postcode ; restaurant-type )	the <restaurant-type> is called <restaurant-name> . the post code is <restaurant-postcode> . may i help with anything else ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-stars )	i can recommend the <hotel-name> . it's in the <hotel-area> , is <hotel-pricerange> yet has a <hotel-stars> star rating and free wifi and parking . can i help you book ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food )	there is the <restaurant-name> which serves <restaurant-food> food in the <restaurant-area> . would you like to make a booking ?
+taxi ( taxi-departure )	<taxi-departure> is located on clifton way and im not sure of the entrance fee . the phone number is a 01223511511 .
+hotel ( hotel-name )	i would recommend <hotel-name> . from what day should i book ?
+taxi ( taxi-destination )	what time would you like to leave <taxi-destination> ?
+restaurant ( restaurant-name )	<restaurant-name> looks good and is british in the moderate price range .
+train ( train-leaveat )	it departs at <train-leaveat> .
+restaurant ( restaurant-name )	i was able to book a table for 2 at <restaurant-name> on saturday at 11:00 . the reference number is 0zbv3e4c . is there anything else we can help you with ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange )	<hotel-name> is in <hotel-area> and <hotel-pricerange> . it has four stars . would you like to book ?
+attraction ( attraction-name )	<attraction-name> is a good choice for you
+train ( train-leaveat ; train-departure )	tr1659 leaves <train-departure> at <train-leaveat> .
+hotel ( hotel-name )	<hotel-name> is the only place that matches your criteria .
+restaurant ( restaurant-name ; restaurant-address )	i found 14 that would meet your needs . what about <restaurant-name> ? it is located at <restaurant-address>
+hotel ( hotel-name ; hotel-postcode )	there is the <hotel-name> which has internet . it is located in <hotel-postcode> postal code .
+restaurant ( restaurant-name ; restaurant-area )	how about the <restaurant-name> in the <restaurant-area> ?
+hotel ( hotel-name ; hotel-area )	how about the <hotel-name> , it's in the <hotel-area> .
+train ( train-leaveat ; train-arriveby )	yes . tr1053 leaves cambridge at <train-leaveat> and arrives in broxbourne at <train-arriveby> . would this be better for you ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food )	there is one <restaurant-food> place in the <restaurant-area> , <restaurant-name> .
+hotel ( hotel-name )	i can help you book <hotel-name> guesthous
+restaurant ( restaurant-food ; restaurant-area ; restaurant-pricerange )	sure ! the slug and lettuce serves <restaurant-food> type food . it's located in the <restaurant-area> and it's <restaurant-pricerange> . would you like to book a table ?
+train ( train-leaveat ; train-departure )	the tr6628 arrives in birmingham new street at 10:44 , leaving <train-departure> at <train-leaveat> . it is 75.10 pounds . would you like me to book that for you ?
+restaurant ( restaurant-name )	there are several . if you don't have a preference as to where in town you eat , might i suggest <restaurant-name> ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-type )	there is one <hotel-pricerange> <hotel-type> on the <hotel-area> side . it is the <hotel-name> . would you like me to book that for you ?
+restaurant ( restaurant-name )	<restaurant-name> should be a great choice . they'll hold a table for you for 15 minutes . your reference number is t66zy8am .
+hotel ( hotel-name )	i can recommend the <hotel-name> .
+restaurant ( restaurant-name )	ok , i've booked at <restaurant-name> for 5 at 15:30 on saturday . your reference number is jdfxwumm .
+restaurant ( restaurant-name )	you have a table at <restaurant-name> . your reference number is ljvy1uun . can i help you with anything else ?
+restaurant ( restaurant-name )	i can book you at the <restaurant-name> if you would like .
+attraction ( attraction-name )	<attraction-name> in the centre of town has a free entrance fee and the postcode is cb23bu . what else can i help you with ?
+hotel ( hotel-name ; hotel-address )	there is <hotel-name> , <hotel-address> . inexpensive . does that sound good ?
+hotel ( hotel-name )	sorry i tried <hotel-name> but it seems that they have all booked out at for these days . do you want to change to another place ?
+attraction ( attraction-name ; attraction-address )	sure . the <attraction-name> are located at <attraction-address> .
+restaurant ( restaurant-name ; restaurant-pricerange )	actually , i really like the <restaurant-name> - it's <restaurant-pricerange> but tasty . would you like me to book it ?
+restaurant ( restaurant-name ; restaurant-food )	i can recommend the <restaurant-name> it is <restaurant-food> . does that sound ok ?
+attraction ( attraction-name )	i would suggest <attraction-name> .
+taxi ( taxi-departure )	<taxi-departure> in the south side is located at cambridge leisure park , clifton way cb17dy and their phone number is 00872208000 . is there any other information i can get you ?
+restaurant ( restaurant-name )	<restaurant-name> meets your criteria . would you like to book a table ?
+taxi ( taxi-arriveby )	you have a table booked for 7 people at <taxi-arriveby> on saturday . it will be reserved for 15 minutes . the reference number is x361i811 .
+hotel ( hotel-name ; hotel-phone ; hotel-stars )	surely , here is the number for a <hotel-stars> star facility named <hotel-name> , their telephone number is <hotel-phone> . may i assist you with anything else today ?
+attraction ( attraction-name ; attraction-entrance ; attraction-phone )	i recommend <attraction-name> there phone number is <attraction-phone> . is there anything else i can help you with <attraction-entrance>
+hotel ( hotel-name ; hotel-area )	i would recommend the <hotel-name> on the <hotel-area> side of town . it has 4-stars . should i book this ?
+hotel ( hotel-name ; hotel-area ; hotel-type )	i recommend <hotel-name> . it's a <hotel-type> moderately priced located on the <hotel-area> side . will that work for you ?
+restaurant ( restaurant-name )	the <restaurant-name> chinese food takeaway is expensive and the postcode is cb17ag
+hotel ( hotel-name )	i found the <hotel-name> located at 53-57 lensfield road . would you like me to book that for you now ?
+restaurant ( restaurant-name )	i'd recommend <restaurant-name> . would you like more information on them or to book a reservation ?
+hotel ( hotel-name )	the <hotel-name> meets your requirements . would you like me to book this for you ?
+taxi ( taxi-departure )	certainty , <taxi-departure> address is regent street , and the phone number is 01223351241 .
+taxi ( taxi-destination )	<taxi-destination> is located at 22 sidney street . their phone number is 01223324600 . you will need to call for their entry fee .
+attraction ( attraction-name ; attraction-address ; attraction-phone )	<attraction-name> is located at <attraction-address> . their phone number is <attraction-phone> . you will need to call for their entry fee .
+hotel ( hotel-name ; hotel-area )	the ones in the <hotel-area> are the <hotel-name> and the lovell lodge . do you have a preference ?
+attraction ( attraction-name ; attraction-address )	<attraction-name> is located at <attraction-address>
+train ( train-leaveat ; train-departure )	i booked 8 tickets on tr1058 leaving <train-departure> at <train-leaveat> . the reference number is vbkuua4s and the total fee is 188.8 gbp payable at the station .
+attraction ( attraction-name ; attraction-address )	i can do that . try the <attraction-name> , on <attraction-address> .
+hotel ( hotel-name )	sure the <hotel-name> is a personal favorite . your booking was successful .
+restaurant ( restaurant-name )	there is a lovely polish restaurant called <restaurant-name> , would you like me to make you a reservation ?
+train ( train-leaveat ; train-arriveby ; train-departure )	i have a train from norwich to <train-departure> on tuesday that will leave at <train-leaveat> and arrive by <train-arriveby> . will this work for you ?
+restaurant ( restaurant-name ; restaurant-address ; restaurant-type )	<restaurant-name> is located at <restaurant-address> . i have booked your table at this <restaurant-type> for five people , wednesday at 11 am . your reference number is du8iwqz2 .
+restaurant ( restaurant-name )	how about <restaurant-name> ?
+hotel ( hotel-name )	my apologies . allenbell is not in the south . however , i highly recommend the 4 star <hotel-name> located in the south and moderately priced . can i help you with your booking ?
+restaurant ( restaurant-name )	i would recommend the <restaurant-name> for you . should i make a booking for you and your party ?
+attraction ( attraction-name ; attraction-address ; attraction-area ; attraction-entrance )	<attraction-name> is a great place to visit . its located in the <attraction-area> of town on <attraction-address> . can i help you with anything else <attraction-entrance>
+attraction ( attraction-name ; attraction-address ; attraction-phone ; attraction-postcode )	yes , <attraction-name> is located at <attraction-address> <attraction-postcode> in the center are . the phone number is <attraction-phone> .
+train ( train-leaveat )	there are 3 trains . the last one that would get you here on time is tr8410 leaving <train-leaveat> and arriving 10:08 . would you like me to book this for you ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-pricerange ; restaurant-type )	yes , the <restaurant-name> in the city <restaurant-area> is a good , <restaurant-pricerange> <restaurant-type> .
+hotel ( hotel-name )	i found the <hotel-name> , would you like me to book it for you ?
+restaurant ( restaurant-name )	<restaurant-name> looks like it will be perfect for you . what day and time would you like to book the table for ?
+attraction ( attraction-name ; attraction-address ; attraction-area )	<attraction-name> is located in the <attraction-area> area at <attraction-address> .
+hotel ( hotel-name ; hotel-area ; hotel-type )	the only <hotel-type> that is in the <hotel-area> with free wifi is <hotel-name> . would you like to go ahead and book a room ?
+restaurant ( restaurant-name ; restaurant-food ; restaurant-pricerange )	i found three <restaurant-pricerange> <restaurant-food> restaurants . would you like to book at <restaurant-name> ?
+train ( train-leaveat )	the closest , unfortunately , is the tr3396 that departs at <train-leaveat> , which does leave a 44 minute wait for you . do you still want me to book this for you ?
+train ( train-leaveat ; train-arriveby )	there is tr6679 . it leaves at <train-leaveat> and arrives at <train-arriveby> . is that good for you ?
+hotel ( hotel-name )	i've booked you a 3 day stay at the <hotel-name> for 7 people . do you need anything else ?
+restaurant ( restaurant-name )	i was able to book <restaurant-name> , reference number is g579w1k0
+attraction ( attraction-name ; attraction-area ; attraction-entrance )	<attraction-name> is in the <attraction-area> and is <attraction-entrance> admission .
+hotel ( hotel-name ; hotel-stars )	that narrows it down to about 7 places . all of them are <hotel-stars> stars except one . might i suggest the <hotel-name> . they have great reviews .
+restaurant ( restaurant-name )	how about <restaurant-name> ?
+hotel ( hotel-name ; hotel-stars ; hotel-type )	<hotel-name> is a nice <hotel-stars> star <hotel-type> . can i book a room for you ?
+restaurant ( restaurant-name ; restaurant-address )	yes , one of my favorites . <restaurant-name> on <restaurant-address> .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-pricerange ; restaurant-type )	the <restaurant-name> is an <restaurant-pricerange> <restaurant-type> in the <restaurant-area> . it is located at 64 cherry hinton road . would you like me to book it ?
+attraction ( attraction-name ; attraction-area ; attraction-entrance ; attraction-phone )	<attraction-name> is in the <attraction-area> of town their number is <attraction-phone> and they have a <attraction-entrance> entrance fee .
+restaurant ( restaurant-name ; restaurant-phone ; restaurant-postcode ; restaurant-type )	that would be the <restaurant-name> <restaurant-type> . the postcode is <restaurant-postcode> , phone <restaurant-phone> . how many are in your party and what day would you like the reservation ?
+hotel ( hotel-name )	the <hotel-name> may be a great option .
+restaurant ( restaurant-name )	<restaurant-name> is my favorite . can i book for you ?
+attraction ( attraction-name ; attraction-entrance )	would you like the <attraction-name> <attraction-entrance>
+restaurant ( restaurant-name ; restaurant-area )	i have two excellent options . <restaurant-name> is in the <restaurant-area> of town , would you like me to reserve you a table ?
+train ( train-leaveat ; train-departure ; train-destination )	a train is departing <train-destination> at <train-leaveat> to <train-departure> . a train will depart every two hours after that time . would you like to book a train ?
+train ( train-leaveat )	your departure time is <train-leaveat> .
+restaurant ( restaurant-name ; restaurant-address ; restaurant-food )	there are 5 results for restaurants serving <restaurant-food> food , the first is <restaurant-name> located at <restaurant-address> . would you like a reservation and for how many ?
+train ( train-leaveat )	i have a train that leaves at <train-leaveat> and every hour on the : 36 with the last one being at 23:36 . which one would you like to book ?
+attraction ( attraction-name ; attraction-area ; attraction-type )	there are two <attraction-type> options in the <attraction-area> . i recommend <attraction-name> .
+train ( train-leaveat ; train-arriveby )	tr1165 arrives at <train-arriveby> and departs at <train-leaveat> .
+hotel ( hotel-name ; hotel-address ; hotel-postcode )	<hotel-name> is located in <hotel-address> , <hotel-postcode> can i go ahead in booking ?
+attraction ( attraction-name ; attraction-area ; attraction-openhours )	my favorite is <attraction-name> in the <attraction-area> . does that sound interesting to you <attraction-openhours>
+attraction ( attraction-name ; attraction-area )	i have the <attraction-name> located in the <attraction-area> side of town . it's at the site of the old pumping station on cheddar's lane . would you like more information ?
+attraction ( attraction-name )	<attraction-name> is a college in the centre of town . it's entrance fee is free .
+hotel ( hotel-name )	how about the <hotel-name> ? it is rated 4 stars and is in the moderate price range .
+restaurant ( restaurant-name )	how about the <restaurant-name> ? it's located in the centre and moderate price range .
+taxi ( taxi-departure )	<taxi-departure> is located at 156 chesterton road postcode cb41da . their phone is 01223365664 . would you like me to book a room for you ?
+restaurant ( restaurant-name )	the graffton <restaurant-name> is in the east and serves british food . it's location is 619 newmarket rd . fen ditton .
+attraction ( attraction-name )	i like <attraction-name> in the center of town , but there are many others throughout the city . what part of the city did you want to visit ?
+taxi ( taxi-destination )	<taxi-destination> phone number is 01223356666 . postcode is cb21aw .
+attraction ( attraction-name ; attraction-area ; attraction-openhours )	we have four museums in the <attraction-area> area , i just went to the <attraction-name> and they have new exhibits . would you like more information on them <attraction-openhours>
+restaurant ( restaurant-food )	there are 2 <restaurant-food> restaurants and one italian . which would you prefer ?
+restaurant ( restaurant-food )	yes , the river bar steakhouse and grill has <restaurant-food> food and is inexpensive . it is in the centre .
+attraction ( attraction-name ; attraction-area )	definitely ! my favorite place in the <attraction-area> is the <attraction-name> . it's funky and fun !
+restaurant ( restaurant-name ; restaurant-address )	may i suggest the <restaurant-name> located at <restaurant-address>
+restaurant ( restaurant-name ; restaurant-food ; restaurant-pricerange )	sure , <restaurant-name> is <restaurant-food> food and is <restaurant-pricerange> . would you like to book a table ?
+taxi ( taxi-destination ; taxi-departure )	so , you need a taxi between <taxi-departure> , and <taxi-destination> ?
+hotel ( hotel-name )	<hotel-name> is 3 stars and does not have internet .
+train ( train-leaveat ; train-arriveby )	i have a <train-leaveat> from london that arrives at <train-arriveby> . would that work for you ?
+attraction ( attraction-name )	certainly , <attraction-name> number is 01223452587 .
+restaurant ( restaurant-name ; restaurant-food ; restaurant-pricerange ; restaurant-type )	the <restaurant-name> is a <restaurant-food> <restaurant-type> in the <restaurant-pricerange> price range .
+hotel ( hotel-name ; hotel-area )	i can recommend the <hotel-name> in the <hotel-area> of the city .
+taxi ( taxi-departure )	alright ! i was able to book your room for 1 night at the <taxi-departure> for 3 people . your reference number is f13028xh . can i help with anything else ?
+train ( train-leaveat ; train-arriveby )	i have train tr1159 that departs at <train-leaveat> and will arrive by <train-arriveby> . would that work for you ?
+restaurant ( restaurant-name )	<restaurant-name> is located at 12 lensfield road city centre , postcode cb21eg , and the phone number is 01842753771 . would you like me to make a reservation for you ?
+restaurant ( restaurant-food ; restaurant-pricerange )	the michaelhouse cafe offers <restaurant-pricerange> <restaurant-food> cuisine in the center of town .
+hotel ( hotel-name ; hotel-address ; hotel-phone ; hotel-postcode )	the <hotel-name> is located at <hotel-address> , <hotel-postcode> and the phone number is <hotel-phone> . can i help with anything else ?
+restaurant ( restaurant-name )	i've heard that <restaurant-name> is one of the best in town . can i reserve you a table there ?
+restaurant ( restaurant-food ; restaurant-name )	<restaurant-name> is a great <restaurant-food> place .
+train ( train-leaveat )	there is a train id tr3259 leaving at <train-leaveat> do you want it .
+hotel ( hotel-name )	how about <hotel-name> ? i hear it's lovely
+train ( train-leaveat ; train-arriveby )	the last train of the evening leaves at <train-leaveat> and arrives at <train-arriveby> . would you like me to book that for you ?
+hotel ( hotel-name )	booking was not successful for that night at the <hotel-name> , would you like me to try a different place ?
+hotel ( hotel-name )	i'm going to try for the <hotel-name> , sir . is that all right ?
+restaurant ( restaurant-name )	okay , there are three restaurants . i recommend <restaurant-name> .
+restaurant ( restaurant-name )	you have a table booked for <restaurant-name> and the reference number is t7zsp58s . is there anything else i can do for you ?
+restaurant ( restaurant-name )	great , how about <restaurant-name> ? may i book this for you ?
+hotel ( hotel-name ; hotel-address )	i have the <hotel-name> located at <hotel-address> . would you like reservations ?
+attraction ( attraction-name ; attraction-address ; attraction-postcode )	i recommend <attraction-name> . it is located <attraction-address> , <attraction-postcode> . do you need the phone number ?
+attraction ( attraction-name )	<attraction-name> is an architecture location in the centre of town .
+restaurant ( restaurant-name ; restaurant-address )	there is <restaurant-name> located at <restaurant-address> . would you like to book a table there ?
+hotel ( hotel-name )	i would suggest the <hotel-name> . it is very nice . can i get you some information on it ?
+hotel ( hotel-name )	i have booked you at the <hotel-name> . reference number vtgt4pfz . can i be of any further help ?
+hotel ( hotel-name ; hotel-pricerange )	<hotel-name> is <hotel-pricerange> .
+restaurant ( restaurant-name )	<restaurant-name> is a great place . can i book a table there for you ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange )	i found three <restaurant-pricerange> <restaurant-food> restaurants in the <restaurant-area> . would you like to book at <restaurant-name> ?
+hotel ( hotel-name ; hotel-stars )	there are a total of 24 guesthouses available . <hotel-name> has a <hotel-stars> star rating , offers free wifi and free parking . would you be interested in booking here ?
+restaurant ( restaurant-name ; restaurant-area )	how about <restaurant-name> ? it is located in the <restaurant-area> part of town .
+restaurant ( restaurant-name )	yes , there's just one : <restaurant-name> !
+hotel ( hotel-name ; hotel-address ; hotel-stars ; hotel-type )	the gonville <hotel-type> is on gonville place and is rated 3 stars . the <hotel-name> is <hotel-stars> stars and it's on <hotel-address> . would you like to book a room ?
+attraction ( attraction-name ; attraction-area ; attraction-entrance ; attraction-type )	<attraction-name> <attraction-type> is in the <attraction-area> area . would you like the address <attraction-entrance>
+restaurant ( restaurant-name ; restaurant-food )	yes , we have three <restaurant-food> restaurants in the central area . might i recommend <restaurant-name> ?
+hotel ( hotel-name ; hotel-type )	okay we have the <hotel-name> and the university arms <hotel-type> that match your specifications .
+restaurant ( restaurant-name )	i was able to book you at the <restaurant-name> , the reference number is 3tfbgbp8 , the table will be held for 15 minutes , is there anything else , that i can assist with ?
+attraction ( attraction-name )	the first one is <attraction-name> . would you like the address and phone number ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-pricerange )	may i recommend <restaurant-name> , it is located in the <restaurant-area> and has a <restaurant-pricerange> price range . is there a specific date , time and number of people ?
+hotel ( hotel-name )	you're booked at the <hotel-name> , 517a coldham lane , for 6 people for four nights tarting sunday . your reference number is jxvkz7kv .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food )	<restaurant-name> is in town <restaurant-area> serving <restaurant-food> food and is moderately priced . i'd be happy to make a reservation for you if you'd like ?
+attraction ( attraction-name )	<attraction-name> is in the centre and is free . would that work for you ?
+taxi ( taxi-departure )	the <taxi-departure> is located at back lane , cambourne . postcode cb236bw .
+restaurant ( restaurant-name ; restaurant-address ; restaurant-area ; restaurant-phone )	i would recommend <restaurant-name> , located at <restaurant-address> on the <restaurant-area> side of town . phone number is <restaurant-phone> . do you need to make a reservation ?
+hotel ( hotel-name ; hotel-pricerange )	i recommend <hotel-name> because it is in the <hotel-pricerange> price range and has a high rating . do you want me to book <hotel-name> for you ?
+attraction ( attraction-name )	i would suggest <attraction-name> .
+hotel ( hotel-name )	<hotel-name> is in the north part of town has 3 stars .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange )	yes , the <restaurant-name> is a great <restaurant-food> place in the <restaurant-area> area of the city . it's <restaurant-pricerange> , but definitely worth it . would you like a reservation there ?
+taxi ( taxi-destination ; taxi-departure )	from <taxi-departure> to <taxi-destination> ?
+attraction ( attraction-name )	how about <attraction-name> in west ?
+restaurant ( restaurant-name ; restaurant-food )	i have the <restaurant-name> which is <restaurant-food> food . would you like that one ?
+taxi ( taxi-destination )	booking was successful at <taxi-destination> . reference number is m8shuqug .
+hotel ( hotel-name )	booking was successful at <hotel-name> . reference number is m8shuqug .
+restaurant ( restaurant-name ; restaurant-pricerange )	there are 7 restaurants which meet your needs . <restaurant-name> is located at 4 kings parade and serves <restaurant-pricerange> priced meals . would you like to make reservations ?
+taxi ( taxi-destination )	<taxi-destination> is located at the plough , green end , fen ditton , in the east side of town .
+hotel ( hotel-name ; hotel-area )	sure , i recommend <hotel-name> in the <hotel-area> , would you like me to make a reservation for you ?
+attraction ( attraction-name ; attraction-area ; attraction-entrance )	<attraction-name> is a great place to visit in town <attraction-area> and also has <attraction-entrance> entrance . would you like the address ?
+hotel ( hotel-name ; hotel-type )	i found one <hotel-type> that matches your criteria , it's the <hotel-name> . would you like to book there ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-type )	the <hotel-name> is a <hotel-type> in the <hotel-area> in the <hotel-pricerange> price range with parking . when are you arriving ? how many people ?
+attraction ( attraction-name ; attraction-entrance )	we have the <attraction-name> located there . would you like more information <attraction-entrance>
+restaurant ( restaurant-name )	how about <restaurant-name> ?
+attraction ( attraction-name ; attraction-address ; attraction-type )	if you like <attraction-type> , i would recommend <attraction-name> located on <attraction-address> . it is a nice place to visit .
+hotel ( hotel-name )	there are 7 options . i recommend <hotel-name> .
+attraction ( attraction-name ; attraction-address ; attraction-entrance )	there are many colleges ! <attraction-name> on <attraction-address> is a great place to visit . it's <attraction-entrance> to get in !
+hotel ( hotel-name )	the <hotel-name> meets all of your requirements . would you like me to book that for you ?
+restaurant ( restaurant-name )	i can recommend <restaurant-name> . would you like to book a table with them ?
+hotel ( hotel-name )	book was unsuccessful . would you like to try the <hotel-name> ?
+hotel ( hotel-name )	ok , i have you booked in the <hotel-name> . the reference number is : keh2f5z2 . can i help you with anything else today ?
+attraction ( attraction-name )	<attraction-name> would fit that criteria . can i get you more info on it ?
+restaurant ( restaurant-name ; restaurant-address )	i recommend <restaurant-name> which is located at <restaurant-address> . is there anything else i can do for you ?
+attraction ( attraction-name ; attraction-area )	there are a great number of colleges in the <attraction-area> . can i recommend <attraction-name> , on trinity st ? entrance is only 1 gbp .
+hotel ( hotel-name )	there are 8 such hotels . i recommend <hotel-name> . would you like me to book you a room ?
+hotel ( hotel-name )	<hotel-name> is very nice .
+restaurant ( restaurant-name ; restaurant-food )	<restaurant-name> is <restaurant-food> . want to book ?
+restaurant ( restaurant-name ; restaurant-address )	there are 2 options that meet your criteria . personally , i would recommend the <restaurant-name> at <restaurant-address> .
+restaurant ( restaurant-name )	the <restaurant-name> has availability at that time . would you like me to book it for you ?
+restaurant ( restaurant-name ; restaurant-food ; restaurant-address )	how about <restaurant-name> , serving <restaurant-food> food ? it's at <restaurant-address> . would you like to book a table ?
+restaurant ( restaurant-name )	i have one listing for <restaurant-name> would that work for you ?
+restaurant ( restaurant-name ; restaurant-address )	how about <restaurant-name> located at <restaurant-address> ? would you like me to book ?
+taxi ( taxi-departure )	the <taxi-departure> is located in the city centre . would you like the address ?
+restaurant ( restaurant-name )	here's the number for the museum of classical archaeology , 01223335153 . how does the <restaurant-name> sound for you ?
+attraction ( attraction-name ; attraction-phone )	here's the number for the <attraction-name> , <attraction-phone> . how does the cambridge lodge restaurant sound for you ?
+restaurant ( restaurant-name )	i was able to find <restaurant-name> , would you like to try that ?
+hotel ( hotel-name ; hotel-area )	the <hotel-name> is in the <hotel-area> which is the same area as bedouin . would you like me to book it for you ?
+hotel ( hotel-name )	<hotel-name> bed and breakfast meets your criteria . would you like to book a room ?
+restaurant ( restaurant-food ; restaurant-name )	my favorite it the <restaurant-name> at 4 kings parade city centre cb21sj . it serves <restaurant-food> food . does that interest you ?
+attraction ( attraction-name ; attraction-area ; attraction-entrance )	<attraction-name> is an architectural attraction . it is in the <attraction-area> of town and entrance is <attraction-entrance> !
+restaurant ( restaurant-name )	the <restaurant-name> meets your specifications of british food in the centre of town . would you like me to book that for you ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange ; restaurant-type )	i'd recommend <restaurant-name> , it's an <restaurant-pricerange> <restaurant-food> <restaurant-type> in the <restaurant-area> . does that work for you ?
+attraction ( attraction-name )	i personally like <attraction-name> , they are very contemporaneity
+taxi ( taxi-leaveat )	i booked a taxi to pick you up at <taxi-leaveat> , it's going to be a blue volkswagen , the contact number is 076-2009-8271 .
+taxi ( taxi-departure )	<taxi-departure> is the place you want to go . it meets all of your needs . need a table ?
+taxi ( taxi-departure )	if you like parks the <taxi-departure> has free admission and is in the cb223ae postcode . or i can tell you about the other attractions ?
+taxi ( taxi-destination )	yes , <taxi-destination> is in the south . in order to help you book a taxi between the park and your hotel , i need to know what hotel you're at .
+hotel ( hotel-name )	ok , how about the <hotel-name> ? to book a stay i'll need to know the first day you want to stay , how many days , and how many guests .
+hotel ( hotel-name )	both have parking , so you'll be set . would you like me to try the <hotel-name> ? how many nights were you interested in ?
+hotel ( hotel-name )	<hotel-name> has all that you need , would you like to book that ?
+restaurant ( restaurant-name ; restaurant-area )	<restaurant-name> is in city <restaurant-area> , what time and date would you like your reservation ?
+hotel ( hotel-name )	<hotel-name> meets all those requirements , would you like to stay there ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange ; restaurant-type )	the only <restaurant-pricerange> <restaurant-food> <restaurant-type> in the <restaurant-area> is <restaurant-name> . would you like a reservation ?
+attraction ( attraction-name ; attraction-address )	yes , its called <attraction-name> , located at <attraction-address> .
+restaurant ( restaurant-name )	i have 9 different indian restaurants in the centre of town . if you are looking for a truly authentic experience , might i suggest the <restaurant-name> . they are expensive .
+restaurant ( restaurant-name )	ok , i booked a table for you at <restaurant-name> for 7 on saturday . ref # fr21tcnn . can i help you with anything else today ?
+restaurant ( restaurant-name ; restaurant-address )	<restaurant-name> is found at the center on <restaurant-address> . could you like a booking ?
+hotel ( hotel-name )	there are several guest <hotel-name> on the east side . do you need free parking or internet ?
+taxi ( taxi-destination )	great ! you're booked at <taxi-destination> for one night . your reference number is n4tvfkgs . would you like more information ?
+taxi ( taxi-departure )	certainly . <taxi-departure> : postcode cb30ds , phone number 01223332360 .
+hotel ( hotel-name ; hotel-area ; hotel-pricerange )	the <hotel-name> is the only <hotel-pricerange> option in the <hotel-area> . would you like me to book it for you ?
+hotel ( hotel-name ; hotel-area ; hotel-stars ; hotel-type )	i recommend <hotel-name> . although i don't show an exact price it is a moderately priced <hotel-type> in the <hotel-area> , <hotel-stars> stars . want to book it ?
+attraction ( attraction-name )	<attraction-name> . saint andrew's street , cb23bu . is there anything else you need ?
+train ( train-leaveat ; train-arriveby ; train-departure )	train 6053 leaves <train-departure> at <train-leaveat> and arrives in ely at <train-arriveby> . would you like me to book you a ticket ?
+train ( train-leaveat )	how about tr2958 that leaves at <train-leaveat>
+hotel ( hotel-name )	the <hotel-name> is very nice and includes free parking as well as wifi . does that sound good ?
+attraction ( attraction-name )	<attraction-name> is in the centre and has free entrance fee .
+attraction ( attraction-name )	sue i suggest <attraction-name> that is in the center , has a postcode of cb23bu , an address of saint andrew's street and the entrance is free of cost .
+restaurant ( restaurant-name ; restaurant-address )	i would recommend <restaurant-name> at <restaurant-address> . would you like me to book it for you ?
+hotel ( hotel-name ; hotel-address ; hotel-postcode )	booking at the <hotel-name> was successful , the reference number is o4bo1b0l . it is located at <hotel-address> , postal code <hotel-postcode> . is there anything else i can help with ?
+train ( train-arriveby )	it will arrive at <train-arriveby> .
+train ( train-arriveby ; train-departure )	tr9641 leaves the airport at 7:24 and arrives in <train-departure> at <train-arriveby> . would you like tickets on that train ?
+train ( train-leaveat )	there is a train that leaves at <train-leaveat> that has 6 tickets available , shall i book it for you ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food )	<restaurant-name> serves <restaurant-food> in the <restaurant-area> .
+attraction ( attraction-name ; attraction-address )	sure . <attraction-name> is very popular . it is at <attraction-address> .
+restaurant ( restaurant-name ; restaurant-food ; restaurant-pricerange ; restaurant-type )	club salsa's postcode is cb12jb . my favorite <restaurant-food> <restaurant-type> is <restaurant-name> , but it's <restaurant-pricerange> .
+hotel ( hotel-name ; hotel-stars )	ok i have you booked at the <hotel-name> for <hotel-stars> nights for 8 people . your reference number 7sn0baat . do you need anything else ?
+restaurant ( restaurant-name ; restaurant-area )	i would recommend <restaurant-name> in the <restaurant-area> end . would you like me to make a reservation there for you ?
+train ( train-leaveat ; train-arriveby )	i have train tr8259 that leaves at <train-leaveat> and arrives at <train-arriveby> . would you like to make reservations ?
+attraction ( attraction-name ; attraction-address ; attraction-area ; attraction-entrance ; attraction-openhours ; attraction-type )	there is a <attraction-entrance> <attraction-type> , located at <attraction-address> . it's called the <attraction-name> . it's located in the city <attraction-area> . would that work <attraction-openhours>
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange )	<restaurant-name> serves <restaurant-food> is in the <restaurant-area> . the price range is <restaurant-pricerange> .
+train ( train-arriveby )	the tr0315 arrives at <train-arriveby> . do you want to book that trip ?
+attraction ( attraction-name )	yes there is one . <attraction-name> is located at the plough , green end , fen ditton .
+restaurant ( restaurant-name ; restaurant-pricerange )	yes i have the <restaurant-name> in the center of town on king street in the <restaurant-pricerange> price range . they serve asian cuisine . is there anything else i can do for you ?
+hotel ( hotel-name ; hotel-area ; hotel-stars ; hotel-type )	<hotel-name> is a moderately priced , <hotel-stars> star <hotel-type> with wifi in the <hotel-area> area . would you like to make a reservation ?
+train ( train-leaveat ; train-arriveby )	i have 4 trains that meet your needs . the earliest one leaves at <train-leaveat> and arrives at <train-arriveby> . would that work ?
+attraction ( attraction-name ; attraction-entrance ; attraction-type )	i enjoy <attraction-name> . it is <attraction-entrance> and i love the <attraction-type> . would you like more information on it ?
+train ( train-leaveat ; train-arriveby )	tr4294 will leave at <train-leaveat> and arrive by <train-arriveby> . do you need to book tickets ?
+restaurant ( restaurant-name ; restaurant-food )	okay , <restaurant-name> serves <restaurant-food> food . the booking was successful . the table will be reserved for 15 minutes . your reference number is : sikpobwy .
+train ( train-leaveat ; train-arriveby ; train-departure )	the first train after 11:15 is the tr6473 , leaving stevenage <train-leaveat> , arriving <train-departure> <train-arriveby> . would this be to your liking ?
+hotel ( hotel-name ; hotel-pricerange )	i have the <hotel-name> that is <hotel-pricerange> . would you like to book a stay ?
+hotel ( hotel-name )	there are two moderately price hotels there , would you like to try the <hotel-name> ?
+attraction ( attraction-name ; attraction-address ; attraction-entrance )	<attraction-name> is at <attraction-address> and entrance feis <attraction-entrance> . can we book this one ?
+restaurant ( restaurant-name ; restaurant-area )	i'd recommend <restaurant-name> in the <restaurant-area> , would you like to make a reservation ?
+train ( train-leaveat ; train-departure )	i have the tr8304 train departing from <train-departure> to leicester on wednesday at <train-leaveat> it will cost 37.80 . would you like to book a ticket ?
+train ( train-arriveby )	the total travel time 105 minutes . you depart at 18:21 and arrive at <train-arriveby> on wednesday . is this acceptable ?
+restaurant ( restaurant-name )	there are four options available that meet your criteria . i'd recommend the <restaurant-name> . would you like to book a table ?
+hotel ( hotel-name ; hotel-stars ; hotel-type )	<hotel-name> is a <hotel-stars> star <hotel-type> with no parking , would you like me to check on available dates for you ?
+attraction ( attraction-name )	what about the <attraction-name> ?
+attraction ( attraction-name ; attraction-area ; attraction-entrance )	i have 5 entries . would you like to try <attraction-name> in the <attraction-area> <attraction-entrance>
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-type )	i have found the <restaurant-name> <restaurant-type> which serves <restaurant-food> food and is in the <restaurant-area> . do you need more information ?
+restaurant ( restaurant-name ; restaurant-address ; restaurant-postcode )	i'd suggest <restaurant-name> on <restaurant-address> , <restaurant-postcode> . would you like me to make a reservation ?
+train ( train-leaveat ; train-arriveby ; train-departure )	you train will be leaving <train-departure> at <train-leaveat> and arrive birmingham new street at <train-arriveby>
+hotel ( hotel-name ; hotel-area ; hotel-stars ; hotel-type )	<hotel-name> is a <hotel-stars> star <hotel-type> located in the <hotel-area> has both free parking and wifi . what days are you interested in staying there ? can i book for you ?
+attraction ( attraction-name ; attraction-address ; attraction-entrance )	i have about 11 different museums . if i may , might i suggest the <attraction-name> on <attraction-address> . they also have <attraction-entrance> entrance . it's a great place to visit .
+train ( train-arriveby )	the soonest it will get you there is <train-arriveby> your reference number is hkr1x1wg , anything else ?
+attraction ( attraction-name ; attraction-area ; attraction-phone )	<attraction-name> is my favorite place on the <attraction-area> side ! i don't have any information on the entrance fee , but their phone is <attraction-phone> .
+attraction ( attraction-name ; attraction-address ; attraction-area )	i have the <attraction-name> in the <attraction-area> at <attraction-address>
+restaurant ( restaurant-name )	i recommend the <restaurant-name> . would you like me to reserve a table ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange ; restaurant-type )	i have the <restaurant-name> . it is a <restaurant-food> <restaurant-type> in the <restaurant-area> that is <restaurant-pricerange> . would you like me to make you a booking ?
+restaurant ( restaurant-name )	i have successfully booked your reservation at <restaurant-name> , your reference number is 0d4nxzfq .
+train ( train-leaveat ; train-arriveby ; train-departure )	train tr5678 departs broxbourne at <train-leaveat> and arrives at <train-departure> at <train-arriveby> .
+restaurant ( restaurant-name ; restaurant-address ; restaurant-phone ; restaurant-type )	no problem . how about <restaurant-name> located at <restaurant-address> with phone number <restaurant-phone> ? there is also bloomsbury <restaurant-type> if you prefer .
+train ( train-leaveat )	tr5928 leaves at <train-leaveat> , would you like me to book that for you ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-stars )	i have the <hotel-name> that is <hotel-pricerange> and located in the <hotel-area> . they have a <hotel-stars> star rating and offer free parking and free wifi . would that work for you ?
+attraction ( attraction-name ; attraction-area )	how about <attraction-name> ? they're in the <attraction-area> side , and they have no entrance fee .
+restaurant ( restaurant-name )	would you like <restaurant-name> ?
+restaurant ( restaurant-name )	<restaurant-name> is a nice place would you like that info ?
+hotel ( hotel-name ; hotel-pricerange )	there are two options here . both are <hotel-pricerange> . i recommend <hotel-name> .
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-type )	<hotel-name> is a <hotel-pricerange> price <hotel-type> on the <hotel-area> side of town . would you like me to book a room for you ?
+attraction ( attraction-name ; attraction-area ; attraction-entrance ; attraction-type )	as i mentioned earlier , <attraction-name> is an <attraction-type> attraction in the <attraction-area> . would you like additional information <attraction-entrance> i don't have any information on the entrance fee .
+restaurant ( restaurant-name )	i was able to find three options in your price range , may i recommend <restaurant-name> ?
+attraction ( attraction-name )	<attraction-name> is a good choice .
+attraction ( attraction-name ; attraction-address ; attraction-area )	i think you would enjoy <attraction-name> in the <attraction-area> of town . it is an architectural attraction . the address is <attraction-address> .
+hotel ( hotel-name )	<hotel-name> is in the center . the have free internet and parking . their number is 01223366611 .
+taxi ( taxi-destination )	the <taxi-destination> is in the center . the have free internet and parking . their number is 01223366611 .
+restaurant ( restaurant-name ; restaurant-pricerange )	<restaurant-name> is in the <restaurant-pricerange> price range .
+hotel ( hotel-name )	sure , i would recommend the <hotel-name> which is located near the restaurant . would you like a reservation ?
+attraction ( attraction-name ; attraction-address ; attraction-phone ; attraction-postcode )	they are all in the same general area , but <attraction-name> is nice . it is located at <attraction-address> , <attraction-postcode> . you can call them at <attraction-phone> .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is the only <restaurant-food> <restaurant-type> , in the <restaurant-area> , in the <restaurant-pricerange> price range . do you want me to try other areas ?
+hotel ( hotel-name ; hotel-area ; hotel-type )	<hotel-name> is a great <hotel-type> located in the <hotel-area> with free wifi and parking . if that sounds good to you , then i will go ahead and book it ?
+attraction ( attraction-name )	would you prefer <attraction-name> is a museum in the centre of town . their post code is cb23bj
+restaurant ( restaurant-name )	i'd recommend <restaurant-name> . would you like to book a table ?
+restaurant ( restaurant-booktime )	i have reserved your table at cafe uno for 5 on sunday at <restaurant-booktime> . is there anything else i can help you with ?
+restaurant ( restaurant-name )	how about the <restaurant-name> ? how many people for your reservation ?
+taxi ( taxi-departure )	the <taxi-departure> is located in the centre is free to enter and the phone number is 01223314960 . can i help you with anything else ?
+restaurant ( restaurant-name )	the <restaurant-name> matches your criteria . would you like me to make a reservation ?
+taxi ( taxi-destination )	the <taxi-destination> restaurant matches your criteria . would you like me to make a reservation ?
+hotel ( hotel-name )	how about the <hotel-name> ?
+hotel ( hotel-name ; hotel-pricerange )	the <hotel-name> is fantastic . it's <hotel-pricerange> , but worth the cost .
+hotel ( hotel-name )	i'm going to book you for <hotel-name> , but i need to know the number of days you plan to stay and the number of people with you .
+taxi ( taxi-departure )	yes , the <taxi-departure> is located on trumpington street , postcode cb21rb . is there anything else i can help you with ?
+hotel ( hotel-name )	there are two hotels that fit that criteria . i would recommend <hotel-name> , it has four stars .
+hotel ( hotel-name ; hotel-area )	the <hotel-name> is moderately-priced , in the <hotel-area> . they offer free wifi as well . would you like me to book you a room ?
+hotel ( hotel-name )	may i suggest , <hotel-name> ? would you like me to book this for you ?
+hotel ( hotel-name )	yes , there are 6 places that will meet your needs . i suggest the <hotel-name> . would you like any more information about it ?
+restaurant ( restaurant-name )	there are 3 . how about <restaurant-name> ? should i book you a table ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange )	<hotel-name> is on the <hotel-area> side and <hotel-pricerange> .
+taxi ( taxi-departure )	<taxi-departure> is located at regent street in the center of town .
+hotel ( hotel-name ; hotel-area ; hotel-stars )	all 16 are guesthouses . if i may , might i suggest the <hotel-name> . it is in the <hotel-area> and <hotel-stars> star rated . they offer both free parking and wifi .
+restaurant ( restaurant-name ; restaurant-area )	the <restaurant-name> is in the <restaurant-area> area . would you like me to book you a reservation ?
+hotel ( hotel-name ; hotel-pricerange ; hotel-stars ; hotel-type )	<hotel-name> is <hotel-pricerange> with <hotel-stars> stars , gonville <hotel-type> has 3 stars and is expensive , university arms is also expensive and has 4 stars ? will any of these do ?
+restaurant ( restaurant-name ; restaurant-area )	yes , <restaurant-name> is in the <restaurant-area> and meets your criteria . would you like me to make a reservation ?
+hotel ( hotel-name )	the <hotel-name> is a good option for you .
+hotel ( hotel-name ; hotel-area )	i'd recommend the <hotel-name> . it is located in the <hotel-area> area .
+restaurant ( restaurant-name ; restaurant-food ; restaurant-type )	i booked you a table at <restaurant-name> , a <restaurant-food> <restaurant-type> . your reference number is 8v419unn . do you need anything else ?
+restaurant ( restaurant-name )	you have a reservation for <restaurant-name> for monday at 12:30 for 5 people . the table will be held for 15-minutes . reference number is so1f7evu . anything else ?
+hotel ( hotel-name ; hotel-pricerange )	how about the <hotel-name> ? it's <hotel-pricerange> and has a four star rating .
+hotel ( hotel-name ; hotel-area ; hotel-stars ; hotel-type )	<hotel-name> over in <hotel-area> would work perfectly for you then ! they do have free wifi and are a moderately priced <hotel-stars> star <hotel-type> . would you like a room ?
+taxi ( taxi-departure )	you could try calling to get the fee . the phone number for <taxi-departure> is 08451962320 . i hope this helps !
+restaurant ( restaurant-name ; restaurant-area )	sure , there are two in the <restaurant-area> of town . i prefer <restaurant-name> , located at 30 bridge street , city <restaurant-area> .
+hotel ( hotel-name ; hotel-stars )	all the 8 hotels are <hotel-stars> star hotels . i recommend the <hotel-name> or the archway house . should i book one of those for you and your party ?
+train ( train-leaveat ; train-arriveby )	train tr3415 would leave at <train-leaveat> and arrive in cambridge at <train-arriveby> . would you like me to book that for you ?
+train ( train-leaveat ; train-arriveby )	tr4975 leaves from cambridge at <train-leaveat> , travels for 163 minutes , and arrives at birmingham new street at <train-arriveby> . it costs 60.08 . would you like me to book it ?
+attraction ( attraction-name )	i suggest <attraction-name> . it has no entrance fee . is there anything else i could help you with ?
+taxi ( taxi-destination )	<taxi-destination> is considered an architecture attraction . can i be of any further assistance ?
+restaurant ( restaurant-name ; restaurant-address )	definitely ! i have 3 in the center and 1 in the north . i recommend <restaurant-name> , at <restaurant-address> .
+attraction ( attraction-name )	i would recommend <attraction-name> . it's free to visit .
+train ( train-leaveat )	would you like me to book the <train-leaveat> ?
+restaurant ( restaurant-name ; restaurant-food ; restaurant-pricerange ; restaurant-type )	i would recommend <restaurant-name> , it is an <restaurant-pricerange> <restaurant-food> <restaurant-type> at 8 norfolk street .
+train ( train-leaveat ; train-departure )	how about tr8390 that leaves birmingham new street at <train-leaveat> on saturday . it arrives in <train-departure> at 16:23 . the price is 60.08 . shall i book it ?
+attraction ( attraction-name ; attraction-openhours ; attraction-type )	the <attraction-name> is a great <attraction-type> located in the same area as the gonville hotel . does that sound of interest to you <attraction-openhours>
+restaurant ( restaurant-name ; restaurant-address ; restaurant-area ; restaurant-phone ; restaurant-pricerange )	<restaurant-name> is in the <restaurant-area> of town . it is <restaurant-pricerange> . the address is <restaurant-address> , phone <restaurant-phone> . would you like reservations ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food )	there are four restaurants in the <restaurant-area> that serve <restaurant-food> food . they are all in the boderate price range . i suggest <restaurant-name> .
+attraction ( attraction-name )	there are 13 , i recommend <attraction-name> , would you like more info ?
+restaurant ( restaurant-name ; restaurant-address )	i have just one place available . it is <restaurant-name> . they are moderately priced and are located at <restaurant-address> .
+hotel ( hotel-name ; hotel-stars )	how about <hotel-name> ? it has free parking and is rated <hotel-stars> stars .
+hotel ( hotel-name ; hotel-area )	in that case , i would recommend the <hotel-name> in the <hotel-area> .
+train ( train-leaveat )	i actually fount the tr2764 to be a better choice . it leaves at <train-leaveat> to and arrives at 08:58 at a cost of 9.80 pounds .
+attraction ( attraction-name )	i have some really pretty churches you can visit . would you like a number for <attraction-name> ?
+train ( train-leaveat ; train-arriveby ; train-departure )	the tr0796 train leaves <train-departure> at <train-leaveat> and arrives in broxbourne <train-arriveby> . the cost in 17.90 pounds . is this a good train for you ?
+restaurant ( restaurant-name )	how about <restaurant-name> . there are also 3 others .
+taxi ( taxi-departure )	the postcode for caffe <taxi-departure> is cb21uj . is there anything else i can help you with ?
+hotel ( hotel-name ; hotel-address )	how about <hotel-name> ? it's located at <hotel-address> .
+taxi ( taxi-departure )	may i suggest <taxi-departure> ? it sounds like just what you are looking for and is free to visit .
+attraction ( attraction-name ; attraction-entrance ; attraction-openhours )	may i suggest <attraction-name> <attraction-openhours> it sounds like just what you are looking for and is <attraction-entrance> to visit .
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-stars ; hotel-type )	may i suggest the <hotel-name> . it's a <hotel-pricerange> priced <hotel-stars> star <hotel-type> in the <hotel-area> part of town with free parking and internet .
+hotel ( hotel-name )	that would be for the <hotel-name> . what day are you wanting to stay and how many guests ?
+attraction ( attraction-name ; attraction-entrance )	i'd like to suggest to you <attraction-name> entrance there is <attraction-entrance>
+attraction ( attraction-name )	yes , several . the <attraction-name> is good , or if you're in a more aquatic frame of mind there's the abbey pool and astroturf pitch . do they sound appealing ?
+hotel ( hotel-name ; hotel-type )	<hotel-name> is a great moderately priced <hotel-type> . would you like me to make a reservation for you ?
+train ( train-leaveat )	since that won't work for you , i can get you on a train that leaves at <train-leaveat> and will arrive by 13:52 . would you like me to book your seat ?
+hotel ( hotel-name ; hotel-pricerange )	the <hotel-name> is in the <hotel-pricerange> range .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange )	okay , how about <restaurant-name> ? it is a <restaurant-food> restsurant in the <restaurant-area> area and is in the <restaurant-pricerange> price range . will that work for you ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-stars )	the <hotel-pricerange> one is actually not much more than the other <hotel-stars> . i would highly recommend it . that would be at the <hotel-name> . it's in the <hotel-area> .
+hotel ( hotel-name ; hotel-address ; hotel-phone )	the <hotel-name> is at <hotel-address> and their number is <hotel-phone> .
+attraction ( attraction-name ; attraction-entrance ; attraction-phone ; attraction-postcode )	i'd recommend <attraction-name> . the entrance fee is <attraction-entrance> , the postcode is <attraction-postcode> , and the phone number is <attraction-phone> .
+restaurant ( restaurant-name ; restaurant-pricerange ; restaurant-type )	i would recommend <restaurant-name> . it is an <restaurant-pricerange> <restaurant-type> in the center . would you like to book a reservation ?
+restaurant ( restaurant-name ; restaurant-food ; restaurant-postcode )	how about the <restaurant-name> that serves <restaurant-food> ? the postcode is <restaurant-postcode> .
+attraction ( attraction-name ; attraction-address )	i recommend <attraction-name> they are located at <attraction-address> . the entrance fee isn't listed .
+hotel ( hotel-name )	how about <hotel-name> ?
+attraction ( attraction-name ; attraction-phone )	i'd recommend the <attraction-name> . their phone number is <attraction-phone> . can i help you with anything else ?
+taxi ( taxi-destination )	<taxi-destination> and their number is 01223866800 . would you like me to make a reservation for you ?
+hotel ( hotel-name ; hotel-phone )	<hotel-name> and their number is <hotel-phone> . would you like me to make a reservation for you ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange )	would you want to try the <hotel-name> , which is in the <hotel-pricerange> price range and in the <hotel-area> .
+hotel ( hotel-name ; hotel-area )	i recommend <hotel-name> , it's in the <hotel-area> , moderately priced , and comes with internet and parking .
+attraction ( attraction-name ; attraction-area ; attraction-entrance )	i see several options for you . how about <attraction-name> on mercers row <attraction-entrance> it's located in the <attraction-area> area of town near your hotel .
+restaurant ( restaurant-name )	i've found a place called <restaurant-name> that fits that . would you like me to place a reservation for you ?
+hotel ( hotel-name )	alright , i have a yellow lexus to pick you up from <hotel-name> and take you to curry prince . it's contact number is 07943663026 . anything else ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-type )	the ashley <hotel-type> and the <hotel-name> are both hotels in the <hotel-area> , <hotel-pricerange> price range with offer free wifi and parking . which one do you prefer ?
+hotel ( hotel-name )	there is <hotel-name> , it is in the east part of town
+hotel ( hotel-name ; hotel-area ; hotel-pricerange )	yes , i found the <hotel-name> . it is in the <hotel-area> and has an <hotel-pricerange> price range . my apologies for the miscommunication .
+attraction ( attraction-name ; attraction-phone ; attraction-postcode )	the <attraction-name> would be perfect for you , their phone number is <attraction-phone> and their postcode is <attraction-postcode> .
+restaurant ( restaurant-food ; restaurant-area ; restaurant-type )	sure it is a cheap <restaurant-food> <restaurant-type> in the town <restaurant-area> . i hear it has great food .
+attraction ( attraction-name ; attraction-address ; attraction-area )	we have 11 museums in the <attraction-area> , my personal favorite is the <attraction-name> at <attraction-address> . there is no entrance fee there .
+restaurant ( restaurant-name )	<restaurant-name> is available , would you like to try that ?
+attraction ( attraction-name )	i found two attractions that match your request : <attraction-name> and funky fun house .
+taxi ( taxi-destination )	the <taxi-destination> is on cherry hinton road . their phone number is 01223446104 and the postcode is cb18dw .
+hotel ( hotel-name )	the <hotel-name> is the only expensive hotel in the south area . would you like any more information on this location ?
+restaurant ( restaurant-name ; restaurant-food ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is the only <restaurant-pricerange> <restaurant-food> <restaurant-type> . do you want me to book it for you ?
+hotel ( hotel-name )	i have two to choose from . may i recommend the <hotel-name> ?
+taxi ( taxi-destination )	<taxi-destination> is at 22 sidney street . the postcode is cb23hg . we do not have information on the entrance fee .
+taxi ( taxi-departure )	your room has been booked at the <taxi-departure> for 5 nights starting monday . your reference code is 7vm9fipc . is there anything else i can do to help you ?
+attraction ( attraction-name ; attraction-area ; attraction-entrance ; attraction-type )	we have a <attraction-type> in the <attraction-area> by the name of <attraction-name> , would you like more information <attraction-entrance>
+taxi ( taxi-departure )	the postcode is cb28rj for <taxi-departure> . what time do you want to be picked up at the guest house or to arrive at eraina ?
+hotel ( hotel-name ; hotel-stars )	you do have a few options , including the <hotel-name> which offers free wifi as well as free parking . it is also inexpensive , and rated <hotel-stars> stars .
+hotel ( hotel-name ; hotel-stars ; hotel-type )	sure , the <hotel-name> is a <hotel-stars> star <hotel-type> . does that sound good ?
+restaurant ( restaurant-name )	<restaurant-name> fits your criteria , can i book that for you ?
+taxi ( taxi-departure )	yes , the <taxi-departure> does have free parking . do you want me to go ahead and make a booking for you ?
+restaurant ( restaurant-name ; restaurant-address )	<restaurant-name> would be the perfect place for you to dine . they're located at <restaurant-address> . do you need additional information about them ?
+attraction ( attraction-name ; attraction-type )	well , we have many museums . the <attraction-name> , for instance . or the <attraction-type> of classical archaeology . what interests you ?
+restaurant ( restaurant-name ; restaurant-food ; restaurant-type )	there is one <restaurant-food> <restaurant-type> located in the same area as the museum . it is called the <restaurant-name> . would you like to book a table ?
+restaurant ( restaurant-booktime ; restaurant-name )	i have booked you for 8 people at <restaurant-booktime> on thursday at <restaurant-name> . the address is victoria avenue chesterton . phone number 01733553355 . anything else ?
+restaurant ( restaurant-name )	in that case , i would suggest this one <restaurant-name> .
+hotel ( hotel-name )	how about <hotel-name> ? it looks great .
+restaurant ( restaurant-name )	there are two restaurants that fit your criteria which are <restaurant-name> and riverside brasserie . which one do you prefer ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food )	<restaurant-name> serves <restaurant-food> cuisine in the city <restaurant-area> . would you like a reservation ?
+taxi ( taxi-departure )	<taxi-departure> address is wandlebury ring , gog magog hills , babraham . the postcode is cb223ae . is there anything else i can help you with today ?
+attraction ( attraction-name ; attraction-entrance )	would you like to try the <attraction-name> <attraction-entrance>
+restaurant ( restaurant-name )	okay , i booked you a table at <restaurant-name> . your table will be reserved for 15 minutes and the reference number is 12slbu92 .
+hotel ( hotel-name ; hotel-area )	well there are 21 of those spread across town so i recommend the <hotel-name> on the <hotel-area> side . would you like me to book it ?
+restaurant ( restaurant-name ; restaurant-pricerange )	<restaurant-name> is in the <restaurant-pricerange> price range , would that work for you ?
+attraction ( attraction-name ; attraction-entrance )	how about <attraction-name> ? <attraction-entrance> entrance fee .
+restaurant ( restaurant-name )	i recommend <restaurant-name> , great word of mouth . what day and time do you want to dine ? how many will be going , please ?
+restaurant ( restaurant-name )	yes , i've got <restaurant-name> in that area . would you like to try it ?
+hotel ( hotel-name )	the <hotel-name> fits your criteria . would you like to book a room ?
+hotel ( hotel-name ; hotel-type )	<hotel-name> is a very nice <hotel-type> , would you like me to book you ?
+taxi ( taxi-departure )	the <taxi-departure> is at granta place , mill lane phone number is 01223359750 . the cambridge punter is at 251a chesterton road phone number 07807718591 . no entrance fee information listed .
+restaurant ( restaurant-name ; restaurant-phone ; restaurant-postcode )	i have three that match your criteria . would you like to try <restaurant-name> ? the phone number is <restaurant-phone> and the postcode is <restaurant-postcode> .
+taxi ( taxi-destination )	to clarify , you want a taxi from the scudamores punting co to the <taxi-destination> , leaving the scudamores by 24:00 ?
+attraction ( attraction-name ; attraction-address ; attraction-area )	sure , there are plenty of those in the <attraction-area> . i'd recommend <attraction-name> , located at <attraction-address> . can i get you more information ?
+hotel ( hotel-name )	yes the <hotel-name> does have free wifi . would like me to book a room for you ?
+taxi ( taxi-departure )	i would be happy to book a taxi for you . will your pick-up point be the <taxi-departure> ?
+restaurant ( restaurant-name ; restaurant-food ; restaurant-type )	how about <restaurant-name> , an <restaurant-food> <restaurant-type> ?
+hotel ( hotel-name )	the <hotel-name> is a hotel in the west that is cheap and has both free internet and wifi . would you like to book this ?
+hotel ( hotel-name )	you are booked at the <hotel-name> b & b . it is cheap , with wifi and parking included . your reference number is ztrmokwm . is there anything else ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-type )	<hotel-name> is a <hotel-type> in the <hotel-area> in the <hotel-pricerange> price range with free wifi and parking . would you like to reserve a room ?
+attraction ( attraction-name ; attraction-address )	if you are into contemporary art , <attraction-name> is a great place to relieve boredom . the address is <attraction-address> . best of all , there isn't any entrance fee .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food )	sure ! we have the <restaurant-name> located in the <restaurant-area> serving <restaurant-food> food . would you like to make a reservation ?
+hotel ( hotel-name )	the <hotel-name> booking was successful . reference number is : mz8cpfek
+hotel ( hotel-name ; hotel-address ; hotel-pricerange )	i would recommend <hotel-name> on <hotel-address> . it has internet and parking and is <hotel-pricerange> . does that sound good ?
+taxi ( taxi-destination )	<taxi-destination> is my choice . the postcode is cb23bj . i never made that hotel reservation . would you like me to do that now ?
+attraction ( attraction-name )	<attraction-name> is nice . would you like more info on it ?
+hotel ( hotel-name ; hotel-type )	well the <hotel-name> fits your needs . it isn't the best <hotel-type> in town but it will get the job done . would you like to book it ?
+attraction ( attraction-name ; attraction-area ; attraction-openhours ; attraction-type )	<attraction-name> is a <attraction-type> in the <attraction-area> . would you like further information <attraction-openhours>
+hotel ( hotel-name )	<hotel-name> meets your specifications . want to book ?
+restaurant ( restaurant-name ; restaurant-type )	<restaurant-name> is a great <restaurant-type> that fits exactly what you are looking for . would you like me to book a table for you ?
+hotel ( hotel-name )	i actually have just one located in the west that is cheap . it is the <hotel-name> . they are 4-star rated and offer free parking and wifi . can i book you ?
+restaurant ( restaurant-name )	i would suggest <restaurant-name> then . would you like for me to book it ?
+restaurant ( restaurant-name ; restaurant-address ; restaurant-type )	<restaurant-name> is a great <restaurant-type> that fulfills your wishes . it is located at <restaurant-address> .
+hotel ( hotel-name ; hotel-address ; hotel-postcode ; hotel-stars )	sure , i'd suggest <hotel-name> at <hotel-address> <hotel-postcode> . it's moderately priced with <hotel-stars> stars . would that work for you ?
+hotel ( hotel-name )	the ayesbray <hotel-name> has a four star rating . would you like me to book a room ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange )	the <restaurant-name> is an <restaurant-food> restraunt in the town <restaurant-area> with a <restaurant-pricerange> price . would you like to make a booking ?
+hotel ( hotel-name )	yes . the <hotel-name> has both free wifi and parking . would you like to make a reservation ?
+restaurant ( restaurant-name ; restaurant-area )	how about <restaurant-name> at 17 road city <restaurant-area> ?
+restaurant ( restaurant-name )	ok . that would be <restaurant-name> . would you like to book a table ?
+attraction ( attraction-name )	sure , how about <attraction-name> ?
+restaurant ( restaurant-name )	there are 4 . could i recommend <restaurant-name> .
+restaurant ( restaurant-name ; restaurant-food )	i have the <restaurant-name> it serves <restaurant-food> food . would you like to make reservations there ?
+attraction ( attraction-name ; attraction-entrance ; attraction-type )	<attraction-name> is the <attraction-type> you are looking for then . it charges and entrance fee of <attraction-entrance> .
+hotel ( hotel-name )	may i reccommend <hotel-name> ? it is moderately priced and fits all your criteria . would you like me to reserve you any rooms ?
+restaurant ( restaurant-name ; restaurant-pricerange ; restaurant-type )	i have one <restaurant-type> name <restaurant-name> in the <restaurant-pricerange> price range . would you like me to book it ?
+attraction ( attraction-name ; attraction-area )	i would like to suggest <attraction-name> located in the <attraction-area> . is that okay ?
+hotel ( hotel-name ; hotel-pricerange ; hotel-stars )	hi i recommend <hotel-name> , a <hotel-pricerange> <hotel-stars> star restaurant in the center . do you want me to book it for you ?
+attraction ( attraction-name )	i'd recommend <attraction-name> . would you like some information on it ?
+restaurant ( restaurant-name )	i have <restaurant-name> hinton located at g4 cambridge leisure park clifton way cherry hinton . would you like reservations ?
+train ( train-arriveby )	i have a train that arrives at <train-arriveby> . will this do for you ?
+restaurant ( restaurant-name )	<restaurant-name> looks like a good place .
+hotel ( hotel-name )	<hotel-name> seems like a nice place because it is the first one on my list how about that one its probably not too shabby
+restaurant ( restaurant-name )	ok , i have booked a table for four at 17:15 on sunday at the <restaurant-name> . your reference number is 3havrre7 . enjoy your evening !
+attraction ( attraction-name ; attraction-entrance )	i recommend <attraction-name> . it's educational and <attraction-entrance> !
+hotel ( hotel-name )	the huntingdon marriott hotel is in the expensive price range . i have the <hotel-name> also in the west in the cheap price range . would you like to book ?
+restaurant ( restaurant-name )	<restaurant-name> meets your criteria .
+restaurant ( restaurant-name )	okay , how about the <restaurant-name> ?
+attraction ( attraction-name ; attraction-address ; attraction-entrance ; attraction-openhours )	there are four . how about <attraction-name> <attraction-openhours> it's located at <attraction-address> and has <attraction-entrance> entrance .
+hotel ( hotel-name ; hotel-type )	<hotel-name> is a nice <hotel-type> that i can book for you .
+restaurant ( restaurant-name )	the <restaurant-name> sounds like just what you are looking for . would you like a reservation ?
+restaurant ( restaurant-name )	i recommend <restaurant-name> . their phone number is 01223309147 . is there anything else you need help with ?
+hotel ( hotel-name )	i can recommend <hotel-name> . would you like to book it ?
+restaurant ( restaurant-name ; restaurant-area )	i personally like <restaurant-name> . it's in the <restaurant-area> . would you like to book a table ?
+attraction ( attraction-name ; attraction-openhours )	i recommend the <attraction-name> , they have nice things . would you like more information <attraction-openhours>
+restaurant ( restaurant-name ; restaurant-address ; restaurant-area ; restaurant-food ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is a <restaurant-pricerange> <restaurant-type> serving <restaurant-food> food in the <restaurant-area> part of town . it's address is <restaurant-address> and it's post code is cb2311 .
+taxi ( taxi-departure )	<taxi-departure> has a 4 star rating . their post code is cb11ee
+taxi ( taxi-destination )	how about <taxi-destination> ? it's an entertainment attraction in the west . the address is unit 8 , viking way , bar hill .
+attraction ( attraction-name ; attraction-address ; attraction-area ; attraction-entrance ; attraction-type )	how about <attraction-name> <attraction-entrance> it's an <attraction-type> attraction in the <attraction-area> . the address is <attraction-address> .
+restaurant ( restaurant-name )	the <restaurant-name> in chesterton is a moderately priced restaurant . would you like a reservation ?
+restaurant ( restaurant-name ; restaurant-area )	i would recommend <restaurant-name> on the <restaurant-area> side of town . how many people are in your group and when do you need the reservation for ?
+attraction ( attraction-name ; attraction-address ; attraction-area ; attraction-entrance ; attraction-phone ; attraction-type )	there is a great <attraction-type> on the <attraction-area> side called <attraction-name> . the are located at <attraction-address> . their phone number is <attraction-phone> . is there anything else <attraction-entrance>
+restaurant ( restaurant-name ; restaurant-food ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is a <restaurant-pricerange> <restaurant-food> <restaurant-type> in the center of town . do you want me to book it for you ?
+restaurant ( restaurant-name ; restaurant-area )	i booked you a table at the <restaurant-name> in the <restaurant-area> area for 12:30 saturday .
+hotel ( hotel-name ; hotel-type )	there is only one <hotel-type> that fits that , the <hotel-name> , would you like to stay there ?
+attraction ( attraction-name ; attraction-address )	the <attraction-name> it is . they're located at <attraction-address> .
+restaurant ( restaurant-name ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is a very popular <restaurant-type> in the <restaurant-pricerange> range . would you like me to book a reservation for you ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange )	there are two options for <restaurant-food> food in <restaurant-area> in the <restaurant-pricerange> price range . may i suggest <restaurant-name> ?
+hotel ( hotel-name ; hotel-area ; hotel-type )	i was able to find <hotel-name> , it's a <hotel-type> in the <hotel-area> that is moderately priced . can i make a booking for you ?
+restaurant ( restaurant-food ; restaurant-type )	how about curry prince ? it is a moderately priced <restaurant-food> <restaurant-type> in the east .
+attraction ( attraction-name ; attraction-address ; attraction-area ; attraction-phone )	<attraction-name> is in the <attraction-area> , the address is <attraction-address> and they can be reached at <attraction-phone>
+taxi ( taxi-destination )	<taxi-destination> postcode is cb58sx , i am not sure about the entrance fee .
+taxi ( taxi-departure )	<taxi-departure> is both the name and description of the attraction . it's very popular . may i help with something else ?
+hotel ( hotel-name ; hotel-type )	unfortunately the <hotel-name> <hotel-type> is unavailable for that date range . would you like to see if another day is available or book for a shorter stay ?
+restaurant ( restaurant-name ; restaurant-postcode )	ok . i have your table reserved at <restaurant-name> , postal code <restaurant-postcode> . your reference number is xk8ri3tc
+hotel ( hotel-name )	it's hard to say . how about the <hotel-name> in the norht part of town ?
+hotel ( hotel-name ; hotel-area ; hotel-type )	the only <hotel-type> available is <hotel-name> . you are booked and the reference number is yjjttq9x . it comes with parking and internet and is in the <hotel-area> .
+hotel ( hotel-name )	express by <hotel-name> cambridge is on the east side and expensive .
+attraction ( attraction-name ; attraction-address ; attraction-area ; attraction-type )	i have <attraction-name> <attraction-type> in the <attraction-area> located on <attraction-address> .
+restaurant ( restaurant-name )	how about <restaurant-name> ? i've heard it's great .
+restaurant ( restaurant-name )	we have <restaurant-name> , the ghandi and kohinoor , do you want me to book you for one of those ?
+hotel ( hotel-name )	the <hotel-name> matches your criteria . would you like me to book it for you ?
+restaurant ( restaurant-name )	how about <restaurant-name> ? i can book you a table there if you like .
+restaurant ( restaurant-name )	the <restaurant-name> is an good expensive restaurant in the centre of town . would you like me to book it for you ?
+hotel ( hotel-name )	based on your criteria there are 6 guest houses available . i suggest the <hotel-name> . shall i make a reservation for you ?
+hotel ( hotel-name )	ok . i booked the <hotel-name> for you . the reference number is uwpc7af0 . would you like anything else ?
+taxi ( taxi-destination )	i would recommend the <taxi-destination> is located on the west side of cambridge and the entrance fee is free .
+attraction ( attraction-name )	i would recommend <attraction-name> is located on the west side of cambridge and the entrance fee is free .
+restaurant ( restaurant-name )	i would recommend the <restaurant-name> . it serves british food . would you like me to try to make a reservation ?
+restaurant ( restaurant-name )	i have five places . <restaurant-name> is a nice place . shall i book it ?
+taxi ( taxi-departure )	the address for <taxi-departure> is 51 trumpington street city centre .
+hotel ( hotel-name )	yes , the <hotel-name> is a cheap 4 star hotel that includes free parking .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food )	there is the <restaurant-name> in the <restaurant-area> serving <restaurant-food> food .
+attraction ( attraction-name )	how about <attraction-name> ? it looks lovely
+attraction ( attraction-name ; attraction-area ; attraction-entrance )	how about the <attraction-name> in the <attraction-area> <attraction-entrance>
+attraction ( attraction-name ; attraction-entrance )	i have 11 museums . i could suggest the <attraction-name> it has a <attraction-entrance> entrance fee .
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-stars ; hotel-type )	<hotel-name> is a <hotel-stars> star <hotel-type> in the <hotel-area> part of town in the <hotel-pricerange> price range with both free internet and parking .
+attraction ( attraction-name ; attraction-area ; attraction-type )	okay i recommend the <attraction-name> which is <attraction-type> in the <attraction-area> .
+attraction ( attraction-name ; attraction-entrance )	sure , <attraction-name> will be great . what information do you need about this attraction <attraction-entrance>
+hotel ( hotel-name ; hotel-pricerange ; hotel-type )	i have one <hotel-type> in the <hotel-pricerange> range , <hotel-name> . would you like me to book it for you ?
+hotel ( hotel-name )	i'd recommend the <hotel-name> . would you like to make a booking ?
+hotel ( hotel-name ; hotel-address )	all right , sir , that would be the <hotel-name> on <hotel-address> .
+hotel ( hotel-name )	bridge gue house , hamilton lodge , and <hotel-name> are all available if you'd like one of those ?
+attraction ( attraction-name ; attraction-phone )	i'd recommend <attraction-name> . their phone number is <attraction-phone> . can i help you with anything else ?
+hotel ( hotel-name ; hotel-pricerange )	if price is not an issue , i recommend the <hotel-pricerange> <hotel-name> . if you want something cheaper , i recommend the cambridge belfry .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange )	<restaurant-name> servers <restaurant-food> food and is in the <restaurant-area> of town in the <restaurant-pricerange> pricerange . would you like their phone number , or should i book a reservation ?
+train ( train-arriveby )	the tr0071 arrives in broxbourne on thursday at <train-arriveby> . would you like a ticket ?
+hotel ( hotel-name ; hotel-area )	the <hotel-name> does meet your requirements in the <hotel-area> .
+train ( train-leaveat )	all 9 trains that fit your request cost 8.08 pounds per ticket . the earliest is the tr9680 that leaves at <train-leaveat> .
+train ( train-leaveat )	there are 5 trains . would you like to leave at <train-leaveat> ?
+train ( train-leaveat ; train-arriveby )	i have train tr2634 that leaves at <train-leaveat> and arrives in london kings cross at <train-arriveby> . would that work for you ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is an <restaurant-pricerange> <restaurant-type> in the <restaurant-area> . would you like me to book it ?
+hotel ( hotel-name ; hotel-phone )	i'll recommend <hotel-name> . their phone number is <hotel-phone>
+train ( train-leaveat )	there is a train that leaves at <train-leaveat> . would you be interested in more information or would you like to book it now ?
+train ( train-leaveat ; train-arriveby )	all of the trains that day are 50 minutes travel time . would you like to leave at <train-leaveat> , arriving at <train-arriveby> ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is an <restaurant-pricerange> <restaurant-food> <restaurant-type> in the <restaurant-area> . would you like a reservation ?
+attraction ( attraction-name )	how about <attraction-name> ? it's free and located in the centre . would you like more information about it ?
+attraction ( attraction-name ; attraction-address )	i'd recommend <attraction-name> concert hall on <attraction-address> .
+train ( train-leaveat ; train-arriveby )	i have train tr6742 that leaves at <train-leaveat> and will have you in bishops stortford by <train-arriveby> . will that work for you ?
+attraction ( attraction-name ; attraction-address ; attraction-area ; attraction-entrance )	the <attraction-name> is in town <attraction-area> , located at <attraction-address> . would you like their phone number <attraction-entrance>
+attraction ( attraction-name ; attraction-area )	we have <attraction-name> and tenpin in the <attraction-area> .
+restaurant ( restaurant-name )	would you like to try <restaurant-name> ?
+train ( train-leaveat )	train tr9022 departs at <train-leaveat> and arrives at 16:01 . would you like me to make you a reservation ?
+restaurant ( restaurant-name )	i have reserved you a table at <restaurant-name> , and the reference number is clzspxuk . anything else for you today ?
+hotel ( hotel-name )	how about the <hotel-name> , i can book it for you now if you like ?
+attraction ( attraction-name ; attraction-area )	if you come to the <attraction-area> of town there are several magnificent churches . and the <attraction-name> are quite impressive as well . would you like more information about any of them ?
+restaurant ( restaurant-name )	how about <restaurant-name> ?
+attraction ( attraction-name )	sure , <attraction-name> is free admission and their phone number is 01223334900 .
+attraction ( attraction-name ; attraction-entrance ; attraction-openhours ; attraction-type )	the travel time for that would be 50 minutes . <attraction-name> would be a great <attraction-type> to visit and it's <attraction-entrance> . does that interest you <attraction-openhours>
+restaurant ( restaurant-name )	the restaurants are : jinling noodle bar , lan hong house and <restaurant-name> .
+hotel ( hotel-name )	<hotel-name> is the name
+hotel ( hotel-name )	i have booked you for <hotel-name> . reference number : h02psc79 . is there anything else you need ?
+hotel ( hotel-name )	i would recommend the <hotel-name> , which has what you need . your booking reference number is fttnx1m7 . your two night stay will begin tuesday . thank you !
+taxi ( taxi-destination )	<taxi-destination> is very famous , free to enter and their postcode is cb23bu . will there be anything else ?
+hotel ( hotel-name )	if you like guesthouses there are a lot more options for you . i could recommend <hotel-name> , they're moderately priced but rated four stars . does that sound good ?
+attraction ( attraction-name ; attraction-address ; attraction-area )	i recommend going to the <attraction-name> , in the <attraction-area> . the address is <attraction-address> , and there is no entrance fee .
+taxi ( taxi-destination )	<taxi-destination> fits your request and is in the south . it is located at 53-57 lensfield road cb21en . unfortunately , i couldn't find a cheap chinese restaurant on the west side .
+restaurant ( restaurant-name ; restaurant-address ; restaurant-pricerange )	how about <restaurant-name> . it is located at <restaurant-address> with a <restaurant-pricerange> price range . can i make a reservation for you ?
+restaurant ( restaurant-name )	we only have <restaurant-name> , would you like me to book a table ?
+hotel ( hotel-name ; hotel-area ; hotel-pricerange ; hotel-stars )	the <hotel-name> is in the <hotel-area> of town , falls in the <hotel-pricerange> price range , and has <hotel-stars> stars . would you like to book a room ?
+restaurant ( restaurant-food ; restaurant-type )	that is an <restaurant-food> <restaurant-type> in the center of town in the expensive price range . could you like a reservation ?
+hotel ( hotel-name )	i'm sorry , but the <hotel-name> does not have anything available on saturday for 3 people , for a 3 night stay . would you like to try a different day ?
+hotel ( hotel-name )	the <hotel-name> matches your request . would you like to book it ?
+hotel ( hotel-name )	you're booked at the <hotel-name> for one night on sunday . the reference number is i6ghmh1k . can i help with anything else ?
+hotel ( hotel-name )	ok . i have booked the <hotel-name> for you . the reference number is 11xdm9cc .
+restaurant ( restaurant-name )	how does <restaurant-name> sound ?
+hotel ( hotel-name )	how does the <hotel-name> sound ? it has internet and free parking and is moderately priced .
+attraction ( attraction-name ; attraction-area )	<attraction-name> located in the <attraction-area> is a nice place . would you like more info ?
+train ( train-leaveat ; train-departure )	the train leaves <train-departure> at <train-leaveat> . is there anything else i can help you with today ?
+restaurant ( restaurant-name )	i would recommend <restaurant-name> . would you like to make a reservation ?
+attraction ( attraction-name ; attraction-phone )	<attraction-name> can be reached at <attraction-phone>
+attraction ( attraction-name ; attraction-address ; attraction-phone )	<attraction-name> is located on <attraction-address> . the phone number is <attraction-phone> . do you need anything else ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-pricerange )	<restaurant-name> has good ratings and is in the <restaurant-pricerange> price range in the <restaurant-area> of town .
+restaurant ( restaurant-name ; restaurant-address )	would you like me to book you a table at <restaurant-name> at <restaurant-address> for tuesday at 17:00 for 3 people ?
+hotel ( hotel-name ; hotel-area )	i have several options here . i would recommend <hotel-name> thats located in the <hotel-area> . would you like more info or would you prefer something different ?
+restaurant ( restaurant-food )	darrys cookhouse and wine shop is located in the centre . it is expensive and serves <restaurant-food> food . would you like a reservation ?
+attraction ( attraction-name ; attraction-area ; attraction-type )	the <attraction-name> is a <attraction-type> located in the <attraction-area> .
+restaurant ( restaurant-name )	<restaurant-name> fine serves seafood in the center of town in the expensive price range . do you want me to make a reservation ?
+attraction ( attraction-name )	how about <attraction-name> ? would you like more information ?
+restaurant ( restaurant-name )	the <restaurant-name> is good and is located at the doubletree by hilton . can i reserve a table for you ?
+hotel ( hotel-name ; hotel-area ; hotel-stars )	that narrows it down a bit . the <hotel-name> is a nice place , with <hotel-stars> stars . it's in the <hotel-area> area of town .
+taxi ( taxi-departure )	i personally like the <taxi-departure> museum in the city centre . it's free to get into . would that interest you ?
+train ( train-leaveat ; train-departure )	i have a train scheduled to depart peterborough at <train-leaveat> and will arrive in <train-departure> by 14:38 . would you me like to book this for you ?
+train ( train-leaveat )	how about tr9345 ? it leaves at <train-leaveat> .
+restaurant ( restaurant-name )	sure how about <restaurant-name> ?
+restaurant ( restaurant-name ; restaurant-food ; restaurant-pricerange )	<restaurant-name> is in the <restaurant-pricerange> price range serving <restaurant-food> food .
+restaurant ( restaurant-name )	how about <restaurant-name> ? shall i book you a table ?
+restaurant ( restaurant-name )	<restaurant-name> is located on devere university arms regent street city centre .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange )	there are a number of <restaurant-pricerange> eateries in the <restaurant-area> . how about one of my favorites - <restaurant-name> ? they serve <restaurant-food> food and it's delicious !
+attraction ( attraction-name ; attraction-area ; attraction-entrance )	i suggest the <attraction-name> . it's <attraction-entrance> and in the <attraction-area> of town . do you want an address ?
+restaurant ( restaurant-name ; restaurant-pricerange ; restaurant-type )	would you still like a <restaurant-type> in the <restaurant-pricerange> price range ? i would recommend the <restaurant-name> .
+attraction ( attraction-name ; attraction-address )	<attraction-name> is pretty rad . it's at <attraction-address> .
+attraction ( attraction-name ; attraction-address ; attraction-entrance ; attraction-type )	how about the <attraction-name> <attraction-type> ? it's on <attraction-address> and the admission is <attraction-entrance> .
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is an <restaurant-food> <restaurant-type> in the <restaurant-area> . it's <restaurant-pricerange> , but i hear it's great . would you like me to book it for you ?
+restaurant ( restaurant-name )	it is <restaurant-name> , would you like a reservation ?
+restaurant ( restaurant-name ; restaurant-address )	<restaurant-name> at <restaurant-address> .
+attraction ( attraction-name ; attraction-address ; attraction-entrance ; attraction-type )	my favorite <attraction-entrance> <attraction-type> is the <attraction-name> at <attraction-address> .
+restaurant ( restaurant-name )	there are two in the area . i recommend <restaurant-name> would you like more information or for me to book it for you ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-type )	i have found 4 <restaurant-food> restaurants in <restaurant-area> ; <restaurant-name> , tang <restaurant-food> , hk fusion , and seasame <restaurant-type> and bar . would you like there phone numbers , or address ?
+restaurant ( restaurant-name ; restaurant-pricerange ; restaurant-type )	<restaurant-name> is a <restaurant-pricerange> <restaurant-type> that you may like .
+train ( train-arriveby )	i have a train that will arrive by <train-arriveby> . would you like to make a booking ?
+attraction ( attraction-name ; attraction-entrance ; attraction-openhours ; attraction-type )	what about a <attraction-type> <attraction-openhours> the <attraction-name> is amazing and it's <attraction-entrance> !
+taxi ( taxi-departure )	<taxi-departure> is free to enter , and their number is 01223694264 . can i help you with anything else today ?
+restaurant ( restaurant-food ; restaurant-type )	golden house is an inexpensive <restaurant-food> <restaurant-type> located in the centre of town . do you need more information ?
+restaurant ( restaurant-name ; restaurant-area )	yes , the <restaurant-name> is in the <restaurant-area> . i would be happy to book a table for you if you can tell me the day , time , and number of people .
+taxi ( taxi-destination )	i have made a booking for <taxi-destination> . the table will be reserved for 15 minutes . reference number is : 2x1igk9d .
+hotel ( hotel-name )	how about the <hotel-name> ? they are moderately priced and have both internet and parking .
+attraction ( attraction-name ; attraction-area ; attraction-openhours ; attraction-type )	how about <attraction-name> <attraction-openhours> it's a <attraction-type> on the <attraction-area> side of town , and they have no entrance fee .
+attraction ( attraction-name )	the <attraction-name> is a multiple sports venue in the east . does that work for you ?
+hotel ( hotel-name )	we have 9 <hotel-name> that meet your criteria . would you like me to recommend one ?
+restaurant ( restaurant-name ; restaurant-area ; restaurant-food ; restaurant-type )	we have <restaurant-name> . it is an <restaurant-food> <restaurant-type> located in the <restaurant-area> . it is moderately priced . would you like me to book it for you ?
+attraction ( attraction-name ; attraction-area ; attraction-entrance )	the <attraction-name> is in the town <attraction-area> . can i get you some information about it <attraction-entrance>
+train ( train-arriveby ; train-leaveat ; train-departure )	the train closest to your requested arrival time is the tr9595 , leaving <train-departure> at <train-leaveat> and arrives at stansted airport at <train-arriveby> . would you like me to book you a ticket ?
+hotel ( hotel-name )	i think the <hotel-name> is your best bet !
+train ( train-arriveby )	it will arrive at <train-arriveby>
+restaurant ( restaurant-name )	i recommend the <restaurant-name> located at hotel felix whitehouse lane huntington road .
+attraction ( attraction-name ; attraction-address )	that should be <attraction-name> located in <attraction-address> . can i give you the phone number ?
+hotel ( hotel-name )	the only place available is the <hotel-name> . would you like for me to book a room ?
+restaurant ( restaurant-name )	yes <restaurant-name> address is 7 milton road chesterton and their postcode is cb41uy . is there anything else i can help you with today ?
+hotel ( hotel-name )	i have the <hotel-name> in the east .
+train ( train-leaveat )	tr1393 departs at <train-leaveat> and costs 16.50 pounds . the ride is 50 minutes !
+train ( train-leaveat ; train-arriveby )	how about the tr8017 ? it leaves at <train-leaveat> and arrives at <train-arriveby> in bishops stortford .
+restaurant ( restaurant-name )	i found 3 places , would you like to try <restaurant-name> ?
+train ( train-arriveby ; train-departure )	tr1951 leaves <train-departure> at 06:40 and arrives at the airport at <train-arriveby> . would that work ?
+hotel ( hotel-name ; hotel-stars )	i have <hotel-stars> hotels the <hotel-name> or the lovell lodge . do you have a preference ?
+train ( train-leaveat ; train-arriveby )	sure , i booked you 1 ticket . the train arrives at <train-arriveby> and departs at <train-leaveat> on sunday . it comes to 13.20 pounds and the train id number is tr8517
+train ( train-leaveat ; train-departure )	tr5648 will be departing <train-departure> friday at <train-leaveat> , and arriving by 12:06 in leicester . would you like to book a seat for this train ?
