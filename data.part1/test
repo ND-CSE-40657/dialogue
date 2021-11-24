@@ -1,1053 +1,1053 @@
-I need a taxi to come to backstreet bistro by 19:30 .	find_train
-I'm coming from sesame restaurant and bar .	find_train
-Nope , that is everything ! Thanks !	find_train
-I'd like to find a train from Leiceter on Saturday .	find_train
-I am going to cambridge and need to leave after 12:00	book_train
-I don't need to book just yet . But can I get the arrival time and price per ticket .	NONE
-Okay great . That is all I needed to know .	find_train
-I'd like to be picked up today from alexander bed and breakfast	find_train
-I would like for the taxi to be here at eleven o'clock a.m . so that I can arrive at my destination at noon .	find_train
-I am going to rice house	book_train
-Thank you , that is all .	NONE
-I am looking for a particular restaurant called city stop restaurant .	find_hotel
-Yes , I would . Please reserve a table for 4 at 17:30 on Thursday . I would like the reference number as well , please .	find_hotel
-Thanks , that's all I need . Have a nice day .	book_hotel
-Is there a train schedule for sunday ?	book_hotel
-Yes , departing from Cambride going to London Kings cross .	book_hotel
-I don't have a preference for leave time . I need to arrive in London Kings Cross by 14:00 .	book_hotel
-Well , that is pretty early , but I think it will work . Thank you so much !	book_hotel
-Great , thanks for your help .	book_hotel
-No that was all . Thanks	NONE
-Could you tell me where Cotto is located ?	find_restaurant
-Great ! Do you know what price range they are in ?	find_restaurant
-Thanks , good bye .	book_restaurant
-I need some information on the A and B Guest House .	NONE
-Thank you , I need to book for 7 people and 3 nights starting on thursday . Can they set that up for me .	find_taxi
-So you need to arrive on Thursday after 11:00 am to check-in .	find_taxi
-That's it for now ! Thank you so much .	find_taxi
-Hi . Is there a hotel named Home from Home ? I think I have heard of that .	NONE
-All right , could you book a room for me ? There will be 8 people for 4 nights , arriving Monday .	find_attraction
-Sure . I could stay for 1 night .	find_attraction
-No , that's all I need . Thanks for your help !	find_attraction
-I would like to book a taxi for after 01:15 pm and i will be going to milton country park .	NONE
-I'm leaving from milton county park .	find_hotel
-I am leaving from milton country park and I will be going to gonville hotel .	find_hotel
-I need the car type and contact number .	book_hotel
-Thanks for the help . I will be looking for that car . Goodbye .	book_hotel
-Can you help me find a good thai restaurant in the west ?	NONE
-Yes , that would be great .	find_hotel
-Thursday at 12:45 for 7 people .	find_hotel
-thank you for your service	book_hotel
-No , the reservation is all . Goodbye .	book_hotel
-Can you find me a guesthouse with free parking ?	book_hotel
-No , but I'm looking for something with at least two stars .	NONE
-Do you have a hotel that is four stars then ?	find_attraction
-The location doesn't matter , but I would prefer a guesthouse if possible .	find_attraction
-Yes please . There are 8 of us and we'll be arriving on Saturday .	find_attraction
-I'll be staying for 5 nights .	NONE
-I'm happy and relieved . That's everything . Thank you so much for your help .	find_restaurant
-I need a train going to Cambridge .	find_restaurant
-The train should depart from kings lynn and should leave on thursday .	NONE
-I wish to leave after 8:15 .	find_train
-can i get the price and time travel please	find_train
-Would you be able to send that in a different format ? I just need a price and travel time , that list is confusing .	NONE
-No , that is all . Good bye .	find_train
-Hi , I'm looking for an expensive restaurant .	find_train
-I'd like something in the centre if possible .	find_restaurant
-That sounds nice ! Can I just get their phone number , address , and postcode ?	find_restaurant
-No , that's everything . Thanks for the help !	find_restaurant
-I'm in need of a train that leaves from Peterborough and arrives by 18:30 .	NONE
-I would like to travel on Monday and my destination is Cambridge .	find_taxi
-Okay , can you book that for me ? I'm traveling alone .	find_taxi
-Thanks , that's all I need . Have a nice day .	NONE
-Hey , I'm trying to book a taxi today	NONE
-I am departing from Cambridge University Botanic Gardens and need to arrive at Pizza Hut Cherry Hinton .	find_hotel
-I would like to leave after 9:45 . Please let me know the car type and contact number .	find_hotel
-Thanks . That's all I needed to know .	find_hotel
-Hi there . I'm trying to impress my girlfriend and was wondering if there might be a really nice british restaurant in town ?	find_hotel
-Not really , if you find a suitable one , please give me the postcode .	NONE
-Thanks ! That's all I need today . I appreciate your help .	find_train
-Indeed they have .	find_train
-I am looking for a train . The train should leave on monday and should leave after 16:45	find_train
-The train should leave on monday and should leave after 16:45 , departing from stevenage and should go to cambridge .	find_train
-Can you book passage for 7 people , please ?	NONE
-Thank you for your help .	find_taxi
-Have a wonderful day !	find_taxi
-No that was all . Goodbye .	find_taxi
-Hello , I am trying to find a place to stay that has free wifi and 3 stars . Do you have anything like that ?	find_taxi
-Are any of them a hotel ? I don't want a guesthouse .	NONE
-No preference , I need it for 2 nights starting from Monday for 3 people , and I need a reference number please .	find_restaurant
-That is great , I'm so excited . Thanks for you help . Bye .	find_restaurant
-Hi , I am looking for a cheap place to stay in the east . Can you help me ?	NONE
-Do any of those include free parking ?	find_taxi
-I would need a hotel for 6 people , starting from Thursday and lasting 4 nights . Is there anything available ?	find_taxi
-Great , that's all I need today . Thank you !	find_taxi
-I'm looking for some entertainment in the center of town .	NONE
-How about a theatre ?	find_hotel
-That sounds good , what's the phone number ?	find_hotel
-Thank you , that's all I need right now . Bye .	find_hotel
-I'd like to book a taxi to depart from Maharajah Tandoori Restaurant .	book_hotel
-I would like the taxi to be here by 02:00 .	book_hotel
-Please take me to sidney sussex college .	NONE
-no that is all i wanted from you today thank you	find_taxi
-Thank you for your help , you do the same .	find_taxi
-I am looking for a particular restaurant . It's Efes Restaurant .	NONE
-Yes I would , for 3 people Wednesday at 18:15 .	find_taxi
-Can you check for 17:15 on the same day ?	find_taxi
-No , that's all I need today . I appreciate your help - goodbye !	find_taxi
-I'm looking for a place to stay . I would like for it to be a 4 star guesthouse .	find_taxi
-No , just moderate price range .	find_taxi
-No , that doesn't matter .	NONE
-Let's go ahead and make a reservation . I'll be arriving Tuesday and would like to stay 5 nights . There will be 7 people in my group .	NONE
-Thank you for the help . Have a nice day .	find_taxi
-Aloha ! Can you help me find a hotel , please ?	find_taxi
-I'm not sure but I'm looking for something in the cheap price rating with 4 stars .	find_taxi
-I need free parking .	NONE
-I would like you to book me into the hotel for tuesday for 5 nights and 2 people .	NONE
-Not that is it thank you .	find_restaurant
-I would like to find a restaurant in the centre .	book_restaurant
-I need it to be in the expensive price range . What are my options ?	book_restaurant
-Lets go with the Turkish one . Can I get the address and postcode please ?	book_restaurant
-Thanks for the information . Goodbye .	NONE
-Hi , I'd like to find a moderately priced steakhouse .	find_train
-How about in the centre ?	find_train
-How about Spanish food then ?	book_train
-No thank you . Can I have the phone number for it though ?	NONE
-That's all the information I needed today , thank you .	find_hotel
-I'm coming to town for an overdue visit with my relatives . Can you help me find a place to stay ?	find_hotel
-I prefer a guesthouse with free WiFi .	find_hotel
-I really want to stay in the east and be 4-star rated . Does the Acorn fit that ?	find_hotel
-The price range doesn't matter . I need to book a room for Monday .	find_hotel
-2 people , for 4 nights .	NONE
-Yes , thank you ! What is the reference number ?	NONE
-Thanks so much . I am all set . Bye .	find_train
-I need a taxi to come after 19:30 .	find_train
-I am in wandlebury country park .	NONE
-I'll be going to meze bar restaurant .	find_train
-Great . Can I get a contact number ?	find_train
-No , thank you for your help .	find_train
-I'd like help with a taxi , please . I need to be picked up at museum of classical archaeology and should arrive by 9:00 . Can you help ?	NONE
-My destination will be ugly duckling	find_train
-Thank you . What is the contact number ?	find_train
-That is all , thanks .	find_train
-I'm looking for a cheap place to dine . I want it to be on the west side of town .	book_train
-Shucks . No Polish ?	NONE
-I suppose Italian might suffice . Do you have any listings for cheap Italian restaurants on the west side ?	find_hotel
-no , but could you please give me the address and the phone number ?	find_hotel
-No , that's all I need . Thank you for your help !	book_hotel
-I am wanting to book a taxi . I am going to Sitar Tandoori and want to leave after 19:30 .	book_hotel
-i'm going to sitar tandoori .	find_train
-I am departing from la tasca .	find_train
-Thanks so much for your help	find_train
-I need to book a taxi departing from royal standard .	find_train
-I'm heading to the university arms hotel .	find_restaurant
-Yes . I must arrive there by 15:45	book_restaurant
-Sounds good , thanks for the help !	book_restaurant
-That was everything , thanks !	NONE
-hello can i find a place that serves chinese food and has expensive price range for my family	find_taxi
-i want a restuarant that i can book a table for four people on monday 1300hrs	find_taxi
-Yes , please . for 4 people at 13:00 on monday .	NONE
-How about Tuesday , same time .	find_restaurant
-No , that's all I need . Thank you !	find_restaurant
-I am looking for a place to dine . The restaurant should serve mediterranean food and should be in the south	find_restaurant
-What restaurants are cheap ?	find_restaurant
-how about one that serves portuguese food ?	NONE
-Yes , please . 3 people at 12:15 on Friday .	find_restaurant
-how about for 11:15 ?	find_restaurant
-That is all I need , thank you .	find_restaurant
-I want to find a museum in the centre of town please .	book_restaurant
-Yes , please . May have I have phone number and postcode ?	NONE
-Nope , that's it . Thank you !	find_hotel
-Hi I am looking for a 4 star guesthouse . Can you help me ?	find_hotel
-I don't really care about the area , but I would like it to have free parking .	find_hotel
-Sounds good , I need rooms for 7 people for 4 nights starting Tuesday .	find_hotel
-No thank you , that is everything .	book_hotel
-I'm . looking for a train departing from stevenage .	book_hotel
-I need to go to Cambridge on Friday .	book_hotel
-I want to leave sometime after 13:30 .	book_hotel
-Yes , please , for 3 people .	NONE
-Thanks ! Have a good day .	find_hotel
-I am looking for a 3 star hotel on the south side of town please .	book_hotel
-Is it in the cheap price range ?	NONE
-Is that in the cheap price range ?	find_taxi
-Sure , how about one in the expensive range ?	find_taxi
-Can you tell me what type of accommodation this is ?	NONE
-Yes please . I need to book a room for three days starting on tuesday .	find_taxi
-Make a reservation for one .	find_taxi
-Actually nevermind , I don't need to make a reservation right now . Thanks anyway .	NONE
-No , that's all I need . Thank you !	find_hotel
-I need a train to Cambridge on Saturday . I'll be departing from Peterborough .	find_hotel
-We'd like to arrive by 12:45 .	book_hotel
-What's the latest train I can take that will still get me there by 12:45 ?	book_hotel
-Yes , for 7 people . Please give me reference number .	find_restaurant
-Great ! Thanks ! That's all I needed !	find_restaurant
-I am looking for a place to stay . The hotel should include free wifi and should be in the cheap price range	find_restaurant
-No , just need to make sure it includes free parking .	NONE
-Okay , I need to book it for 1 person , 2 nights starting Friday .	find_hotel
-how about for 1 night ?	find_hotel
-Thanks for your help have a great day .	book_hotel
-I need to find a guesthouse with a 0 star rating .	book_hotel
-Do they have free parking and wifi ?	book_hotel
-That's awesome . Can you book one of them for me ?	NONE
-On Friday , and I'd like to stay 5 nights . This will be for 6 people .	find_restaurant
-Excellent . Thank you for the help !	find_restaurant
-I need a cheap restaurant please .	book_restaurant
-Yes , portuguese food would be nice .	NONE
-Yes I would like to book Nandos in the south for 1 person at 15:30 on Monday .	NONE
-Can you see if they have an opening at 14:30 instead ?	NONE
-No , that will be all . Thank you .	find_taxi
-Hi ! I'd like to book a taxi to Travellers Rest , please , and I need to get there absolutely no later than 11:45 from cambridge train station .	find_taxi
-I need to go to travellers rest . Is that OK ?	NONE
-No that is all , thank you .	find_restaurant
-Hello . Can you find a taxi to pick me up at Darry's Cookhouse and Wine Shop sometime after 04:00 ?	find_restaurant
-i would like to go to alexander bed and breakfast	find_restaurant
-Thank you very much . I don't need anything else at this time .	find_restaurant
-I'm looking for a train from norwich to cambridge .	NONE
-I would like to leave on Tuesday and arrive by 13:30 .	find_restaurant
-Ill just take earliest train then please .	book_restaurant
-I don't need you to reserve it but I do need the train info and the travel time .	book_restaurant
-Can you tell me what the total travel time for that is ?	find_restaurant
-Thank you . That's all I need .	book_restaurant
-I need a taxi going to dojo noodle bar .	NONE
-I will be departing from ashley hotel .	find_restaurant
-I want to leave the hotel after 7:00 , please .	find_restaurant
-THat is all thank you for your help .	find_restaurant
-Hi , can you help me find a place to stay ? Something moderately priced with free wifi .	book_restaurant
-Not really , but I'm looking for something with 2 stars .	NONE
-Will you book it for a party of 7 . 5 days beginning Friday .	NONE
-That's great . No I don't need anything else , thank you .	find_hotel
-I need to book a train leaving leicester after 12:15 . Can you do that ?	find_hotel
-I would like to go to Cambridge on Sunday and leaving after 12:15 please .	book_hotel
-the sooner the better but now rush actually	book_hotel
-yep , for 5 people at 13:09	book_hotel
-awesome , that's all i needed , bye !	book_hotel
-I'd like a restuarant in the north with expensive food .	NONE
-Surprise me , I just want something pricey to impress my friends . It'll be a party of seven .	find_taxi
-How about Monday at 19:15 .	find_taxi
-Thank you so much . That is all I will be needing today . Have a nice evening .	NONE
-I don't think I need it , but thanks for asking . Have a good day .	find_taxi
-I need a 4 star hotel on the north side .	find_taxi
-Is there anything in the expensive price range ?	NONE
-How about just moderate ?	find_hotel
-Yes , which one do you suggest ?	find_hotel
-Can you book it for 4 people and 4 nights starting from saturday ?	book_hotel
-No , I believe that is everything . Thank you .	book_hotel
-I am looking for a hotel that is expensive and has free parking .	NONE
-I'm looking for a guesthouse in the east side of town .	NONE
-Are there any moderately priced guesthouses in that part of town ?	find_taxi
-Yes , could you see if either of them have availability starting on Tuesday for 5 nights for 5 people ?	find_taxi
-Thanks , that's great . I think I'm done for today .	find_taxi
-I need a train out of London Kings Cross .	NONE
-The train should go to Cambridge on Thursday .	find_restaurant
-I would like to leave after 13:00 for 5 people please .	find_restaurant
-Yes please . I would like 5 tickets please .	NONE
-Great that was all I needed thank you for your help !	find_hotel
-Hello , I am looking for a place to stay that includes free wifi . I would also prefer it to be in a guesthouse	book_hotel
-The area isn't too important . But I would like something expensive .	NONE
-moderately priced would be fine .	find_taxi
-Yes , can you book that for 7 people on Saturday ?	find_taxi
-We'd like to stay for 2 nights , please .	find_taxi
-Is there a reference number with that ?	find_restaurant
-Thanks . That's all I needed today .	book_restaurant
-I'm looking for a restaurant in the south that serves international food .	NONE
-No , I really need a restaurant in the south that serves international food .	find_train
-Are there any restaurants in the south that serve Indian food ?	find_train
-Will you please book a table for 4 people at 16:15 on wednesday ?	find_train
-We can go earlier . How about 15:15 , please ?	NONE
-Great , that was all . Thanks	find_restaurant
-I would like information on The Cambridge Corn Exchange	NONE
-No thanks , I just need their phone number , please .	NONE
-No that is all I need today . Thank you very much .	NONE
-I need a train from leicester sometime after 9:30 .	find_taxi
-I need to be in Cambridge on Monday please .	find_taxi
-Could you give me the arrival time and price on that please ?	find_taxi
-Yes , that would be terrific .	find_train
-Okay thank you for everything .	find_train
-Hi , I'm looking for a place to stay with free wifi in the east part of town .	find_train
-Preferably something on the cheaper side .	NONE
-Do any of the three have parking ?	book_train
-Okay , could you tell me the address for that guesthouse ?	NONE
-Thank you . How many stars does the Autumn House have ?	find_taxi
-No , that's okay . Thanks for your help . Bye !	find_taxi
-Yes I am looking for a hotel to stay at with free parking please	NONE
-No , I really only care that it is 4 stars and an actual hotel .	find_train
-Perhaps . What's their postcode ?	find_train
-As long as the Huntingdon Marriott has 4 stars , I'm good to go , thanks .	book_train
-Do you have information on the Express by Holiday Inn Cambridge ?	NONE
-Okay . Thanks a lot . That's all I need right now .	find_restaurant
-Is there a place on the east side of town with free parking ?	book_restaurant
-I'd like it to be somewhere that's really cheap , and I'd really prefer a guesthouse if one is available .	book_restaurant
-Yes , please make a reservation for 1 person , 3 nights , starting from Thursday .	NONE
-That's all , thanks .	find_taxi
-Can you arrange for a taxi that will take me from ugly duckling to ely train station ?	find_taxi
-I would like to leave after 01:00 please .	find_taxi
-That is all I needed . Thanks .	NONE
-I need a taxi to come get me from old schools to take me to loch fyne .	find_restaurant
-I actually need to leave after 11:00 .	find_restaurant
-That will be fine , could you give me the contact number ?	find_restaurant
-Thank you , that's it . I will look for the taxi after 11:00 . Goodbye .	find_restaurant
-Yes I am looking for an expensive Chinese restaurant .	find_restaurant
-I don't . Could you make a recommendation ?	find_taxi
-What is the postcode for that restaurant ?	find_taxi
-That won't be necessary . Thank you for the help !	NONE
-Would you be able to recommend an expensive restaurant that serves Panasian food ?	NONE
-Are there any panasian restaurants ?	find_hotel
-That's okay , are there any expensive Italian restaurants ? I'd prefer the centre of town .	find_hotel
-Well , can you recommend me another expensive restaurant . I need the address and the phone number to make a reservation .	find_hotel
-Thanks . I will check it out .	book_hotel
-Yes , can you tell me what their postcode is , please ?	book_hotel
-Thanks so much , that is all I needed .	book_hotel
-Can you give me any info on whether you have any 2-star hotel or guesthouses somewhere in town ?	book_hotel
-Does it have free wifi and free parking ?	NONE
-Yes , make a reservation for 2 for 3 nights starting Wednesday .	find_restaurant
-How about trying another 2-star hotel with free wifi and free parking ?	find_restaurant
-Yes , the Express is fine . I need it for 2 people and for 3 nights starting Wednesday . I need the reference number , please .	find_restaurant
-Let me look over my notes quick . I need a hotel , not a guestroom , with 2 stars . Free Parking & WiFi . 3 nights starting Wednesday , 2 people .	find_restaurant
-Area doesn't matter . Just book me one and hand me the reference number .	NONE
-No , that will be all . Thank you	find_restaurant
-I am looking for a hotel ti stay in the expensive range . It does not have to be free parking .	NONE
-No . But it should have free wifi .	find_restaurant
-I don't care about the number of stars . If you don't have one without parking , I'll take one with parking . Choose the best one , please .	find_restaurant
-Yes . There will be 5 of us staying for 3 nights , arriving on Sunday . I sure hope Cambridge is nice this time of year .	NONE
-Is there another hotel available that will accommodate my stay ?	find_taxi
-Sure . Same parameters , please .	find_taxi
-Sure , see if that works	find_taxi
-Are you sure there is nothing available ? Will you double check ?	find_taxi
-Okay , thank you , that is all I need today .	find_taxi
-I need a taxi to take me to Museum of Classical Archaeology to leave after 15:15 .	find_restaurant
-16 00 thank you	book_restaurant
-Sorry , it actually does not matter when I arrive . I just want to leave after 15:15 . And I'll be coming from la tasca .	NONE
-I'm looking for an expensive hotel to stay in .	find_taxi
-Is that a hotel or guesthouse ? I prefer an expensive guesthouse if possible .	find_taxi
-Can you try searching for moderate priced hotels ?	NONE
-I prefer the east and would like free wifi	NONE
-That could be really nice , thank you .	find_hotel
-Please , book the hotel for 5 days for 4 people starting on Friday .	find_hotel
-On second thought , I don't want to book it today . Can you just confirm that it is in the East part of town ? That is all I will need .	find_hotel
-That is all the information I need . Thanks so much . I'll book it myself later . Bye .	find_hotel
-I need to book a taxi going to sidney sussex college .	find_hotel
-I have to arrive by 12:15	NONE
-I need to be picked up from curry prince . Please let me know what kind of car to expect and a number they can be reached at .	NONE
-Thanks , that's great .	find_hotel
-I would like to book a taxi to leave from cow pizza kitchen and bar after 17:15 .	book_hotel
-I would like to go to Bishops Stortford Train Station . Could you send me the contact number and car type , as well ?	book_hotel
-Can you please confirm that my booking is set ? Thank you .	NONE
-What time will it arrive ?	find_restaurant
-No that's all . Thank you .	find_restaurant
-I want to eat at a moderately priced restaurant please	find_restaurant
-Belgian please , i'm craving that lately	book_restaurant
-I prefer to eat in the center of town , please .	book_restaurant
-Hmm. . How about somewhere else in town , what is available ?	find_hotel
-Why don't we try turkish food instead	find_hotel
-Either would be fine . Can you book for 1 at 20:00 on Tuesday ?	find_hotel
-Yes try 19:00 and please give me the reference number .	find_hotel
-Thanks so much ! You've been helpful .	book_hotel
-You have a nice day also .	book_hotel
-I'd like to find a train Tuesday departing from Leicester .	NONE
-I would like to leave after 11:15 .	find_taxi
-Yes I would like to go from leicester to cambridge and leave after 11:15 please .	find_taxi
-Yes I'll need 4 tickets please .	NONE
-No , you have been very helpful . Goodnight .	find_hotel
-I am looking for a place to eat in the West , Thai food please .	find_hotel
-Yes , that sounds great !	find_hotel
-Could you give me the address , phone number , and postcode ?	find_hotel
-Okay great . That is all I need to know .	find_hotel
-No , that is all I need today .	NONE
-I am looking for a guest house that i can stay in.Free parking is also an added advantage .	find_train
-4/5/2018 - 4/10/2018	find_train
-I am looking for something in the moderate price range and free internet , please .	find_train
-Perfect . what is the star and area of the hotel ?	book_train
-No that won't be necessary . I have all of the information I need for now . Thanks	NONE
-Thank you goodbye	find_attraction
-I'm in the mood for a traditional American food restaurant tonight and looking to treat myself to some expensive fine dining . Can you help me find a perfect place ?	find_attraction
-Is it located in the centre of town ?	find_attraction
-No thank you . We will just head there now .	NONE
-That will be all , thank you .	find_train
-Awesome but can you give me the reference number ?	find_train
-Oh yeah sure - I need table for 3 people at 19:00 on wednesday .	find_train
-hmm find me something chinese then	book_train
-yeah , actually let's try 18:00	NONE
-great to hear that , have a good day !	NONE
-I need a taxi to pick me up at Trinity college .	find_hotel
-I need to leave after 24:00 .	find_hotel
-I'm headed to saffron brasserie .	find_hotel
-Can I get the car type and contact number please ?	find_hotel
-No thank you , we have a restaurant recommendation already for today .	book_hotel
-I want to book an evening train from Bishops Strotford to Cambridge .	book_hotel
-Sunday please . I'd like to leave after 16:30 .	book_hotel
-Yes , let's book it for four , please . May I have a reference number ?	book_hotel
-Thank you . That is all I need today .	book_hotel
-I need a place to stay on the west side of town , and I definitely need free wifi .	NONE
-Price doesn't really matter , but I'd like it to include internet and parking please .	find_attraction
-A hotel , please .	find_attraction
-The Huntingdon Marriott Hotel will work . Can I have the phone number and address ?	find_attraction
-No , that's all I need . I will give them a call myself . Thank you !	find_attraction
-I would like to get a taxi from the Museum of archaeology and anthropology to the Soul Tree Nightclub	NONE
-The taxi should arrive by 02:30	find_taxi
-yes actually , I was wondering if you had any contact information for the driver ?	find_taxi
-Nope , that's all I need today . Thanks !	NONE
-I really need to find a taxi , if you can help . I can't leave until after 7:00 , though . I need to get to carolina bed and breakfast .	find_hotel
-I will be leaving from the Cafe Jello Gallery .	find_hotel
-That will be fine , thank you for your help , bye .	find_hotel
-I'm looking for an expensive hotel in the south to stay in .	book_hotel
-Yes , please book me a room .	book_hotel
-Can you book the hotel for 4 people , 3 nights on Thursday ?	book_hotel
-Thanks for your help . That's all I needed .	NONE
-Could you help me find a place to go ? I'd like to find some architecture .	find_restaurant
-What is the postcode for your recommended one ? You choose .	find_restaurant
-That sounds perfect . Thank you very much !	book_restaurant
-No that will be all for now .	NONE
-Thank you very much .	find_train
-I'm at Saint John's College . I need a taxi to pick me up at 18:45 .	find_train
-I'm going to la margherita .	book_train
-Thanks so much that sounds perfect . Have a great day : )	NONE
-No , that's all for now . Thanks , again . Goodbye .	find_restaurant
-I would like a taxi please	find_restaurant
-What time do you need at taxi and from where ?	find_restaurant
-I actually need to arrive at 19:30 .	book_restaurant
-I am departing from frankie and bennys	NONE
-I'm going to cafe uno .	NONE
-Thank you . I'm glad it's taken care of .	find_hotel
-There is nothing more , thank you . Goodbye .	find_hotel
-I'd love to find an expensive German restaurant .	find_hotel
-how about one that serves european food ?	find_hotel
-I don't care which area . Just need to find a table for 5 people at 15:00 on Saturday . I will need the reference number once booked .	book_hotel
-Great thank you for all your help .	NONE
-I am looking for a train on Friday that leaves after 21:45 .	find_taxi
-I'll be leaving from Cambridge and I want to go to Stansted Airport .	find_taxi
-I need to leave after 21:45 .	NONE
-Yes how long is the journey please ?	NONE
-Alright . thank you very much	find_train
-No , that's it for now . Have a good day . Bye !	find_train
-Do you have any information on the University Arms Hotel ? I've heard it's a nice place .	find_train
-I need a room for one person starting sunday for 3 nights	find_train
-All right , what about 2 nights ?	book_train
-No , that's all I need . Thanks for your help !	NONE
-Hello , I'd like to book a taxi from Restaurant Two Two to the Museum of Classical Archaeology .	find_taxi
-I need to be picked up by 11:00 .	find_taxi
-Thank you , that's all .	find_taxi
-Yes . Thank you .	NONE
-I need to find a taxi departing from alimentum .	find_hotel
-I would like to arrive by 03:15 and go to Ali Baba please .	find_hotel
-No that is all . Thank you for your help .	find_hotel
-I'm looking for a cheap place to stay with free wifi .	find_hotel
-Yes , I am looking for a hotel with a 2 star rating .	NONE
-Let's try something in the moderate price range with two stars and free wifi please .	find_taxi
-Lets try the Ashley House please .	find_taxi
-We'll arrive on Wednesday and stay 3 nights . There will be 2 of us .	NONE
-That is all I need for now . Thank you for finding the hotel .	NONE
-Are there any moderately priced restaurants serving international food ?	NONE
-What is the address of the Bloomsbury ?	find_train
-What is their phone number ?	find_train
-Not at the moment but I would also like their address and postcode .	book_train
-Great , thanks very much !	NONE
-No , thank you . That is all .	find_taxi
-I need a hotel in the south of the city , it is ok if the hotel doesn't has free parking .	find_taxi
-What is the price of the Lensfield ?	find_taxi
-Is there a moderate place in the in the south that has free parking ?	find_taxi
-Are there any moderately priced hotels that don't have free parking , but have wifi ?	find_taxi
-Yes , can you give me the address of your favorite one ?	find_taxi
-No that would be all . Thanks .	NONE
-Can you help me with a taxi booking ?	NONE
-I must arrive to nandos by 23:15	find_restaurant
-At the London Museum thank you	find_restaurant
-It will depart from the place .	book_restaurant
-that is all , thanks	NONE
-Thank you , I appreciate it .	book_restaurant
-Thank you goodbye	find_taxi
-Are there museums in the town centre ?	find_taxi
-Can you recommend one and give me their address and postcode ?	find_hotel
-Thanks so much , that sounds perfect .	find_hotel
-No , I think that covers everything . Thanks so much for your help .	NONE
-I am looking for a train going from Cambridge to stansted airport .	NONE
-The train needs to leave on Monday after 11:45 .	find_hotel
-No , just the closest time after 11:45 for 5 tickets please .	find_hotel
-Yes please . Can I have the reference number for the booking ?	book_hotel
-No , that will be all . Thanks for your help .	book_hotel
-I'm looking for more information on arbury lodge guesthouse .	book_hotel
-Yes , please . For 3 people , 3 nights starting on tuesday .	book_hotel
-Thanks , that's all . Good bye .	NONE
-I need a hotel in the south with free wifi .	NONE
-Can you tell me if the cheap one has a star rating ?	find_hotel
-Yes , please book a room for 5 people .	find_hotel
-Please book it on Thursday , for 5 people , and 3 days .	find_hotel
-That will be all , thank you .	find_hotel
-I want to visit the museum of archaelogy and anthropology and need a taxi to take me	NONE
-I need to arrive by 04:45 .	find_restaurant
-I am departing from The Missing Sock .	find_restaurant
-No , that's everything . Thanks for your help .	book_restaurant
-I'm looking for a hotel called the Arbury Lodge Guesthouse . Do you have a listing for this ?	NONE
-Are you sure , but if not , book the Super 5 for 8 people for 5 nights starting Monday . I will need the reference number .	find_restaurant
-That's great ! Thanks , I think that's all I need today .	find_restaurant
-I'm looking for a British restaurant , in the expensive price range .	find_restaurant
-Graffiti sounds good . I'll need a table for four on Thursday at 16:45 , please .	book_restaurant
-Great ! Thanks a lot . Thats all I will be needing . Have a good day . Bye !	book_restaurant
-I'm looking for a cheap place to dine , preferably in the centre of town .	book_restaurant
-Yes , what restaurants are there ?	find_restaurant
-Charlie Chan sounds good . Thank you !	find_restaurant
-I'd like to book 4 people at 14:15 on Friday .	NONE
-That is all , thank you very much .	find_attraction
-Hi , I'd like to find out about the Limehouse hotel .	find_attraction
-Actually , you answered all of my questions . Thanks so much . Goodbye .	NONE
-i am looking for a train from london kings cross and leaves on wednesday	find_attraction
-I am looking to book a train that arrives by 13:30 . Are there any that fit that description ?	find_attraction
-No , I just need to know how much it is .	NONE
-Sounds great . Is TR2417 the train ID ?	find_hotel
-I will also need the departure time please .	find_hotel
-No , I think we have covered everything . Thank you so much for all of your help .	find_hotel
-I need to book a taxi from clowns cafe .	book_hotel
-Clowns cafe , please .	NONE
-I will be leaving from there and going to primavera	find_hotel
-I would like to leave around 22:00 please and thank you .	find_hotel
-This is all I need . Thank you so very much .	find_hotel
-I'd like a taxie from my home please .	find_hotel
-I'm heading to the river bar steakhouse and grill . I am so hungry !	find_hotel
-The taxi should be at home from home by 10:00 , if you can arrange it .	book_hotel
-Wow , sounds like you might be able to help me then . Can you find me a train going into Leicester ?	NONE
-I will need to leave from Cambridge .	NONE
-I would like to travel on a Thursday .	find_hotel
-I just need to arrive by 17:45	find_hotel
-What is the total travel time and price on that ?	book_hotel
-That sounds perfect . Thanks for all your help .	book_hotel
-That's not needed . Thank you !	NONE
-Could you find a moderate priced place to stay for me ? I do need free WiFi .	find_restaurant
-I'd prefer something with 2 stars , and I need free parking as well .	find_restaurant
-Great can I get a reservation at The Ashley hotel for 4 people for 2 nights starting tuesday ?	NONE
-No , that's all for me . Thanks ! Goodbye !	find_attraction
-I am looking for a place to stay . The hotel should include free wifi and should be in the type of guesthouse	NONE
-I am unsure about the area , right now . I would like the accommodations to be at least 4 star and have a moderate price .	find_train
-No . I shouldn't need parking .	find_train
-If it is 4 stars in the moderate price range that sounds fine . I need it for 3 nights for 3 people starting Sunday .	book_train
-Okay , how about on Monday ?	NONE
-No , that's all , thanks .	find_restaurant
-Could you help me find a guesthouse on the west side ?	book_restaurant
-Does either of those offer free parking ?	book_restaurant
-Let's go with Finches . Can you book me a room for 2 people on Saturday ? We'd like to stat for 4 nights .	book_restaurant
-Just the reference number thanks	find_hotel
-That is all ! Thank you !	find_hotel
-Hello . I would like for a taxi to bring me to the cow pizza kitchen and bar by 04:30 please	find_hotel
-I'm traveling from leverton house .	NONE
-Ok , thank you very much for your help .	find_hotel
-I am looking for a train leaving London Kings Cross and arriving by 14:30 .	find_hotel
-I am leaving from london kings cross and I'd like to leave on thursday .	NONE
-I'm going to Cambridge	find_hotel
-yes please book me something around 10 for 7 people	find_hotel
-great , that's all , see you !	find_hotel
-I'd like a taxi please . I'll be wanting it to leave after 15:45	find_hotel
-I'm coming from the gandhi .	find_hotel
-I'll be going to adc theatre .	find_hotel
-I would like to leave some time after 15:45 , please .	find_hotel
-No . That's it thanks !	NONE
-I need a tax to curry garden .	find_taxi
-I need to arrive by 19:00 .	find_taxi
-i need to leave from archway house .	find_taxi
-I would like to leave archway house in time to arrive at curry garden by 19:00 .	NONE
-Thank you that's all I needed .	find_train
-That's all I need . Thank you .	find_train
-Could you give me information about a restaurant called panahar ?	find_train
-Could you book a table for me there on Friday ?	find_train
-There will be 4 of us and we would like to eat at 11:00 .	book_train
-Sure , how about 10:00 ?	NONE
-No thank you . Have a great day !	find_restaurant
-I'd like a train to Cambridge that arrives by 19:30 .	find_restaurant
-I'm departing from Ely .	book_restaurant
-Yes , Wednesday . I also need the departure time and price , please .	NONE
-Okay that is all I need to know for now .	find_restaurant
-I need a taxi leaving after 21:00 .	find_restaurant
-I am leaving from scudamores punting co and want to go to the slug and lettuce .	find_restaurant
-Ok , thank you have a great day !	NONE
-I need a taxi to pick me up from the fez club . Can you help ?	find_hotel
-Yes , I need to arrive by 18:45 .	book_hotel
-I would like to be taken to tenpin	NONE
-Wonderful , thanks very much !	find_hotel
-No , that is it . Thank you so much .	find_hotel
-I need a taxi to Anatoilia .	NONE
-I'm be leaving from kymmoy .	find_hotel
-I need to leave after 22:00 .	find_hotel
-That should do it , thanks so much for your help . Bye !	find_hotel
-I need to book a taxi to arrive at Ruskin Gallery by 21:45 .	find_hotel
-I am going to be leaving from the Ruskin gallery .	find_hotel
-I am leaving from Ruskin Gallery .	NONE
-I will be going to magdalene college .	find_hotel
-Great , thanks . Can you confirm the time on that car ? I just want to make sure I arrive at Magdalene College by 21:45 .	find_hotel
-I'd like to arrange for a taxi please	find_hotel
-I'm leaving from jinling noodle bar and going to dojo noodle bar . I'm a noodle bar crawl !	find_hotel
-It should leave after 11:15 .	find_hotel
-Thanks for your help ! Take care !	NONE
-I am looking for a place to dine . The restaurant should be in the expensive price range and should serve british food .	find_taxi
-That sounds interesting . What area is the restaurant in ?	find_taxi
-Thanks . What is the postcode , address , and area ?	find_taxi
-No thanks . I just needed some info on it . That's all now .	NONE
-Yes , I'd like to book a taxi please !	NONE
-I'm going to downing college from broughton house gallery . I need it after 22:30 .	find_restaurant
-That's all I needed . Thank you !	find_restaurant
-I need a train that is leaving on sunday and leaving after 13:30 .	book_restaurant
-I need to leave Cambridge after 13:30 to go to Stevenage .	book_restaurant
-That really shouldn't matter , I just need the booking for six .	book_restaurant
-Thanks , that's all I need . Have a nice day .	book_restaurant
-Can you help me find a restaurant that serves greek food and is expensive ?	NONE
-Do you have any Indian restaurants ?	find_hotel
-I do not . Is there one you can recommend ?	find_hotel
-Any part of town is fine , I just need the address and postcode of one you'd recommend .	find_hotel
-No , not yet , I just wanted the info . Thanks .	NONE
-I'm looking for an afghan restaurant in the north .	NONE
-How about a European food restaurant in the north , instead ?	find_train
-Can you give me their phone number , address and price range , please ?	find_train
-Great , thank you for the help .	find_train
-I'd like to find a place to dine in the west that serves modern american food .	find_train
-Sure , let's try modern English food .	NONE
-Could you look for a restaurant that serves Thai food ?	find_taxi
-ok.book for seven people at 1215hrs	find_taxi
-Make the reservation for Thursday please .	find_taxi
-How about 11:15 on Thursday ?	find_taxi
-Great , thanks for your help .	NONE
-No , that's all I need thanks !	find_restaurant
-I'm in the mood for swedish food , but I want something in the centre of town .	find_restaurant
-What about Chinese ?	find_restaurant
-Could you recommend one ?	NONE
-Yes please ! I'd like a table for 5 on Monday at 15:15 .	find_taxi
-That's all . Thank you !	find_taxi
-I need a taxi to leave from the gallery at twelve a high street to arrive by 15:30	NONE
-I'm going to the nirala .	find_hotel
-Nope that's it . Thanks !	find_hotel
-Can you help ? I'm in need of a taxi . I'm trying to get from hobsons house to royal spice .	find_hotel
-I want to leave after 18:30 please	find_hotel
-Great , thank you ! That's all I need today	book_hotel
-I am looking for a place to dine . The restaurant should be in the cheap price range and should serve chinese food	NONE
-Which area is it in ?	find_taxi
-Thanks for you help . That is all I need for now .	find_taxi
-I need to book a taxi to come to Express by Holiday Inn Cambridge to take me to The Oak Bistro .	NONE
-I want to leave by 07:30 .	find_taxi
-Can you find me a cinema in town that I can go to ?	find_taxi
-Either area is fine . Can you pick one for me and let me know their address ?	NONE
-Do you know the entrance fee ?	NONE
-Yes , can you tell me their address please ?	find_hotel
-So that would be all . Thanks .	find_hotel
-I'm looking for a modern European restaurant near the centre , could you hook me up ?	book_hotel
-I would like moderate price range please .	book_hotel
-Yes could you book me one seat at 17:45 on a Monday ?	NONE
-Lets try a table for 1 on Monday at 16:45 instead .	find_restaurant
-Fantastic . That's all I need , thank you !	find_restaurant
-I am wanting to book a taxi to go to Cherry Hinton Water Play . I want to make sure I arrive by 10:00 .	find_restaurant
-I would like to be picked up from golden house .	find_restaurant
-Sounds perfect . Thank you so much . I won't need anything else right now . Bye .	NONE
-Hi , I'm looking for a restaurant called pizza hut cherry hinton , can you help me find it ?	find_hotel
-No , I wanted to make a reservation there .	find_hotel
-Just one person on Sunday at 19:45	book_hotel
-no that will be all , thank you .	NONE
-I'm looking for a guesthouse to stay in on the east side . You know of any ?	NONE
-The guesthouse should be expensive .	find_hotel
-Okay , I guess I could go for something different . Do you have anything on the cheap side ?	find_hotel
-I actually want something in the expensive price range , sorry .	find_hotel
-I'm sorry for changing my mind again but cheap is fine . You had mentioned Autumn House . What is their address , please .	book_hotel
-First I need the address please . Also , can you tell me if they have free parking and wifi ?	NONE
-No that is it , thanks .	find_hotel
-Would you happen to have information on the Lovell Lodge ?	find_hotel
-Can I get the phone number and address please ?	book_hotel
-No , thank you . That's all I need .	book_hotel
-Are there any entertainment spots in the town centre ?	NONE
-Do you have any colleges in the centre area ?	find_restaurant
-That sounds perfect . Can you tell me their address and postcode , please ?	book_restaurant
-Great , thank you !	book_restaurant
-It is . Thanks again .	book_restaurant
-I want to tour a college in the centre of town . What's available ?	NONE
-Entrance fee is not an issue .	find_attraction
-Can I have the postcode and address for that college ?	find_attraction
-No , that's it . Thanks .	NONE
-Can you look up a hotel called Cityroomz ?	find_train
-I need to make a reservation for 4 nights starting from Tuesday , for 6 people .	find_train
-No , that's it . Bye now !	book_train
-Can you help me find a taxi to old schools ?	NONE
-I'm departing from thanh binh .	find_restaurant
-I need to get there by 11:15 .	find_restaurant
-No thanks . The taxi was the only reason for contacting you . Goodbye .	find_restaurant
-Yes , can you give me the information on the Huntingdon Marriott Hotel ?	find_restaurant
-Yes please , I need a reservation for 6 people for 5 nights starting on Saturday .	find_restaurant
-How about for 1 night ? If that works , I'll need a reference number of course .	book_restaurant
-Thank you so much . Goodbye .	book_restaurant
-Hello . I am needing some help finding a cheap room .	NONE
-Yes , I would like it to be a guesthouse and I need free wifi !	find_taxi
-How about something that is 4-star rated ?	find_taxi
-Not really . Anywhere will do .	NONE
-No , that's not needed . Just give me the name address and phone number of one of these hotels .	NONE
-awesome , thanks for assistance !	find_train
-I'm looking for an expensive place to eat located in centre of town . Can you help ?	find_train
-You know , I'd really love some latin american food . How about that ?	book_train
-Sure , I like Indian food .	NONE
-Yes please . Book one for Saturday at 19:45 . There will be 3 people .	NONE
-Let's try an hour earlier .	NONE
-No that's all I needed . Thank you !	find_train
-Hi , I need to book a taxi , please ? I need to leave sometime after 10:30 .	find_train
-I would like to be picked up at the cambridge belfy and go to the cambridge shop .	book_train
-The chop house .	NONE
-I'm sorry , I need to leave after 10:30 , could you change the reservation ?	find_restaurant
-That's perfect . Thank you for all of your help .	find_restaurant
-Hi there , I'm looking for a train going to cambridge .	book_restaurant
-As I said , I am heading to Cambridge .	book_restaurant
-I need to arrive by 14:00	NONE
-Yes , what is the ID ?	NONE
-Oh , I'll be departing from bishops stortford , yes , thanks .	find_hotel
-Yes please . I would like to travel on Tuesday	find_hotel
-Yes , please book for 2 people. /	find_hotel
-No , thank you . That's all . Thanks !	book_hotel
-Have a great day .	book_hotel
-I need to what trains are leaving Friday evening .	book_hotel
-I'm leaving from Peterborough .	book_hotel
-Not really . I want to get there by 20:45 though .	book_hotel
-Yes , that's perfect . What is the price ?	book_hotel
-Thank you very much . That is all for today .	NONE
-Yes I am sure . Thank you .	find_taxi
-I need a hotel on the west side .	find_taxi
-Can you tell which ones have 4 stars and would be moderately priced ?	NONE
-Yes , how about moderately priced places to stay with 4 stars in the North ? I also need free parking .	find_attraction
-That sounds fine . Do they have internet access ?	find_attraction
-Not right now . In fact , that's all the info I needed . Thanks for your help !	NONE
-I am needing a taxi at the saffron brasserie after 14:45 . Can you help me with that ?	find_taxi
-The Good Luck Chinese Food Takeaway please .	find_taxi
-Great . Thank you very much for your help today .	find_taxi
-I hope your day goes well too !	NONE
-Hi ! I need to find the restaurant Pizza Express Fen Ditton .	find_taxi
-Yes please , also what type of food do they serve ?	find_taxi
-No that is all I need bye bye .	find_taxi
-Hi , I am looking for an expensive restaurant in the east .	NONE
-That won't be necessary . Can you just give me their address and phone ?	NONE
-Nope . I'm all set . Thanks again .	find_restaurant
-I feel like having Italian for dinner . Are there any cheap restaurants with good Italian in town ?	find_restaurant
-Sounds great . Can I get their number ?	find_restaurant
-No I think that's all I need . Thanks for the help !	book_restaurant
-I'm looking for a hotel with free parking .	book_restaurant
-Area doesn't matter , but I would like to keep the price moderate .	NONE
-Do either of them have a 4 star rating ?	find_restaurant
-I would like a four star hotel in the moderate price range . I do need free parking .	find_restaurant
-I think that should be fine . Can I book one for Wednesday for 4 nights ? There will be 4 of us .	find_restaurant
-It doesn't matter to me .	NONE
-No that will be all , Thanks !	find_restaurant
-I am looking for a restaurant . The restaurant should serve world food and should be in the centre	find_restaurant
-What expensive restaurants are there ?	find_restaurant
-No . Try looking for a restaurant that serves Korean food .	book_restaurant
-Yes , a table for two .	NONE
-Thank you , I need a reservation for 2 people at 13:15 on Monday .	find_hotel
-No that was everything . Thanks	find_hotel
-I am looking for a place to stay . I need a 2 star hotel with free parking .	find_hotel
-No preference there . But I'd like it to be in the moderate range please	find_hotel
-Does the Ashley hotel include free wifi ?	find_hotel
-Sure , sounds good . What's the address ?	find_hotel
-Great , that's all I needed . Thanks	NONE
-I need a train from London Kings Cross to Cambridge .	find_restaurant
-I want to leave on sunday , and I want to leave after 0930 am .	find_restaurant
-Yes . I need 3 tickets and the reference number .	book_restaurant
-Thanks , that's all I need . Have a nice day .	book_restaurant
-Hi ! Are there any expensive Greek restaurants in town ?	NONE
-Are there any expensive French restaurants in town ?	find_train
-I'll take a table for 1 at 17:30 sunday at cote .	find_train
-Can I get a table at 16:30 instead ?	find_train
-Excellent , thank you !	find_train
-No , that will be all . Thanks again . Bye .	NONE
-Hi , I'm looking for a hotel with free wifi that is moderately priced .	NONE
-I would like to stay at a guesthouse in the centre please	find_hotel
-Hmm , well that isn't good . Oh well , how about trying if there is a guesthouse thats cheap then . I suppose it will have to do .	find_hotel
-Yes , please , for four people on Thursday .	find_hotel
-I need five nights . And I need the reference number , please .	NONE
-Thank you that will do , cheers .	find_train
-I'm looking for a restaurant serving barbeque in the centre of town .	book_train
-Can you find a restaurant that has asian or oriental food ?	NONE
-Could you give me their postcode please ?	find_restaurant
-Thanks all I need today . Thank you .	book_restaurant
-I need to find an Italian place to eat . Hopefully with moderate prices .	book_restaurant
-No , just pick me one you think would be good to go to and please provide me with an address to that location .	book_restaurant
-Thanks so much for the info . I will pay them a visit . Have a nice day .	book_restaurant
-Hi . I will be attending a conference in the eastern part of town and wondered if you could help me find an available room .	NONE
-I prefer a guesthouse . Do you have any expensive ones ?	NONE
-How about a hotel in the cheap price range ?	find_taxi
-Which one would you recommend ?	find_taxi
-That sounds alright . Do they have free parking ?	find_taxi
-I don't need a room right now , but does the Allenbell have free wifi ? And what's their postcode ?	NONE
-Thanks so much for your help .	NONE
-Hi , I need a taxi to gourmet burger kitchen going from hamilton lodge !	find_taxi
-I want to leave after 4:00 .	find_taxi
-It doesn't matter , I just want to leave after 4:00 .	find_taxi
-Thank you so very much . I am finished .	NONE
-I am looking for a restaurant that is moderately priced and served British food .	find_restaurant
-How about the center ? I need a reservation for 8 people at 14:15 on a Friday .	find_restaurant
-Yes , that would be fine . Is there a table for 8 available ?	book_restaurant
-Friday at 14:15 .	NONE
-Can you try to book it for 13:15 ?	find_hotel
-No , that's all I needed . Thanks for your help !	find_hotel
-Please book me a taxi to come to Rajmahal by 22:30 .	find_hotel
-I want to depart from Rajmahal , not go to there .	find_hotel
-I'll be heading to restaurant two two	find_hotel
-Hi , I'm looking to visit a park in the east part of town , do you have any recommendations ?	book_hotel
-Yes please . I would love the phone number .	NONE
-No , I just need the phone number . Thanks so much . Have a good day .	find_restaurant
-I need a restaurant in the Centre moderate priced	find_restaurant
-Does it serve Chinese food ?	book_restaurant
-What are they ?	book_restaurant
-I would like a table for 8 at 16:30 wednesday at Shanghi Family Restaurant please .	book_restaurant
-Yes . I could eat at 15:30 perhaps .	find_taxi
-No , that's all I need . Thanks for the help .	find_taxi
-I am looking for a restaurant that is in the centre of town and serves light bites food .	find_taxi
-Do you have any expensive restaurants ?	NONE
-Could you try Chinese food , instead ?	find_hotel
-That sounds good . Can you book a table for 5 people at 11:15 on wednesday please ?	book_hotel
-Yes , how about 10:15 instead . I also need the reference number .	book_hotel
-Thank you for your help .	book_hotel
-No that was all . Thank you	NONE
-Hi , I'm looking for train information . It needs to leave on Sunday and arrive at or around 20:45 .	find_restaurant
-The train should go to leicester and should depart from cambridge . I don't care about the departure time .	NONE
-No , thanks . What's the train ID ?	find_hotel
-Thanks for the info . What else is available that arrives around 20:45 ?	find_hotel
-Okay thank you .	find_hotel
-I need a taxi leaving after 10:30 .	find_hotel
-I need to be picked up from Sitar Tandoori and I am going to Clare Hall . And I need the car type and contact number .	NONE
-I Don't have a specific time just need to leave after 10:30	NONE
-That's great . Thank you .	find_restaurant
-Book me a taxi to vue cinema	find_restaurant
-I want to leave after 08:30 from la mimosa	find_restaurant
-As I said , I will be leaving from La Minosa .	book_restaurant
-thanks that's all for today .	book_restaurant
-I need to find a place to stay in the east part of town with free parking .	book_restaurant
-I don't have a preferred price . I'm looking for any sort of guesthouse there and absolutely require wifi access .	book_restaurant
-Yes , please book it for 5 people and 3 nights , starting from Monday .	book_restaurant
-that is all , thank you	NONE
-I am looking for a college in the west part of town to visit .	find_restaurant
-I think I would like to visit both Churchill and Magdalene Colleges . May I have their telephone numbers please ?	find_restaurant
-No , thank you . Good day .	find_restaurant
-What attractions do you have in town , preferably near the centre ?	book_restaurant
-Can you recommend a college in the centre and tell me the entrance fee ?	book_restaurant
-Which is your favorite ? And what is its entrance fee ?	NONE
-Great , that's all I need . Thank you !	find_hotel
-I would like to book a taxi departing from Hotel du Vin and Bistro leaving after 22:30 .	book_hotel
-It will need to take me to sitar tandoori	NONE
-That will be all , thank you .	find_taxi
-I need a train leaving from london liverpool street on friday .	find_taxi
-Please review your trip itinerary	NONE
-How long is the travel time for that train ?	find_train
-Thanks , that will be all . Good bye .	find_train
-I need a taxi to arrive at 09:00 at the Riverboat Georgina .	find_train
-I'm leaving from riverboat georgina .	find_train
-My destination is pizza hut city centre .	NONE
-Thank you , may I have the contact number ?	find_taxi
-Thank you so much for your help !	find_taxi
-That's all , thank you !	NONE
-I want a taxi after 24:45 please	find_hotel
-I need to go to worth house from stevenage train station .	find_hotel
-No thank you . Have a nice day !	find_hotel
-Good evening . Can you help me find a guesthouse to stay at for the weekend ?	book_hotel
-Does it have free WiFi ?	book_hotel
-Could I get the phone number for them .	book_hotel
-Thanks . Oh , I forgot to ask , is that in the moderate price range ?	book_hotel
-No , I'll have to think about it . Thanks though . Bye !	book_hotel
-I am looking for a train that leaves bishops stortford and goes to cambridge	NONE
-I plan to leave this Saturday .	find_hotel
-I would like to arrive in Cambridge by 8:15 .	find_hotel
-tell me about the departure and travel time	find_hotel
-Not yet , I was just looking for information . Thank you for all of your help .	NONE
-I'm at Jesus College and I need at taxi to arrive by 18:00 .	find_hotel
-Leaving Jesus college .	find_hotel
-The next stop on my list is scott polar museum .	book_hotel
-Thank you goodbye	book_hotel
-Can you help me find a place to stay ? I would like to stay in a hotel that includes free wifi .	book_hotel
-I'd like south and expensive please .	book_hotel
-Could you please tell me the star rating ? I also need the address and phone number please .	NONE
-No that's all . Thanks .	find_hotel
-I am looking for a hotel with a three star rating and a cheap price	find_hotel
-Do you have a guesthouse that meets my requirements ?	find_hotel
-I would like a guesthouse that meets all my previous criteria , except now I want one in the moderate price range and it doesn't need to include internet .	NONE
-Not yet . But I would like their telephone number .	find_restaurant
-Thank you ! That is all the information I need .	find_restaurant
-I want a restaurant in the town centre . Can you help me ?	book_restaurant
-I'm looking for a moderately priced restaurant . I'm looking to book for just myself at 14:00 on Friday .	NONE
-That sounds perfect . Thanks for your help !	NONE
-I would like to book a taxi please .	find_hotel
-I want to get to Anatoilia by 09:15 .	find_hotel
-I am actually leaving from cote .	find_hotel
-Those were my concerns . Thanks a lot . Goodbye .	find_hotel
-I would like to catch a train leaving Cambridge on Sunday .	NONE
-I need to get to Leicester on Sunday .	find_taxi
-I want to leave after 10:15	find_taxi
-I am interested in that one , but I'm not ready to book yet . Thanks for your help . Bye .	NONE
-Is there a moderate restaurant in the centre of town ?	find_train
-Yes , I'd like a moderately priced restaurant .	book_train
-Please give me their address and postcode .	book_train
-No thank you . You have helped me tremendously and I have everything I need to know . Thanks and have a good day .	book_train
-I'd like to find a place that I can get some Northern European food .	book_train
-Okay , what about a restaurant that serves modern european food ?	NONE
-I am looking for the moderate price range , the area doesn't matter .	find_restaurant
-Does that serve modern european food ?	find_restaurant
-What's the post code and phone number of de luca cucina ?	NONE
-That is all . Thanks for you help .	find_restaurant
-Are there any Chinese restaurants on the north side of town ?	book_restaurant
-Can you tell me if one of those is located in the northern part of town ?	NONE
-The Golden Wok is fine . Can I get their phone number ?	NONE
-No , I just needed the phone number . Thanks very much for your help .	find_hotel
-Hello . Can you help me find a hotel in the North of town ?	find_hotel
-Are either of them moderately priced ? Do they include free wifi ?	book_hotel
-Could you book me into one of the 2 hotels please .	NONE
-But I'm not sure from what you said - is the Ashley priced moderately , and do they have free wifi ? We are 3 people and we'd like to stay 4 nights .	find_taxi
-I would like it to start Sunday .	find_taxi
-Thanks so much for your help . Bye .	find_taxi
-I'd like to book a taxi to soul tree nightclub .	find_taxi
-I want to leave after 15:30	NONE
-From the soul tree nightclub	find_restaurant
-I'm sorry , I'm going to tenpin .	NONE
-Great , thank you so much .	find_hotel
-No , that will be all . Thank you .	find_hotel
-I am looking for a train departing from Stevenage .	find_hotel
-Stevenage , on Tuesday .	find_hotel
-I am leaving at 20:30 .	find_hotel
-Let's go with TR9084 , please .	book_hotel
-No that is all thank you very much .	book_hotel
-Yes , thank you very much .	book_hotel
-Hi ! Are there any restaurants in town that serve Scottish food ?	book_hotel
-If there are no Scottish places in the west , what about expensive places to eat ?	book_hotel
-What about Indian restaurants ? Are there any expensive ones in the west ?	find_hotel
-Could you give me their address ?	find_hotel
-Thank you , That is all I will need today .	book_hotel
-Thanks , again for your help . Goodbye .	NONE
-Hi - I'm looking for an expensive restaurant on the east side of town . Can you help me ?	find_train
-Surprise me . I just need a table for 6 at 12:00 on Thursday .	find_train
-No , that's all I needed , thank you .	book_train
-Can you find me a taxi to jesus green outdoor pool ? I need to be there by 02:15 .	NONE
-Ok Thanks that's all I need !	find_restaurant
-I need to be up from Williams Art and Antiques .	NONE
-Great , thanks for your help .	find_train
-That's all actually . Thanks and bye !	find_train
-I need a taxi from Peking restaurant to my hotel .	book_train
-I'd like to arrive by 20:00 please .	NONE
-I'm going to huntingdon marriott hotel .	NONE
-Thank you for your assistance .	find_taxi
-That will be all for now , thank you .	find_taxi
-A friend recommended the City Centre North B&B . Could you help me find it ?	NONE
-Thank you ! Can you book that for me ?	NONE
-I need it for 2 nights , starting on Monday .	find_taxi
-There will be 4 of us . Thanks .	find_taxi
+I need a train that will be in Cambridge by 3	find_train
+I will be travelling on Wednesday .	find_train
+I'm leaving out of London King's Cross .	find_train
+No , I need to arrive by 14 .	find_train
+Can I get a ticket for 1 person and the reference number please .	book_train
+Thank you . I think that's all I need .	NONE
+I need to leave peterborough and arrive by 20 . Can you book a train for me ?	find_train
+I will depart any time so long as the train arrives by 20 .	find_train
+Oh , I need to leave this Saturday . Just to clarify I want to leave Peterborough going to Cambridge .	find_train
+Yes that is perfect . Can you book that and give me a reference number ?	book_train
+No , I think that's going to be all I needed . Thanks . Have a good day .	NONE
+I need a five starts hotel close to a mall and main restaurants . The hotel should include free wifi in the room .	find_hotel
+How about something with 4 stars and something expensive .	find_hotel
+Maybe . Is either one a 4 star hotel ? If so , I'd like to book a room for 4 nights .	book_hotel
+I need a reservation for 4 nights starting Saturday .	book_hotel
+3 people . Can I get the reference number please ?	book_hotel
+Will you try Sunday arrival ?	book_hotel
+Yes , can you try it for 3 nights , please .	book_hotel
+I may have been confusing you . Could you try and book a 4 star , expensive hotel for 3 nights , starting on Saturday ? 3 people . Wifi please .	book_hotel
+Whew , thanks , sorry for all of the confusion . I think that covers everything . thanks so much for the help .	NONE
+Hi , I'm looking for a restaurant with modern european food . It should be in the moderate price range .	find_restaurant
+Doesn't really matter . Is there one in the centre ?	find_restaurant
+Can I book De Luca Cucina and Bar for 6 people at 19 on saturday please ?	book_restaurant
+Thank you so much . That is all I need for now . Have a great day .	NONE
+I need a taxi . I'll be departing from la raza .	find_taxi
+I'd like to leave after 11 please .	find_taxi
+I'll be going to restaurant one seven .	find_taxi
+No , thats it . Thank you !	NONE
+Can you see if there are any entertainment attractions in the centre of town ?	find_attraction
+What about a museum ?	find_attraction
+Yes , that will work great . Can I get their phone number please ?	find_attraction
+No , that's all I need . Thanks !	NONE
+I'm interesting in info about 3-star hotels and such that offer free wifi .	find_hotel
+the location doesn't matter so long as it has free wifi	find_hotel
+book it for 5 people and 2 nights starting from monday .	book_hotel
+Perhaps starting sunday instead ?	book_hotel
+No that's it all . Thanks for your help .	NONE
+We need to find a guesthouse of moderate price .	find_hotel
+I would like it to have a 3 star rating .	find_hotel
+Yes , please , for four people .	book_hotel
+Four . Two nights . Beginning Saturday .	book_hotel
+How about 1 night ? Would that work ?	book_hotel
 That's all . Thank you !	NONE
-Hello , I'm looking for information on the Alpha-Milton Guest House .	NONE
-Can you make a reservation for me for 8 people for 5 nights starting on Thursday .	find_hotel
-Nope , that'll do it ! Thank you for all your help !	find_hotel
-Thanks , Have a good day . Goodbye .	book_hotel
-I need an expensive place to stay that includes wifi .	book_hotel
-It doesn't really matter . I would like a guesthouse , though .	book_hotel
-how about moderate price range ?	NONE
-any place suits me	find_hotel
-book it for 3 people and 4 nights starting from wednesday .	find_hotel
-Great , thanks for your help !	find_hotel
-No that was all for now . Thanks	book_hotel
-I need a restaurant . Something expensive and italian .	book_hotel
-I would like to go to the centre , please .	book_hotel
-Okay , that sounds good . I need a table for 7 at 11:30 on Thursday .	book_hotel
-Okay , will you try 10:30 instead ?	book_hotel
-That's all , thanks . Goodbye .	book_hotel
-I need help booking a train , please . I'd like to go to Cambridge on Monday .	book_hotel
-I will be departing from london kings cross after 19:00 .	NONE
-Yes , can you find a close by eatery near where we arrive at ?	find_hotel
-How about the center ?	find_hotel
-I need it for 6 people .	book_hotel
-Thank you for your help . This is all i need .	book_hotel
-I am sure . I am all set . Thanks so much . Bye .	NONE
-Hi I'm looking for a train that will take me to Cambridge . I want to get there by 15:30 .	find_hotel
-I am leaving from Stevenage and I would like to travel on Monday .	book_hotel
-It doesn't matter when I depart . I just need to arrive in Cambridge by 15:30 . I will have 8 people .	book_hotel
-Yes for 8 people and I will require a reference number .	NONE
-That is all . Thank you very much !	find_hotel
-Hello ! I need a place to bed down for the night that offers free parking and wifi . Can you help me ?	find_hotel
-I would like a moderate priced hotel in any part of town please .	book_hotel
-Yes , please book the Ashley Hotel .	book_hotel
-On second thought , I'm not ready to book yet . Could you give me the address and phone number of the Ashley Hotel ?	NONE
-Thank you for your help . If I need anything else , I will certainly call again .	NONE
-I'm looking for info about 4-star accommodations , somewhere where they don't nickel-and-dime you for services like wifi .	find_train
-I would like one located in the east with a moderate price range .	find_train
-no , I don't care about that . Surprise me !	find_train
-thats still fine . book for 1 night	find_train
-It'll be for 5 people and 5 nights starting from wednesday please	find_train
-Can you see if they are available for one night ? I will need the reference number if available .	book_train
-No , I think that's everything I need . Thank you for helping me .	NONE
-Hi , I'm needing a taxi , leaving cafe uno and I need to arrive by 24:30	find_restaurant
-I'm headed to churchill college	book_restaurant
-Thank you for your help , before you go , could I get the contact number please ?	book_restaurant
-Thank you . Bye	NONE
-	NONE
-	find_attraction
-	find_attraction
-	find_attraction
-	find_hotel
-	find_hotel
-	find_hotel
-	find_hotel
-	NONE
-	find_taxi
-	find_taxi
-	find_train
-	find_train
-	book_train
-	NONE
-	NONE
-	find_restaurant
-	find_restaurant
-	book_restaurant
-	book_restaurant
-	book_restaurant
-	NONE
-	find_restaurant
-	find_restaurant
-	book_restaurant
-	NONE
-	NONE
-	find_train
-	find_train
-	find_train
-	find_train
-	NONE
-	find_restaurant
-	find_restaurant
-	find_restaurant
-	NONE
-	NONE
-	find_taxi
-	find_taxi
-	find_taxi
-	NONE
-	find_hotel
-	NONE
-	find_taxi
-	find_taxi
-	NONE
-	NONE
-	find_attraction
-	find_attraction
-	find_attraction
-	find_attraction
-	NONE
-	find_restaurant
-	find_restaurant
-	book_restaurant
-	NONE
-	find_train
-	find_train
-	book_train
-	book_train
-	NONE
-	find_restaurant
-	find_restaurant
-	find_restaurant
-	book_restaurant
-	book_restaurant
-	book_restaurant
-	book_restaurant
-	find_attraction
-	find_attraction
-	find_attraction
-	NONE
-	find_hotel
-	find_hotel
-	find_hotel
-	book_hotel
-	book_hotel
-	book_hotel
-	NONE
-	find_restaurant
-	find_restaurant
-	find_restaurant
-	find_restaurant
-	find_restaurant
-	NONE
+I'm trying to find a concert hall in the east part of town .	find_attraction
+How about an entertainment attraction instead ?	find_attraction
+Yes and can I have the phone number and address of one of attraction ?	find_attraction
+Thanks . That's all I need for now .	NONE
+Hello . Can you suggest a french restaurant in the north end ?	find_restaurant
+I am interested in the one in the north . Could I have their postcode and address ?	find_restaurant
+Yes , that will be all . Thanks .	NONE
+am looking for a train,it should leave on sunday and should go to stansted airport	find_train
+Arrival time doesn't matter so much , but I want to leave after noon . Not a morning person  )	find_train
+Thank you goodbye	NONE
+I am looking for a train to Cambridge on Saturday .	find_train
+I will depart at Birmingham New Street and should arrive by 11 . Can you help me with this ?	find_train
+I'd like to find a resturant that serves cheap Chinese food !	find_restaurant
+Yes , go ahead and book it and please send me the address .	find_restaurant
+I do not need to book it . What is the postcode and the area please ?	find_restaurant
+Thanks very much !	NONE
+I need a cab . I'm at Arbury Lodge Guesthouse and want to go to Whale of a Time .	find_taxi
+i would like to leave after 13	find_taxi
+No , that's all I need . Thank you !	NONE
+Thank you ! I am sure I will have a fantastic time . You have a great day as well .	NONE
+I am looking for a place to stay . The hotel should have a star of 2 and should be in the moderate price range	find_hotel
+I don't have a preference , actually . Which one do you recommend ?	find_hotel
+I choose the ashley hotel . What is their address , please ?	find_hotel
+No , I just need the address .	find_hotel
+Ok thank you that is all I needed today .	NONE
+I am looking for a train out of kings lynn please .	find_train
+I want to go to Cambridge .	find_train
+I would like to leave after 14 on tuesday please	find_train
+Yes , please give me travel time .	find_train
+Great , that's all I need , thanks !	NONE
+Please help me make a taxi reservation	find_taxi
+I want to depart from the Riverside Brasserie .	find_taxi
+It doesn't matter , just so I arrive by 18 .	find_taxi
+I want to go to the Shanghai Family Restaurant . And I need the car type and contact number please .	find_taxi
+No that is all . Thanks .	NONE
+I'd like to find an expensive place to eat in the south .	find_restaurant
+I really don't have a preference . How about Chinese ? I will need their phone number and postcode please .	find_restaurant
+No thank you , that is all I needed .	NONE
+I need a taxi arriving by 20 .	find_taxi
+I am leaving from clare college .	find_taxi
+I need to get to the parkside police station . My boyfriend got himself arrested , again !	find_taxi
+Great , thanks for the help .	NONE
+Are there any 4-star hotels which are moderately priced ?	find_hotel
+A guesthouse is fine . I'm looking for a place in the north with free parking .	find_hotel
+That's good . Can you book it for 3 people ?	find_hotel
+Starting Friday for 4 nights . There will be 3 guests .	book_hotel
+Yes , that would be fine . Is there a room available for one night ?	book_hotel
+That shall be all ! Thank you !	NONE
+I am looking for a taxi from yu garden arriving by 14	find_taxi
+I'd be going to holy trinity church . I'll need the car type and contact number as well .	find_taxi
+nope thats all thank you	NONE
+I need to book a taxi to arrive by 09 .	find_taxi
+I need to be picked up from wagamama and I'm headed to the mumford theatre .	find_taxi
+Can you help me get to zizzi cambridge after 22 ?	find_taxi
+Saint Johns Chop shop house .	find_taxi
+That is great . Is there a contact number available ?	find_taxi
+Great , thanks so much for your help !	NONE
+that is all , thanks	NONE
+I need a taxi to arrive by 17 at the cambridge punte .	find_taxi
+Yes , the Cambridge punter and I will be departing from the city stop restaurant .	find_taxi
+As I said , I am departing from the city stop restaurant .	find_taxi
+Thank you so much for you help .	NONE
+No , there is nothing else . Bye bye .	NONE
+I'm looking for a place to eat in the east that is expensive .	find_restaurant
+How about an expensive British place ? I'd like a reservation for Wednesday .	book_restaurant
+I would like a table at 14 on Wednesday for 5 people .	book_restaurant
+Do they have an opening at 13 on Wednesday for 5 people ?	book_restaurant
+That's all , thanks . Goodbye .	NONE
+Hello ! I'm looking for a train leaving on saturday going to cambridge .	find_train
+I'd like to leave after 19 .	find_train
+I am leaving from Broxbourne and it should leave after 19 . I would also like a booking for 6 people .	book_train
+Yes thank you that's all I needed !	NONE
+Could you help me find a cheap hotel in the center of town ?	find_hotel
+Great can you find one with free parking and a 0 star rating	find_hotel
+At the moment , can I just get the postcode and it is a hotel ?	find_hotel
+I just want to confirm that it is actually a hotel , as opposed to a guesthouse ?	find_hotel
+Are there any hotels that are cheap in the centre of town that include free parking with 0 stars ?	find_hotel
+Actually that is fine . Thank you for your help .	NONE
+No , I am all set . Good bye .	NONE
+Can you help me book a train ? I would like to leave after 10 on Saturday .	find_train
+I'm coming into Stansted Airport and i want to go to Cambridge . Is there a train for that ?	find_train
+No , thank you .	NONE
+How long is the ride ?	find_train
+No but can you tell me how much the ticket costs ?	find_train
+Great and what will be the cost of each ticket ?	find_train
+No thank you , that is all I needed .	NONE
+Can I get a train from Cambridge to Bishops Stortford ?	find_train
+On Thursday after 20 .	find_train
+No . I need to depart from bishops stortford and go to cambridge on thursday after 20 .	find_train
+Yes , that train would work better for me . Can you book tickets for 7 people please ?	book_train
+Great ! Thank you !	NONE
+I am looking for a place to stay . The hotel should be in the east and should include free wifi	find_hotel
+The rating should be 4 stars and I want free parking to be included .	find_hotel
+No , will you just book me something for wednesday for 1 person for 5 nights ?	book_hotel
+That's all I need , thank you !	book_hotel
+I am looking for a train departing Cambridge .	find_train
+I need to g to london liverpool street on Saturday .	find_train
+No , I just need to arrive by 15	find_train
+Yes , that will be perfect . What's the travel time ?	find_train
+I need a restaurant located in the centre for a moderate price .	find_restaurant
+I am looking just for any restaurant available for 5 people at 13 on saturday .	book_restaurant
+Great ! Thank you very much !	book_restaurant
+No , that's all I need . Thank you .	NONE
+I need a taxi to pick me up at Regency Gallery and take me to Don Pasquale Pizzeria .	find_taxi
+I would like to arrive by 20 .	find_taxi
+No , that's all . Thanks , good bye .	NONE
+Can you help me find an Afghan restaurant on the west side of town ?	find_restaurant
+Try a different cuisine . Just an expensive restaurant .	find_restaurant
+Indian food please . What are the options ?	find_restaurant
+No , I'll have to discuss it with my wife . Can you just get me the postcode for Maharajah Tandoori please ?	find_restaurant
+No that's all I needed . Thank you !	NONE
+Are there any Portuguese restaurants in Cambridge ?	find_restaurant
+If one of them has a moderate price range please give me that address . If not tell me about Turkish restaurants instead .	find_restaurant
+Actually I need a moderately priced restaurant . Are there any fitting that description ?	find_restaurant
+Yes , I need a reservation for 1 people at 14 on monday .	book_restaurant
+Thanks so much . That's all for today . Bye !	NONE
+I'm interested in rooms for the night where you can get free wifi .	find_hotel
+I'm looking for something in a moderate price range , but it must have at least a 4 star rating .	find_hotel
+I don't have a preference for the area .	find_hotel
+that will be nice . get me the reference numbers	find_hotel
+Please book for Sunday for 3 nights and 6 people .	book_hotel
+No , I need it for those days . Can you try different hotel ?	book_hotel
+Sounds good . Can you try and book that one please .	book_hotel
+Can we try for just 2 nights then ?	book_hotel
+nope , that's all I need thank you !	NONE
+I need to find the lensfield hotel .	find_hotel
+Book it for 7 people , 3 nights , starting sunday . Give me the reference number .	book_hotel
+No , that's everything . Thank you so much for your help . Have a great day !	NONE
+I need a taxi today . I'll want to leave after 05	find_taxi
+Oh I'm sorry , I need to be picked up at the lensfield hotel , heading to don pasquale pizzeria .	find_taxi
+Great , thanks for your help !	NONE
+I'd like a taxi to take me to ruskin gallery	find_taxi
+I will depart from saffron brasserie at 7 . What is the car type and contact number so I know who and where you will pick me up ?	find_taxi
+That is all I needed , thank you .	NONE
+Yes , I am looking for a place to stay in the south that has free parking .	find_hotel
+No , but I need free wifi , too .	find_hotel
+A hotel please . I would like to book it for 6 people for 5 nights starting Friday . I will need a reference number too .	book_hotel
+That's all I need , thanks . Bye .	book_hotel
+Hi , Are there any expensive Indian restaurants in town ?	find_restaurant
+I would prefer a restaurant in the west side of town .	find_restaurant
+Actually , I just need the number and address .	find_restaurant
+No , that'll be all for today . Thanks a lot . Bye !	NONE
+I am looking for a place to stay . The hotel should be in the type of guesthouse and should include free parking	find_hotel
+The hotel should have a star of 3 and should be in the south .	find_hotel
+Sure , please book it for 8 people for 3 nights starting on monday	book_hotel
+advice me on another booking duration	book_hotel
+Are you sure that didn't work ? 8 people and 3 nights starting from monday ?	book_hotel
+Thanks , that's all . good bye .	NONE
+Hi , can you help me find a restaurant in the centre area ?	find_restaurant
+I'm in the mood for italian food . Which is your favorite ?	find_restaurant
+Great . Can you book a table for 1 on Saturday at 12 ?	book_restaurant
+Terrific ! You are great , please send me all this information to my e-mail , thanks .	NONE
+No I have everything I wanted to know . Thanks very much .	NONE
+Thanks . I will .	NONE
+I would like to book a taxi to Royal Standard , leaving after 03	find_taxi
+I will be going to the Royal standard , leaving from the Tenpin .	find_taxi
+No , that'll be it . Thank you .	NONE
+I am looking for a mexican restaurant in the centre .	find_restaurant
+How about an Indian restaurant then ?	find_restaurant
+Oh , no , but I do need the postcode address and number .	find_restaurant
+No really , I don't need a booking .	find_restaurant
+That's everything I wanted to find out thanks .	NONE
+I'm looking for a place to dine that serves British food . It should be in the moderate price range .	find_restaurant
+The Oak Bistro sounds fabulous . Can I get a table there on Sunday at 18 ? There will be 6 of us .	book_restaurant
+That's great . I think that's all I need .	book_restaurant
+I would like to try saigon city .	find_restaurant
+5 people on a Wednesday at 19 .	book_restaurant
+Thank you for help . That's everything I needed .	NONE
+I am looking at a place to eat that serves venetian food in the centre .	find_restaurant
+Do you have any Chinese restaurants ?	find_restaurant
+I was hoping for an expensive restaurant .	find_restaurant
+Can I book at the Ugly Duckling for 4 people , at 12 on wednesday please ?	book_restaurant
+Thank you ! Can't wait !	NONE
+That's all I needed . Thanks	NONE
+I'm looking for somewhere to stay with free parking and free wifi .	find_hotel
+Something cheap would be more within my budget . What do you have available ?	find_hotel
+I don't care about the area . Just pick one for Monday .	book_hotel
+We will be staying for five nights .	book_hotel
+No , it will be me and a friend . We will be staying for 5 nights and arriving on Monday .	book_hotel
+well , can you maybe try it for 3 nights ?	book_hotel
+No that's all I need . Thank you so much and bye !	NONE
+Hi , I'd like to book a taxi from A and B Guest House to Saint Catherine's College .	find_taxi
+I'd like to arrive by 06 , please .	find_taxi
+That will be all , thanks !	NONE
+Hi , I'm looking for a taxi . I need to leave from Golden House at 12 .	find_taxi
+I'm headed to the soul tree nightclub .	find_taxi
+No , you have been very helpful . Thank you .	NONE
+Hello there ! Can you tell me if there are any 4-star hotels or guesthouses in Cambridge that are cheap ?	find_hotel
+I am hoping it is a guesthouse	find_hotel
+No , as long as it's cheap and have 4 stars . Can you recommend me one and book it for 8 people and 3 nights starting Thursday ?	book_hotel
+Great . What was the reference number for the booking ?	book_hotel
+OK . Thanks for your help . I look forward to the stay .	NONE
+No , that is all thanks .	NONE
+Get me a taxi to hughes hall please	find_taxi
+I'd like to leave after 15 .	find_taxi
+I am coming from arbury lodge guesthouse .	find_taxi
+Great , thanks so much ! Bye !	NONE
+Is there an expensive African restaurant in town .	find_restaurant
+Excellent ! I don't need a table right now , but if you could give me the address and phone number , that would be great .	find_restaurant
+No thanks . That would be all for today . Have a nice day .	NONE
+I am looking for city centre north b and b	find_hotel
+Yes , please book it for 1 person and for 5 nights starting Friday .	book_hotel
+Great , thank you so much .	NONE
+Please reserve for me a taxi that will pick me up at cambridge arts theatre after 09	find_taxi
+I'm going to restaurant one seven .	find_taxi
+Thank you . I need the contact number , as well .	find_taxi
+I am looking for a place serving Indian food in the moderate price range	find_restaurant
+The area does not matter . The Curry Prince sounds good . Please book a table for 7 people at 19 on Tuesday .	book_restaurant
+Okay thank you . That will be all .	NONE
+I am wanting to book a train arriving in Stevenage by 19 . Can you help me ?	find_train
+I will be leaving cambridge on Thursday .	find_train
+That sounds good . What is the travel time for that train ?	find_train
+No need to book a ticket . I can take care of that later . But thank you . Have a nice night !	NONE
+I'm looking for a place . I think it's called like Bridge House or Bridge Guesthouse or something .	find_restaurant
+Could you book it for 3 people and 4 nights starting from thursday ?	NONE
+Okay , book it for 4 nights starting Saturday .	NONE
+Thank you , that's all I need . Good bye .	NONE
+help me get a taxi to the cambridge museum of technology please	find_taxi
+I'll be departing from rice boat	find_taxi
+Have the taxi leave after 13 please	find_taxi
+Hi , I need to find a train to cambridge , please .	find_train
+I want to leave from Stevenage on Saturday .	find_train
+Yes , I would like to arrive by 12 .	find_train
+That is all . Thank you .	NONE
+Actually , can you give me the reference number ?	book_train
+That's all thanks !	NONE
+I need a taxi at Ian Hong House to leave by 14 .	find_taxi
+I want to go to the Leicester Train Station .	find_taxi
+Thanks for the quick response .	NONE
+I need a train from London Kings Cross to Cambridge .	find_train
+sure , I would like to go on Saturday , and arrive by 20 . As close to that time as I can arrive .	find_train
+Yes , let me have 7 tickets , please .	book_train
+No , that's all I need . Thanks .	NONE
+Yes I am looking for information on a restaurant called Bangkok City .	find_restaurant
+Yes , 5 people , friday at 14 .	book_restaurant
+Oh no . Can you get us in at 13 then ?	book_restaurant
+Thanks ! That's all I needed today - goodbye !	NONE
+I need a taxi please . I'll be departing from grafton hotel restaurant	find_taxi
+I need to leave after 16 .	find_taxi
+I would like to get to the Jinling Noodle Bar .	find_taxi
+Nope , that'll do for now . Thank you !	NONE
+Hello . I'm looking for a cheap place to eat in the centre . Can you help me ?	find_restaurant
+Yes , I'd love Chinese .	find_restaurant
+Sure , pick your favorite and let me have the address , postcode , and phone number please ?	find_restaurant
+Yes please make me a reservation .	find_restaurant
+Actually , I don't need a reservation right now . The restaurant information was all I needed . Thanks for your help .	find_restaurant
+I would like a taxi from Saint John's college to Pizza Hut Fen Ditton .	find_taxi
+I want to leave after 17 .	find_taxi
+Thank you for all the help ! I appreciate it .	NONE
+No , I am all set . Have a nice day . Bye .	NONE
+I am looking for a place to stay . The hotel should include free wifi and should include free parking	find_hotel
+north area in a guesthouse	find_hotel
+It doesn't matter as long as I can book it for 2 people and 2 nights starting Thursday .	find_hotel
+No , I am not picky .	book_hotel
+how about wednesday instead ?	book_hotel
+Yeah try a different place . Anywhere that meets my requirements	book_hotel
+Yes please try it .	book_hotel
+That was everything , thanks .	NONE
+I'm looking to find a place to eat in the centre of town that needs to have a moderate price range . Can you give me some options ?	find_restaurant
+Is there a Lebanese option ? I'm really craving some Lebanese right now .	find_restaurant
+Can you please get me a reservation at Ali Baba for tonight at 7PM ?	find_restaurant
+Actually , can I just get the address there for now please ?	find_restaurant
+That's all I need . Thanks for your help !	NONE
+Is there a restaurant that serves italian food in the expensive price bracket ?	find_restaurant
+Absolutely ! Thank you !	NONE
+How about the center ?	find_restaurant
+That sounds good . No I don't need a reservation , but could you tell me the postcode ?	find_restaurant
+No thanks . That will do it for me . Have a good day .	NONE
+I need a taxi departing from golden wok .	find_taxi
+I'd like to leave after 17 .	find_taxi
+I'm going to holy trinity church .	find_taxi
+I will look for the yellow skoda after 17 . Thanks for all your help .	find_taxi
+not really . am good to go	find_taxi
+Yes , I hope so . Are there any Chinese restaurants toward the east end of town ?	find_restaurant
+Great can you book a table for 1 at 19 on monday ?	book_restaurant
+I think that takes care of everything . Thanks !	NONE
+I'd like to book a taxi to take me to cineworld cinema from gonville hotel	find_taxi
+I'd need to arrive by 15 please .	find_taxi
+Ok thanks , that's all I need !	NONE
+That's it , thank you	NONE
+Hi there ! I'm looking for an expensive place to stay that has free wifi . I bet Cambridge has a ton of those .	find_hotel
+The area doesn't matter much , but I would like it to be a guesthouse if possible .	find_hotel
+I'd really rather stay at a guesthouse . Do you have anything in the cheap price range ?	find_hotel
+No not in particular .	find_hotel
+What is the phone number of the el shaddai ?	find_hotel
+That's not needed . Thank you !	NONE
+Good day to you also Bye .	NONE
+I am trying to find a hotel called warkworth house	find_hotel
+book it for 3 people and 5 nights starting from thursday .	book_hotel
+Let's try for Friday instead . And I need the reference number please .	book_hotel
+Great , that's settled . Thank you for the assistance . Goodbye .	NONE
+Hi , I am looking for a cheap restaurant in the town centre please .	find_restaurant
+I prefer creative food , please .	find_restaurant
+How about one that serves indian food ?	find_restaurant
+The Kohinoor sounds good . Can you reserve a table for 4 on Wednesday ? Let's say.. . 18 for the time if it's available .	book_restaurant
+Try 17 , okay ?	book_restaurant
+I kind of need some help finding a nice hotel in the north part of town .	find_hotel
+Do either of those have 4 stars ?	find_hotel
+A 4 star guesthouse in the north would be fine too .	find_hotel
+No , it doesn't . What place would you recommend ?	find_hotel
+Yes . I'll need a reservation for 3 nights starting Sunday . There are 3 people in my party .	book_hotel
+Great to hear that , can you provide me also with reference number ?	book_hotel
+thats all i needed ! cheers .	NONE
+I need a taxi to take me to yippee noodle bar by 9	find_taxi
+The Rajmahal please	find_taxi
+Thank you ! Goodbye !	NONE
+Hi , I'll be coming in to Cambridge and I'd like a place to stay . I'd like a guesthouse with free parking .	find_hotel
+I'd like it to be in the east , if possible .	find_hotel
+I'll take a cheap one please .	find_hotel
+No that would be all .	find_hotel
+No . I'm all set . Thanks again .	find_hotel
+Sure , have a fantastic day .	NONE
+Hi , could you find me a train for Friday ? I need to leave from Leicester .	find_train
+I would like to leave after 12 .	find_train
+I'd like to go to Cambridge , please .	find_train
+Yes . Could you book that for 7 people and give me the reference number please ?	book_train
+Great , that's all for today . Goodbye !	NONE
+I'm looking for an attraction to visit . Is there anything located in the west part of town ?	find_attraction
+No , I was thinking of something fun to do . Do you have any suggestions ?	find_attraction
+Whale of a Time sounds like a whale of a time ! Yes , can I have their phone number , address , and postcode please ?	find_attraction
+No , that's all I need . Thank you !	NONE
+Hi , I'm looking to catch a train to Norwich . Are there any that depart at or around 17 ?	find_train
+Does that train leave on Friday ?	find_train
+No preference .	find_train
+Sure thing , I'd like 7 tickets please .	book_train
+Thank you !	NONE
+Thanks so much for all your help .	NONE
+Are there any 1-star hotels with free parking ?	find_hotel
+I am looking for a guesthouse with free parking , preferably one star .	find_hotel
+What about guesthouses ?	find_hotel
+how about a hotel with 4 stars ?	find_hotel
+Yes , I will be traveling alone on Sunday and staying for 2 nights .	book_hotel
+Let's back up a bit . Are there any 4-star guesthouses ?	book_hotel
+No , no place in particular . Whatever you think is good .	book_hotel
+The reservation will start on Sunday , for one person .	book_hotel
+Sure , can you check on a Tuesday arrival ?	book_hotel
+That is all . Thanks so much !	NONE
+I'm hoping to find a nightclub in town .	find_attraction
+No , can you tell me what the entrance fee is ?	find_attraction
+Can you please tell me what the phone number is for The Soul Tree ?	find_attraction
+What is their postcode ?	find_attraction
+No thank you . That is all the information I need .	NONE
+I need a taxi . I am going to avalon and I need to leave after 16	find_taxi
+I will be at Parkside Pools .	find_taxi
+Great that will be everything thanks .	NONE
+Hi , I'm looking for a place to stay that has free wifi and free parking .	find_hotel
+I do not have a preference but I do want a hotel not a guest house .	find_hotel
+Sure . That would be great .	find_hotel
+There are 3 of us and we'll be arriving on Saturday .	book_hotel
+It will be for two nights .	book_hotel
+Can you try for just 1 night then ?	book_hotel
+No . That'll be all , thanks . Bye !	NONE
+I am looking for a restaurant serving chinese food in the centre part of town .	find_restaurant
+I am looking for something expensive .	find_restaurant
+That sounds great ! Yes , please ! Book a table for 3 people at 15 on friday .	book_restaurant
+That will be all . Thank you very much !	NONE
+Hi , I need to get in from King's Lynn to Cambridge	find_train
+I'm looking to leave Friday after 21 , if you could book me a reservation for that time period that would be great .	find_train
+I need 2 please .	book_train
+No thank you . That is all I need .	NONE
+Hi , I'm looking for restaurants in the area that serve British cuisine . Could you give me some suggestions ?	find_restaurant
+Is there something available in the west ?	find_restaurant
+I don't care about the price range . However , I need to confirm that the restaurant serves British food and is in the centre of town .	find_restaurant
+Yes . For 6 people at 19 on friday , please . I'll need the reference number .	book_restaurant
+Great thanks so much !	NONE
+That's all I needed thank you	NONE
+I am looking for a hotel to stay at located in the centre .	find_hotel
+I would like expensive , please .	find_hotel
+Yes , you can . I'll try the Gonville .	find_hotel
+Please book for 4 people .	find_hotel
+I will be arriving on Sunday and staying for 3 nights . And there will be 2 people , not 4 .	book_hotel
+No that's all . Thanks .	NONE
+I need to schedule a taxi to da vinci pizzeria from tandoori palace .	find_taxi
+I would like to leave after 22 .	find_taxi
+Ok thank you !	NONE
+I do not thank you .	NONE
+I need to make a train reservation for Friday and I need it to arrive by 19	find_train
+I will be departing from Cambridge .	find_train
+I will be going to stansted airport .	find_train
+That's an early arrival . Is there a later train that arrives before 19 , please ?	find_train
+Yes , that would work . Could you book it for 5 people ?	book_train
+No that was all . Thanks !	NONE
+I'd like a taxi to the cafe jello gallery please .	find_taxi
+I'd like to picked up from cafe jello gallery after 12 .	find_taxi
+So Sorry , i want to leave cafe jello gallery after 12 going to the junction .	find_taxi
+Great , thank you . That's everything that I needed !	NONE
+I am looking for a place to stay . The hotel should be in the north and should be in the type of guesthouse	find_hotel
+I don't care about the price but it needs to be a four star hotel .	find_hotel
+I need a place with 4 stars .	find_hotel
+Do they have internet and what's the price range ?	find_hotel
+Ok that is all I needed for now . Thanks !	NONE
+I would like to book a taxi to go to little saint mary's church after 11 .	find_taxi
+I will be departing from Avalon .	find_taxi
+What time will it arrive ?	NONE
+Thank you . I have all the information I need .	NONE
+No that was everything . Thank You !	NONE
+I need a train going from Ely to Cambridge please .	find_train
+I'd like to leave on Friday and arrive by 14 .	find_train
+No time in particular , please reserve any one of them for 3 people .	book_train
+That is all for now . Thank you .	NONE
+I need to book a taxi plese	find_taxi
+I want to arrive by 12 .	find_taxi
+I'm leaving from cambridge and county folk museum .	find_taxi
+I'm going to trinity college .	find_taxi
+I need a taxi to pick me up at Ashley Hotel to leave after 10 .	find_taxi
+I need to get to restaurant two two	find_taxi
+Thanks ! That would be all .	NONE
+No , that will be all . Good bye .	NONE
+Can you help me find a restaurant that serves African food with a moderate price range please	find_restaurant
+Yes how about Asian food in the same price range ?	find_restaurant
+Will you please book a table for 6 at 13 on Friday ?	book_restaurant
+That's all I needed . Thanks a lot for the help !	NONE
+Will do .	book_restaurant
+I need a taxi to take me to Pipasha Restaurant to leave after 01 .	find_taxi
+From the Ballare .	find_taxi
+Hi . Have you heard of a hotel called Warkworth House ?	find_hotel
+Can I get the price range on it ?	find_hotel
+No , that's all the information I'll need for now . Thanks so much !	NONE
+No , but thank you !	NONE
+I need a hotel with a zero star rating and I dont need free parking	find_hotel
+i hope its in the centre	find_hotel
+I need to book it for one person for 5 nights starting Friday .	book_hotel
+advice me please of a better duration	book_hotel
+I'm sorry , did I say Friday ? I meant I want a booking for 5 nights starting on THURSDAY .	book_hotel
+Then I can I get one on Saturday for 5 nights ?	book_hotel
+Great , thank you for the help .	NONE
+That is all . Thank you . Goodbye	NONE
+I'm looking for a moderately priced place to stay .	find_hotel
+I'm not familiar with the different areas , so I guess it doesn't matter . I would like a moderate though . With free WiFi .	find_hotel
+Does it have a four star rating ? I need free parking , too .	find_hotel
+No , could you just tell me the phone number ? And what area of town is that in ?	find_hotel
+Great ! Thanks for all the info . I'm all set . Bye !	NONE
+I'm looking for an Indian restaurant , preferably in the centre of town .	find_restaurant
+I would prefer cheap restaurants .	find_restaurant
+Sure please book a table there fore 7 people at 12 on saturday	book_restaurant
+No that's all I needed . Thank you !	NONE
+I am looking for a restaurant . The restaurant should be in the moderate price range and should be in the east	find_restaurant
+The restaurant should serve italian food .	find_restaurant
+What other restaurants in that area serve Italian food ?	find_restaurant
+No , that will do . Can I book a table for monday ?	book_restaurant
+I will have 5 people and we would like 12 if possible . Thanks .	book_restaurant
+Thanks for you help . I only need the restaurant reservation . Goodbye .	book_restaurant
+I'm looking for a place to dine on the south side of town . Please find a place that's in the expensive price range .	find_restaurant
+Do you have a favorite you could recommend ? I will need the phone and postcode and food type also please .	find_restaurant
+No , that will be it . Thank you for your help .	NONE
+Could you help me find a boat to visit on the north side ?	find_attraction
+Yes , I want the phone number and also the entrance fee , please .	find_attraction
+Okay , that is all I need today . Thank you very much .	NONE
+Do you know where I can find the Holy Trinity Church ?	find_attraction
+Great what type of attraction are they ?	find_attraction
+That's all the information I need . Thanks for your help !	NONE
+Can I get some help locating a room for the night ?	find_hotel
+I am looking for a guesthouse with free wifi and parking , please .	find_hotel
+I don't care about the area . Which one do you suggest ?	find_hotel
+That sounds great ! I need a reservation just for me for 5 nights starting on Thursday .	book_hotel
+Thank you that is all , bye bye .	NONE
+Hi , I am looking for a cheap place to stay that has free wifi . Can you find anything like that ?	find_hotel
+I don't care about the area but I need one with 3 stars , please .	find_hotel
+Can you see if there are any in the moderate range ?	find_hotel
+Great ! Which of those three would you recommend ?	find_hotel
+Please just pick the best one and book it for Thursday .	find_hotel
+Sure , 2 people , checking in on Thursday for 3 nights please .	book_hotel
+No that is all , thanks .	NONE
+You have a fantastic day as well . Good bye !	NONE
+There are hotels with free wifi and parking , right ?	find_hotel
+The hotel should be in the centre and should be in the type of guesthouse .	find_hotel
+book it for 1 people and 4 nights starting from tuesday .	book_hotel
+How about Wednesday ?	book_hotel
+thank you for your help	NONE
+I am looking for a cheap restaurant in the centre .	find_restaurant
+Yes , may I have the address , postcode , and phone number for Golden House ? I'll book it myself .	find_restaurant
+Thanks , that's all I need . Have a nice day .	NONE
+I'm looking for some info on an attraction called Kettle's Yard .	find_attraction
+Great thank you for all your help , that's all that I needed to know .	NONE
+Yes , I am looking for a train that will be leaving after 13 on Tuesday .	find_train
+The train should go to cambridge and should depart from london liverpool street .	find_train
+Could you book that for 8 people , please ?	book_train
+Thanks , that's all I need . Good bye .	NONE
+I'm looking for an Italian restaurant on the south side of town .	find_restaurant
+Great ! I'd like a table at Frankie and Bennys for 7 people at 14 on Friday .	book_restaurant
+How about at 13 at same time ?	book_restaurant
+Great . That's all I need !	book_restaurant
+I'm looking for a place to stay . I want to make sure it is 4 stars and includes free parking . Can you help with this ?	find_hotel
+I would prefer something moderately priced in the centre of town	find_hotel
+Hmm , yes I suppose I could try one on the north side of town . Are there any ?	find_hotel
+Yes please , whichever you prefer .	NONE
+Actually , I don't think I'm ready to make a reservation just yet . Does the location on the north side of town have 4 stars , free parking , and moderate prices ?	find_hotel
+Just the postcode please .	find_hotel
+No , that's all I need , thank you !	NONE
+I'm looking for a hotel with at least a three-star rating .	find_hotel
+I'm not to worried about price but the hotel needs to have free wifi .	find_hotel
+Not just yet . I'm just getting info now .	find_hotel
+Oh I forgot to mention I would actually like something in the moderate price range .	find_hotel
+Are they all guesthouses ?	find_hotel
+Please give me the number to the hamilton lodge .	find_hotel
+No , I won't be booking today . Can you just give me the address ?	find_hotel
+No , that's everything . Thank you very much .	NONE
+Help me reserve a taxi please	find_taxi
+I will be leaving from pizza express Fen Ditton	find_taxi
+I'd like to arrive at the Sidney Sussex College by 12 , please .	find_taxi
+That's all I need for today . I appreciate your help . Goodbye .	NONE
+I'm looking for a train please .	find_train
+I need to go to Norwich from Cambridge .	find_train
+I will be traveling on Friday .	find_train
+any time on friday , arrive by 1515hrs . get me the train id please	find_train
+yes please . help me get train ID and travel time	book_train
+Thank you , I think that's all I needed for now .	NONE
+I am looking for a place to dine . The restaurant should be in the expensive price range and should serve italian food	find_restaurant
+No , I just realized I'll be in the south area . Are there any that meet my criteria in the south ?	find_restaurant
+Yes could you book me a table for two Sunday at 11 ?	book_restaurant
+Thank you so much for all of your help . Have a great day .	NONE
+Are there any restaurants that serve proper British food in town ?	find_restaurant
+West , if possible .	find_restaurant
+Will you give me the phone number , address , and postcode for Graffiti , please ?	find_restaurant
+No Thank you . I think that will be everything today .	NONE
+I'm looking for a hotel called the arbury lodge guesthouse .	find_hotel
+Yes please ! For 5 people and for 5 nights . Starting Wednesday .	book_hotel
+I am finished , thank you for your help .	NONE
+Can you help me find a hotel called a and b guest house ?	find_hotel
+Can I get the address and phone number , please ?	find_hotel
+That is all . Thank you .	NONE
+I am looking for a place to stay . The hotel should be in the expensive price range and should be in the type of guesthouse	find_hotel
+its ok if it has free parking	find_hotel
+Are there any guesthouses in the cheap price range ?	find_hotel
+can you please tell me about the star of the hotel	find_hotel
+What is the price of Allenbell ?	find_hotel
+No , that's all I need for today . Good bye .	NONE
+Yo , I'm looking for a place to stay that's as awesome as me . four stars ! It's gotta have free wifi , so I can do my social media , know what I mean ?	find_hotel
+I don't really have a price range . Anything is fine . I would like it to have free parking and wifi , though . And of course , 4 stars like I mentioned .	find_hotel
+No , either will work just fine .	find_hotel
+That's great . Can you give me the area and price range , please ?	find_hotel
+What's its address ?	find_hotel
+Thank you very much !	NONE
+I need a taxi to arrive by 16 to take me to the Parkside Police Station .	find_taxi
+I actually need to be picked up from the parkside police station . Sorry about taht .	find_taxi
+I am wanting to go to stansted airport train station .	find_taxi
+That's all I need thanks	NONE
+No , I'm good for today . Thank you .	NONE
+Hi I am looking for a restaurant in the centre of town serving north indian food .	find_restaurant
+That's too bad . How about Chinese ?	find_restaurant
+Okay when you find something I would like to make a reservation for 2 people on a Sunday at 13 .	book_restaurant
+I don't mind about the price range .	book_restaurant
+That's fine . Can you try booking it ?	book_restaurant
+How about 12 ?	book_restaurant
+Thanks so much . Have a nice day . Bye .	NONE
+I'd like to find a cheap place to stay .	find_hotel
+I would like for it to be located in the center of town .	find_hotel
+No , I don't have a preference . Do those places have wi-fi ?	find_hotel
+I am not ready to book yet . Thanks for the information .	NONE
+That is all ! Thanks !	NONE
+Oh , yes I'm hoping you can help me with finding a train departing out of Cambridge .	find_train
+I need to go to Birmingham New Street .	find_train
+I would like to leave on Sunday afternoon after 15 .	find_train
+What is the price on that train ?	find_train
+No , that was all I needed . Thank you so much for your help !	NONE
+I need a taxi to go to mahal of cambridge	find_taxi
+Yes , I'd like to leave after 2 please .	find_taxi
+I am departing from jesus green outdoor pool .	find_taxi
+What is the contact number for the taxi ?	find_taxi
+thanks that's all for today .	NONE
+Good Morning , are there any expensive restaurants in the city centre ?	find_restaurant
+No , can you choose one for me and provide me with the postcode .	find_restaurant
+That sounds great . Thanks so much !	find_restaurant
+No , but thank you for your help .	NONE
+I need to be picked up from pizza hut city centre after 04	find_taxi
+I am headed to gonville hotel .	find_taxi
+Thanks . That takes care of everything for me . Bye !	NONE
+I want to find a guesthouse with free parking included . Can you help ?	find_hotel
+I would really like something expensive .	find_hotel
+Alright , let's try for a cheap hotel .	find_hotel
+I meant a cheap guesthouse with free wifi .	find_hotel
+Sounds good , let's book it ! 8 people for 4 nights , starting Friday .	book_hotel
+Nope , that'll do it . Thank you so much for your help !	NONE
+I need a taxi to go to meghna .	find_taxi
+I want the taxi at 7 p.m . leaving the yippee noodle bar .	find_taxi
+That is all I need , thank you have a good one .	NONE
+I want to book a taxi going to Christ's College departing from City Stop restaurant please .	find_taxi
+Doesn't matter , but I need to leave after 14	find_taxi
+Thank you very much .	NONE
+That's all I needed , thanks so much for your help .	NONE
+Hello , I am looking to stay in a guesthouse that includes free parking	find_hotel
+No . I would like it to have a star rating of 4 and free wifi .	find_hotel
+That sounds great ! Can you book the Alexander for 2 people ? We'll need it for 5 nights starting on Thursday .	book_hotel
+Can we try 2 nights instead then ? I'll need the reference number as well .	book_hotel
+That will be all , thanks .	NONE
+Hi there . I'm hoping you can help me . I am looking to try molecular gastronomy food . Might there be a restaurant like this in the centre of town ?	find_restaurant
+Yes how about gastropubs or international in the moderate price range .	find_restaurant
+Is that a gastropub ?	find_restaurant
+What is their address ?	find_restaurant
+That's all I needed today . Thank you !	NONE
+Hi , I need a guesthouse with free wifi please .	find_hotel
+I also need free parking , and I'd prefer a 4 star place .	find_hotel
+Great . Can you book that one for 4 nights checking in on Tuesday ? There will be 6 people .	book_hotel
+No that will be all . Thanks .	NONE
+Thank you for your help .	NONE
+I am looking for an expensive hotel with free parking .	find_hotel
+No , that's not important to me . But , I would prefer to stay in a guesthouse with free parking .	find_hotel
+Cheap would be fine as well .	find_hotel
+Yes . Can you make a reservation for 4 nights starting Wednesday ? There are 5 people in my party .	book_hotel
+That's all I needed , thanks so much for your help !	NONE
+i want a reservation that has cheap price and should be in the east	find_hotel
+Oh , I also need it to have free parking and I want a guest house .	find_hotel
+Sure , please book it for 1 person for 5 nights starting on thursday .	book_hotel
+how about starting on friday ?	book_hotel
+Thank you so much ! That is all I needed .	NONE
+I am looking for a place to dine . The restaurant should be expensive and should serve Chinese food .	find_restaurant
+Not in any specific area please . I need to book a table for 3 at 14 on Saturday .	book_restaurant
+how about 13 then ?	book_restaurant
+What is the reference number for my booking ?	book_restaurant
+No thank you , that is all I needed !	NONE
+Hello , I am trying to find an attraction in the west part of town . Can you help me ?	find_attraction
+Not really . Could you give me the postcode for one of the museums ?	find_attraction
+Thank you . That's all I need today . Goodbye .	NONE
+I need a train that leaves on Wednesday with an arrival of 12 .	find_train
+I'm traveling from Cambridge to the London Liverpool Street .	find_train
+Yes , that sounds fine . I need 7 tickets please .	book_train
+Thanks , that's all I need . Have a nice day .	NONE
+I'm looking for a place to dine in the centre .	find_restaurant
+Is there anywhere that serves middle eastern food ?	find_restaurant
+Is there anywhere in the centre that serves mediterranean food ?	find_restaurant
+I'd like something in the expensive price range .	find_restaurant
+book either for me	find_restaurant
+Can we do Saturday at 15 ?	book_restaurant
+Never mind . I'll book the table myself . May I have the address and postcode ? And the phone number , while you're at it .	book_restaurant
+No thank you that is all I need for now .	NONE
+I need to book a tax departing from gandhi .	find_taxi
+I'm going to broxbourne train station and i need to arrive by 02	find_taxi
+Wonderful , thanks for your help .	NONE
+No thank you .	NONE
+I am looking for a train that will depart on Sunday and arrive by 18 .	find_train
+I am going to Cambridge from Leicester . And , yes , please book it for me .	find_train
+7 please	book_train
+thank you !	NONE
+That's all , thank you !	NONE
+Okay , you too . Thanks again .	NONE
+Hi ! Can you tell me what trains are available on Friday after 18 ?	find_train
+I'm going from Stevenage to Cambridge .	find_train
+Yes I would like to book it for 8 people and I will need the reference number .	book_train
+Thank you for all your help , that's all I needed today .	NONE
+I would like to find an expensive restaurant in the centre of town please .	find_restaurant
+I don't care . Choose a restaurant you recommend !	find_restaurant
+Sounds great . Could you book me a table for 8 on Wednesday at 15 ?	book_restaurant
+May I have the booking reference number ?	book_restaurant
+Thank you very much for your help .	NONE
+No , that's all I need today . Thank you !	NONE
+Hi , I'd like to find a place to stay that includes free wi-fi .	find_hotel
+Something cheap would be good .	find_hotel
+No not really . But I would prefer a hotel and like both free wifi and parking if possible .	find_hotel
+That's fine . I'll need it for three nights starting on Sunday .	book_hotel
+Is there another hotel that matches that criteria ?	book_hotel
+I will try and restate so you can look again , I need free wifi and parking , cheap place , type of room does not matter .	book_hotel
+It doesn't matter . Whatever is available nearby will be fine .	book_hotel
+there are 4 of us .	book_hotel
+No . That is all !	book_hotel
+Thank you for your assistance .	NONE
+Can you book a taxi for 13 from the royal spice .	find_taxi
+I'm going to kirkwood house .	find_taxi
+Thank you very much !	NONE
+I'm looking for a nightclub to go to . Are there any in the centre of town ?	find_attraction
+Is there an entrance fee for Ballare ?	find_attraction
+Thank you ! That's all I needed .	NONE
+I need a taxi from the missing sock and I need to get to my destination by 08 . Can you help ?	find_taxi
+I'm going to el shaddai	find_taxi
+I will also need the contact number please .	find_taxi
+No , thank you !	NONE
+I need a taxi , please .	find_taxi
+I need to get to restaurant two two by 5	find_taxi
+I want to be picked up at Williams Art and Antiques .	find_taxi
+I look forward to the ride . Thank you .	NONE
+No , that will be all . Thanks very much .	NONE
+Could really use some grub .	find_restaurant
+Somewhere in the centre . I'm looking for some traditional food .	find_restaurant
+Ok , how about lebanese food ?	find_restaurant
+Yes , please book me a table for 2 people at 12 on wednesday .	book_restaurant
+How about at 11 instead ?	book_restaurant
+Wonderful . Thanks for your help today . Bye .	NONE
+I am looking for a restaurant . The restaurant should serve indian food and should be in the expensive price range	find_restaurant
+Awesome . Can I also get the area , post code , and phone number ?	find_restaurant
+Thanks , I just need the phone number so I can call them .	find_restaurant
+Thanks , that's all . Good bye .	NONE
+Hi ! Are there any asian oriental restaurants in the center of town ?	find_restaurant
+Something moderately priced would be great .	find_restaurant
+Yes I need a table for 4 on Saturday .	find_restaurant
+16 please .	book_restaurant
+Thank you . I think that's everything I need .	NONE
+Can you help me find a moderate price place to stay that includes free parking ?	find_hotel
+Does it also have free wifi and does it have 2 stars ?	find_hotel
+Is there somewhere with both free wifi and parking ?	find_hotel
+I am not quite ready to make a reservation yet , but could you please get the address for me ?	find_hotel
+Yes , do you have their postcode please ?	find_hotel
+What part of town is the Ashley located ?	find_hotel
+Perfect , thank you . That is all I need . Bye .	NONE
+Are there any British restaurants in the centre ?	find_restaurant
+I'd like an expensive restaurant please .	find_restaurant
+I want to make a booking at Fitzbillies Restaurant . It will be for 8 people on Friday at 12 .	book_restaurant
+Can we make it for 11 ?	book_restaurant
+Thanks , that's all I need . Goodbye .	NONE
+Hi , I'd like to find a train from Cambridge to Leicester .	find_train
+I would like to travel on Saturday .	find_train
+I'd like to arrive by 13 .	find_train
+Yes that would be perfect . Could I have the price and departure time ?	find_train
+Great , thanks for your help !	NONE
+No thanks . I appreciate the help . Have a good day .	NONE
+Are there any guesthouses with 3 star ratings ?	find_hotel
+Yes definitely . I would like something moderate .	find_hotel
+Out of those , can you find me one with free internet and parking ?	find_hotel
+No , I'm not ready to book just yet . Thank you !	NONE
+I am looking for a train that departs cambridge after 21 on Thursday .	find_train
+I'm heading to Stansted Airport , I need to book for 2 people and can I please get a reference number ?	book_train
+No that will be all . Thank you .	NONE
+I would like a british food restaurant in the centre .	find_restaurant
+Only the best for my family . . we'll take the expensive one . Book us a table for 5 at 14 on Thursday .	book_restaurant
+Let's try Italian instead .	book_restaurant
+Actually , I change my mind . I think I want to stick with British food after all . Can you suggest any one thats in the centre of town ?	book_restaurant
+Can you try the Cambridge Chop House for Thursday for 5 people at 13 instead ?	book_restaurant
+No , that's all I need . Thanks for your help !	NONE
+You're welcome ! It was great !	NONE
+I am looking to book a taxi that will leave from the missing sock	find_taxi
+I need to get to the lucky star please .	find_taxi
+I would like to leave after 17 . I also need the car type and contact number	find_taxi
+Thank you that is all I need .	NONE
+Thank you I don't need anything else .	NONE
+Yes , hello . I'd like to book a taxi to what I believe is a restaurant .	find_taxi
+Yes , Oak Bistro and will depart from Sheep's Green and Lammas land park fen causeway .	find_taxi
+I would like to arrive by 16 . I will need a contact number and car type as well .	find_taxi
+Great ! That's all for today . Goodbye !	NONE
+I am looking for a high end Indian restaurant , are there any in town ?	find_restaurant
+The restaurant should be in the west .	find_restaurant
+Yes please for 1 person saturday at 19 please .	book_restaurant
+Nope , that's all . Thank you for your help !	NONE
+Hi there . Can I get some help finding a hotel or guesthouse please ?	find_hotel
+I need one in the moderate price range . I would like one that doesn't have free parking .	find_hotel
+No not in particular .	find_hotel
+I'd prefer a guesthouse in the north , please .	find_hotel
+Yes . The Apha-Milton sounds nice . Try that one , please .	find_hotel
+There are 3 of us and we're arriving on Thursday . We'd like to stay for 4 nights if possible .	book_hotel
+Thank you . That's all I need today .	NONE
+I need a cheap Spanish restaurant . Are there any around ?	find_restaurant
+I would like a restaurant in the centre .	find_restaurant
+Great . can you book me a table for 7 on Tuesday at 11 and provide me with a reference number ?	book_restaurant
+hey , do you know any restaurants near me in the city ?	book_restaurant
+Never mind , I'm all set . I even have the reference number for my reservation . Thanks for your help - goodbye !	book_restaurant
+Can you arrange for a taxi to pick me up at dojo noodle bar ?	find_taxi
+i actually need to arrive by 12 .	find_taxi
+I am going to rosa's bed and breakfast .	find_taxi
+that should be all , thanks .	NONE
+I'm looking for information on a hotel called warkworth house .	find_hotel
+Yes , that would be on Tuesday please .	book_hotel
+I'll be staying for 3 nights starting on tuesday .	book_hotel
+one guest for three nights	book_hotel
+Thank you , that's all I need .	NONE
+I am looking for a particular restaurant . Its name is called restaurant alimentum	find_restaurant
+Thanks a lot . That's all the information I'm looking for . Goodbye .	NONE
+I wasn't planning to stay in town tonight , but it looks like I'm going to have to . Can you help me find a pretty cheap room ?	find_hotel
+I am looking for a cheap place to stay including free parking	find_hotel
+How many stars does it have ? I'd like a cheap place in the west with 4 stars and free parking .	find_hotel
+Do they have internet there ?	find_hotel
+Sure you can book that for me , thank you !	NONE
+Actually , I'm not ready to book yet . I think I have the information I need , thank you !	NONE
+am looking for a place to dine it should be in the centre and should be in the expensive price range	find_restaurant
+Yes , I am looking for a restaurant that offers vegetarian options .	find_restaurant
+Yes , how about expensive turkish food in the centre of town ?	find_restaurant
+Yes , please reserve a table for 4 on Monday at 15 .	book_restaurant
+Okay , how about the same time for Saturday ?	book_restaurant
+Could you try another expensive Turkish restaurant in the centre ? I'd really like to dine on Monday .	book_restaurant
+For 4 people at 15 on either Monday or Saturday please .	book_restaurant
+Is the Meze Bar restaurant available for Saturday same time ?	book_restaurant
+Thanks , that's all I need . Good bye .	NONE
+I am looking for a restaurant that serves canapes in the east .	find_restaurant
+Ah , well , too bad . In that case I think that'll be everything that I needed . Thanks and have a good day !	find_restaurant
+How about italian food ?	find_restaurant
+Great ! Please book a table for 6 at 16 on Saturday	book_restaurant
+How about 15 then ?	book_restaurant
+Great . Thank you for your help today . That is all .	NONE
+Can you help me find a hotel called Alpha-Milton Guest House ?	find_hotel
+Can you book me a reservation for four people for four nights starting Monday ?	book_hotel
+Thank you very much for your help and have a great day .	NONE
+I would like to book a taxi to the stevenage train station leaving gourmet burger kitchen .	find_taxi
+It doesn't matter as long as I arrive by 02 .	find_taxi
+Thank you for your help . That is everything I need .	NONE
+Hi , I am looking for a train . Can you help me , please ?	find_train
+I need to go to bringham new street by 17	find_train
+I am traveling on sunday and need to arrive by 17 coming from cambridge	find_train
+Please give me their travel time and price of TR6908 .	find_train
+No , you have been great . Goodbye .	NONE
+I am at Ballare . I need a taxi to take me to Hobsons House .	find_taxi
+I need to get there by 17 .	find_taxi
+Thank you so much for your help , that's all I needed today .	NONE
+I'm curious about the 3-star lodging options available in Cambridge .	find_hotel
+Sure . Check only for hotels which include free parking also .	find_hotel
+Yes , please try 5-star hotels with free parking .	find_hotel
+try out 1 night then	book_hotel
+I want to stay at a 3 star hotel with free parking .	book_hotel
+The centre will be fine . Thank you .	book_hotel
+Ok , could you book it for 8 people starting Wednesday for 2 nights please .	book_hotel
+Yes , could you try for one night ?	book_hotel
+That's all I need . Thanks ever so much !	NONE
+I'm looking for a place to stay on the north side .	find_hotel
+I'm looking for one with 0 stars , please .	find_hotel
+One more thing , I'd also like the price range please .	find_hotel
+Thank you . I think that's all I need today .	NONE
+I need to find a guesthouse with a 3 star rating	find_hotel
+No , I don't . I want one that includes free wifi .	find_hotel
+Please book the Hamilton Lodge , for 6 people .	book_hotel
+I'll be staying 2 nights starting on wednesday . Oh , and there are 6 of us .	book_hotel
+Can you try the same parameters at another hotel ?	book_hotel
+The are does not matter , just three stars and wifi at a guesthouse please .	book_hotel
+Thank you so much ! That should be all I need .	NONE
+Find me an expensive hotel with free parking .	find_hotel
+No . As long as its in the type of hotel .	find_hotel
+Can I get the phone number for the Huntingdon Marriott , please ?	find_hotel
+No that's all I needed . Thank you !	NONE
+I'd like to find some expensive Mexican cuisine .	find_restaurant
+Sure that would be great .	find_restaurant
+Yes I would like it made for Wednesday for 7 people at 18 please .	book_restaurant
+That's great . Thank you very much .	NONE
+That's it for now . Thanks .	NONE
+Hello , I need to find a hotel with free wifi and free parking . Can you help me ?	find_hotel
+Can you find me a guesthouse that is expensive ?	find_hotel
+How about in the moderate price range ?	find_hotel
+Could you recommend one with free wifi and free parking in the moderate price range , and give me the star rating and phone number ?	find_hotel
+Thank you , that will be all . Goodbye .	NONE
+Can you book me a taxi from Avalon to De Luca Cucina and Bar ?	find_taxi
+I would like to arrive at De Luca by 07 . It doesn't matter when I leave .	find_taxi
+Thank you very much for you help today .	NONE
+I want a train from london liverpool street arriving at 9	find_train
+I want to leave on Thursday .	book_train
+I want to go to Cambridge , how much will that cost ?	book_train
+Yes , that sounds good . Thank you .	book_train
+Can you tell me how much the ticket is ?	book_train
+No , thanks . No need . I will do that later . Thank you for all the info . Have a nice day .	NONE
+I'm trying to find a cheap Asian restaurant to have dinner at tonight . What kind of options are available for me ?	find_restaurant
+Actually , can you suggest one of them . Can I get their contact info as well ?	find_restaurant
+No , that's ok , I can take it from here . Thank you for all your help .	NONE
+I'm looking for a specific restaurant . It's called india house . Can you help with this ?	find_restaurant
+Yes for 4 people at 16 on a Saturday . I will need a reference number as well .	book_restaurant
+I think that takes care of everything , thanks !	NONE
+Thank you . Have a great day !	NONE
+Konnichiwa , I am coming to town and will be staying a few days . I need a place in town centre that offers free parking . Can you help me ?	find_hotel
+I will take one of the cheap guesthouses please ?	find_hotel
+That sounds great . I'd like to book it for 2 people . We'll be arriving Tuesday and we'd like to stay for 5 nights please .	book_hotel
+No , that's all . Thank you .	NONE
+I'd like to book a taxi to the scott polar museum	find_taxi
+3 will be best pick up time thank you	find_taxi
+I will be picked up from london kings cross train station . I'll also need a contact phone number and a car type to expect .	find_taxi
+That's all I needed help with today . Thanks !	find_taxi
+Thank you , good bye .	NONE
+I'm looking for a restaurant called la margherita .	find_restaurant
+That's all I needed , thank you .	NONE
+I'm looking for an expensive hotel with free wifi .	find_hotel
+Not really on the area . But I would like an expensive guesthouse .	find_hotel
+Ok , well I guess a cheap one would work just as well . I need a place to stay . I would just still need free wifi .	find_hotel
+No I don't think so . Which one sounds the best ?	find_hotel
+Wait...is that a restaurant ? I want a guesthouse . I'm so confused .	find_hotel
+Oh , ok . Sure , go ahead and book 4 nights from Tuesday . There will be three of us .	book_hotel
+No . I need it for 4 nights . I try another time . Thanks .	book_hotel
+Could you look again for a place in the cheap range . Area does not matter .	book_hotel
+You don't have a cheap guesthouse ( any area ) with free wifi , for tuesday , 4 nights , 3 people ? Could you please check again ?	book_hotel
+No , that's everything I needed today , thank you .	book_hotel
+Hi ! What can you tell me about 4-star guesthouses in town ?	find_hotel
+Yes , I would like a guesthouse in the south part of town and it should include wifi .	find_hotel
+Yes , let's try Rosa's for 3 nights starting Friday . There will be 8 of us .	book_hotel
+That will be all , thank you so much .	NONE
+I'd like a train from Cambridge to Broxbourne , please .	find_train
+Yes . I would like to leave on Sunday after 20 .	find_train
+Yes and could I have the reference number after ?	book_train
+No thank you . Have a great day !	NONE
+I'm looking for the information on a restaurant called Saigon City , can you provide me with their info ?	find_restaurant
+Thanks ! That's all I needed .	NONE
+Let's go with the train first . I'm looking for one that leaves after 16 on saturday .	find_train
+I would like to leave cambridge to bishops stortford	find_train
+Yes , I'd like three tickets , please .	book_train
+No that will be all for now .	NONE
+Yes they have . Thanks .	NONE
+I would like to book a taxi to leave after 11 going to Arbury Lodge Guesthouse .	find_taxi
+from the gardenia	find_taxi
+Great ! Thank you for your help !	NONE
+No that will be all for today . Thank you !	NONE
+I need to get to michaelhouse cafe by 12 . Can you help me ?	find_taxi
+Yes , a taxi would be great . And I want to depart from williams art and antiques	find_taxi
+That will be just fine , thank you .	NONE
+No . Everything is great . Thank you .	NONE
+Hi there . I'll be coming into the centre of town to visit relatives . Can you help me find a place to stay ?	find_hotel
+I'd like it to be expensive . 4 star rated .	find_hotel
+Can you see if it's available for 4 nights from Wednesday for 5 people	book_hotel
+That's wonderful . What is the reference number for that booking ?	book_hotel
+I haven't the faintest . But do you have a reference number for the booking you made ?	book_hotel
+Thanks , that's all I need today !	NONE
+Hi , can you help me find a 4 star place to stay ?	find_hotel
+How about a place in the east side of town that is a hotel not a guesthouse	find_hotel
+Yes , can you please change the location to centre ?	find_hotel
+That will be fine . Can you book me a room for Saturday , please ?	book_hotel
+I'll be arriving Saturday and staying 3 nights . There are 3 of us .	book_hotel
+Sure , try for two days ?	book_hotel
+Is there another one in the Centre with that critera avaible ?	book_hotel
+I need the hotel for 3 nights starting on Saturday please .	book_hotel
+No , please continue the search .	book_hotel
+I am so sorry . Could you just change the number of people in my party to 5 and try again ?	book_hotel
+No that is all I need , thank you .	NONE
+Do you know of any 3 star hotels to stay in ?	find_hotel
+I would like for the hotel to be located in the south and include free wifi .	find_hotel
+Either is fine . Can you see if one of them might have a room on Wednesday for 3 people and 3 nights ?	book_hotel
+Can I have the address and phone number please ?	book_hotel
+Thanks so much !	NONE
+Do you have information about the hotel El Shaddai ?	find_hotel
+Sounds good . Can you book it for 3 nights checking in on Monday ? There will be 7 of us .	book_hotel
+Can we try one night ?	book_hotel
+That shall be all . Thanks !	NONE
+I am looking for a place to stay . The hotel should include free wifi and should be in the moderate price range	find_hotel
+No , but should come with free parking .	find_hotel
+Sure . please book for 1 person for 4 nights starting on friday .	book_hotel
+Can we try for it for wednesday instead ?	book_hotel
+That's all , thanks .	NONE
+Thanks again ! Good day to you !	NONE
+I need a train to take me from Cambridge to Broxbourne .	find_train
+I don't know . I want to get there at 08 though .	find_train
+I will be travelling on Monday .	find_train
+Yes that will be fine thank you . Can you tell me how long the journey will be and how much it will cost and when the train leaves ?	find_train
+What is the exact departure time please ?	find_train
+Can you book me a seat on the train please ?	book_train
+Actually , I am not ready to book quite yet . Thank you for all of your help . Have a nice day . Bye .	NONE
+I'm looking for a restaurant in the centre of town with a modest price range . Can you recommend one ?	find_restaurant
+That sounds great . Can I reserve a table for 4 at 20 on Wednesday ?	book_restaurant
+Okay let's try 19 instead .	book_restaurant
+That is wonderful . Thank you for your help . Have a great day .	NONE
+There is nothing else . Again , thank you . Goodbye .	NONE
+I'm looking for an attraction called Williams Art and Antiques .	find_attraction
+No thank you . Just the area and postcode please .	find_attraction
+No that's all I needed . Thank you !	find_attraction
+Good Evening , I am looking for a place to stay that includes free parking	find_hotel
+I'm not sure . I would prefer something moderately priced .	find_hotel
+Sounds good , I changed my mind about the internet , can you let me know if it has free wifi ?	find_hotel
+May I just get the phone number please ?	find_hotel
+You have met all my needs for today . Thank you !	NONE
+I need a taxi to go to saigon city and arrive by 11	find_taxi
+I will be departing from from Lovell Lodge .	find_taxi
+I'm looking for a train arriving at 13 , departing from cambridge .	find_train
+I need to leave Sunday to go to Ely .	find_train
+Yes can I get a ticket for 8 people please	book_train
+Great that's all that I needed today , thank you for all your help !	NONE
+NO thank you very much .	NONE
+Yes I am looking for an expensive restaurant in the South of town .	find_restaurant
+Sorry , Actually I need an expensive restaurant in the north . the first on your list would be great .	find_restaurant
+Sounds great , can you book a table for 5 at 18 ?	book_restaurant
+Actually , I won't be needing a reservation just yet . Could you verify the type of food Saigon City serves ?	book_restaurant
+Yes , could I get the restuarant's phone number and postcode ?	book_restaurant
+No , that's it . You've been very helpful , thank you !	NONE
+What restaurants in the centre serve international cuisine ?	find_restaurant
+How about a place in the moderate price range ?	find_restaurant
+OK , can you book a table for 6 at 12 on Tuesday at The Varsity Restaurant ? I will need a reference number too , please .	book_restaurant
+Thanks . Looking forward to it .	NONE
+No , that is all . Thank you .	NONE
+I am looking for a train from Cambridge to Birmingham New Street .	find_train
+I need a train that departs after 08 on Friday .	find_train
+Yes please , that sounds perfect .	find_train
+Actually , I don't need booking . Please just give me the train's travel time and price .	find_train
+No thank you . Not at this time .	NONE
+I am looking for a restaurant . The restaurant should be in the north and should serve italian food	find_restaurant
+Is that restaurant cheap ?	find_restaurant
+please get me the you get phone number and address	find_restaurant
+No thank you . I don't a reservation . That is all the info I need today .	NONE
+You , too . Thank you , goodbye now .	NONE
+Please help me book a taxi to nandos	find_taxi
+I'm leaving from riverboat georgina .	find_taxi
+I would like to leave after 09 .	find_taxi
+Thank you that is all I need .	NONE
+Do you have information on the alpha-milton guest house ?	find_hotel
+Thank you very much for your help , goodbye .	NONE
+I need to book a taxi to pick me up at Funky Fun House to go to Huntingdon Marriott Hotel .	find_taxi
+I prefer to leave after 09	find_taxi
+Great , thanks for your help !	NONE
+Not at this time . Thanks , though . Good bye .	NONE
+I am looking for a place to go !	find_attraction
+I like looking at the architecture of old buildings . I think it says a lot about how we used to live .	find_attraction
+What would you suggest ?	find_attraction
+The Holy Trinity Church sounds lovely . Can you give me their postcode , please ?	find_attraction
+No that will be all . Thanks .	NONE
+I need help finding an expensive place to eat in the west please .	find_restaurant
+Yes , I would like eat Indian food , where I can eat Search Chicken Tikka Masala .	find_restaurant
+I'd like to book the Rice Boat for 1 at 11 on Monday .	book_restaurant
+No , I think that covers it . Thanks so much for your help !	NONE
+Hi , I'm looking for a train departing from Stansted Airport . I'd like it to arrive at the destination by 9 .	find_train
+I need to leave on Thursday .	find_train
+Yes , I want to go to cambridge . Can you make a booking for 7 people and give me the reference number ?	book_train
+Yes , that's great can I get 7 tickets please ?	book_train
+I think that's all I needed . Thanks . Have a good night !	NONE
+Hi . I was wondering if there are any Eastern European type restaurants in the south part of the city ?	find_restaurant
+I'm looking for an expensive eastern european place in the south .	find_restaurant
+How about a Chinese restaurant ?	find_restaurant
+I would like a reservation for 2 to the peking restaurant .	book_restaurant
+I'd like to make a reservation for Saturday at 11 . And there has been a change in plans , I will be dining alone .	book_restaurant
+Can I get the reference number for that reservation ?	book_restaurant
+Excellent . That is everything !	book_restaurant
+Could you help me find a place for entertainment ? Something on the east side of town .	find_attraction
+Actually , can I get the address and postcode ?	find_attraction
+Can you tell me what the entrance fee is ?	find_attraction
+OK , then that's all I need today . Thank you for your help !	NONE
+I am looking for a place to stay . The hotel should be in the cheap price range and should be in the north	find_hotel
+I don't care as long as it's cheap .	find_hotel
+alright . book that one for me	find_hotel
+Yes , only one person . I will be arriving on Sunday , for one night .	book_hotel
+I don't need a booking after all , sorry . Are there any cheap guesthouses in the north with free wifi ?	book_hotel
+Please book a guesthouse . Can i also get the star rating and the postcode ?	book_hotel
+No , that will be all . Thank you for your assistance .	NONE
+I would like to go to an Indian restaurant in the north .	find_restaurant
+How about the moderate one ? May I have their address , please ?	find_restaurant
+No , that is all , thank you . Have a nice day .	find_restaurant
+I'm looking for a place to eat in the centre that serves chinese food .	find_restaurant
+I am not particular . how about moderate ? I will need their phone number , address and postcode please .	find_restaurant
+Wonderful , that's all I need to know . Thanks !	NONE
